@@ -1,0 +1,61 @@
+# Batch inference over the EPIC-KITCHENS-100 videos of the manifest on GitHub-hosted runners (CPU).
+# Each shard downloads its videos with the official EPIC scripts, runs the same pipeline as
+# ./run.sh, deletes each video, and uploads the JSONs as an artifact.
+name: epic-batch
+
+on:
+  workflow_dispatch:
+    inputs:
+      shards:
+        description: "number of parallel shards"
+        default: "20"
+      limit:
+        description: "max videos per shard (0 = all)"
+        default: "0"
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.m.outputs.matrix }}
+    steps:
+      - id: m
+        run: echo "matrix=$(python3 -c "import json;print(json.dumps(list(range(${{ inputs.shards }}))))")" >> "$GITHUB_OUTPUT"
+
+  run:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJson(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q torch==2.11.0 torchvision==0.26.0 --index-url https://download.pytorch.org/whl/cpu
+          pip install -q numpy==2.5.4 open_clip_torch==4.2.2 timm==1.0.31 av==19.0.2 imageio-ffmpeg==0.8.1
+      - name: Cache CLIP weights
+        uses: actions/cache@v4
+        with:
+          path: weights/hf
+          key: clip-vitb32-laion2b
+      - name: Run shard
+        env:
+          HF_HOME: ${{ github.workspace }}/weights/hf
+        run: |
+          sudo mkdir -p /mnt/epic && sudo chown "$USER" /mnt/epic
+          python kaggle/run_epic.py --shard ${{ matrix.shard }}/${{ inputs.shards }} \
+            --limit ${{ inputs.limit }} --out "$PWD/run/outputs" --work /mnt/epic --scripts "$RUNNER_TEMP/dl"
+      - name: Upload
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: epic-shard-${{ matrix.shard }}
+          path: run/
+          if-no-files-found: warn

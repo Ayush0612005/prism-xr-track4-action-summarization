@@ -30,6 +30,19 @@ def epic_ids(manifest):
         return [r["video_id"] for r in csv.DictReader(f) if r["dataset"] == "epic_kitchens_100"]
 
 
+def shard_ids(manifest, k, n):
+    """Longest-first greedy split of the EPIC ids into n shards of similar total duration."""
+    with open(manifest, newline="") as f:
+        rows = [(float(r["duration_sec"]), r["video_id"]) for r in csv.DictReader(f)
+                if r["dataset"] == "epic_kitchens_100"]
+    load, assign = [0.0] * n, [[] for _ in range(n)]
+    for d, vid in sorted(rows, reverse=True):
+        j = load.index(min(load))
+        load[j] += d
+        assign[j].append(vid)
+    return assign[k]
+
+
 def download(vid, scripts, work, log):
     dest = os.path.join(work, vid)
     for attempt in (1, 2):
@@ -54,7 +67,7 @@ def main():
     ap.add_argument("--work", default="/tmp/epic")
     ap.add_argument("--scripts", default="/tmp/epic-kitchens-download-scripts")
     ap.add_argument("--manifest", default=os.path.join(ROOT, "data", "manifest.csv"))
-    ap.add_argument("--shard", default="0/1", help="k/n: process every n-th id starting at k")
+    ap.add_argument("--shard", default="0/1", help="k/n: shard k of n (duration-balanced)")
     ap.add_argument("--resume-from", default=None, help="dir with JSONs from an earlier session")
     ap.add_argument("--limit", type=int, default=0)
     a = ap.parse_args()
@@ -79,7 +92,7 @@ def main():
                         "https://github.com/epic-kitchens/epic-kitchens-download-scripts", a.scripts], check=True)
 
     k, n = (int(x) for x in a.shard.split("/"))
-    ids = [v for i, v in enumerate(epic_ids(a.manifest)) if i % n == k]
+    ids = shard_ids(a.manifest, k, n)
     todo = [v for v in ids if not os.path.exists(os.path.join(a.out, f"{v}.json"))]
     if a.limit:
         todo = todo[: a.limit]
