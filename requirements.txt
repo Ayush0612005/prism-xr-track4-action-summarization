@@ -1,0 +1,10 @@
+# Tested with Python 3.11 (Docker/Kaggle) and 3.14 (Windows). CUDA wheels: --index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0
+torchvision==0.26.0
+numpy==2.5.4
+open_clip_torch==4.2.2
+timm==1.0.31
+av==19.0.2
+imageio-ffmpeg==0.8.1
+# data download only
+yt-dlp==2026.10.26
