@@ -1,0 +1,2 @@
+﻿2026-11-21 22:40	Scuba_KD74Ywuy9ng	download failed: YouTube reports 'Private video' (yt-dlp 2026.10.26, two attempts)
+2026-11-21 22:40	Scuba_Um4kqB8bQBg	download failed: YouTube reports 'This video is not available' (yt-dlp 2026.10.26, two attempts)

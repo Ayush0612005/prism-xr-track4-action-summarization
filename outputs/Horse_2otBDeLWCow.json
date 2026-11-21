@@ -1,0 +1,10381 @@
+{
+ "team_id": "Toothpaste Eater",
+ "video_id": "Horse_2otBDeLWCow",
+ "duration_sec": 248.18,
+ "label": {
+  "name": "horse",
+  "score": 0.9984
+ },
+ "actions": [
+  {
+   "segment": [
+    165.0,
+    167.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.5375
+  },
+  {
+   "segment": [
+    173.0,
+    177.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.4104
+  },
+  {
+   "segment": [
+    175.0,
+    179.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.4011
+  },
+  {
+   "segment": [
+    211.0,
+    215.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.2998
+  },
+  {
+   "segment": [
+    166.0,
+    168.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.2958
+  },
+  {
+   "segment": [
+    244.0,
+    248.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.2852
+  },
+  {
+   "segment": [
+    208.0,
+    210.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.2844
+  },
+  {
+   "segment": [
+    169.0,
+    171.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.2639
+  },
+  {
+   "segment": [
+    222.0,
+    224.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.2615
+  },
+  {
+   "segment": [
+    210.0,
+    214.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.2498
+  },
+  {
+   "segment": [
+    246.0,
+    248.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.2452
+  },
+  {
+   "segment": [
+    9.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.2428
+  },
+  {
+   "segment": [
+    217.0,
+    219.0
+   ],
+   "verb": "wash",
+   "noun": "hand",
+   "score": 0.2372
+  },
+  {
+   "segment": [
+    168.0,
+    170.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.2331
+  },
+  {
+   "segment": [
+    177.0,
+    179.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.2313
+  },
+  {
+   "segment": [
+    177.0,
+    181.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.2292
+  },
+  {
+   "segment": [
+    172.0,
+    174.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.2267
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.2225
+  },
+  {
+   "segment": [
+    176.0,
+    180.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.2112
+  },
+  {
+   "segment": [
+    136.0,
+    138.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.2081
+  },
+  {
+   "segment": [
+    151.0,
+    153.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.2071
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.2022
+  },
+  {
+   "segment": [
+    222.0,
+    224.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.2005
+  },
+  {
+   "segment": [
+    218.0,
+    220.0
+   ],
+   "verb": "wash",
+   "noun": "hand",
+   "score": 0.1953
+  },
+  {
+   "segment": [
+    185.0,
+    187.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.1918
+  },
+  {
+   "segment": [
+    221.0,
+    223.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.1854
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.1842
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.1837
+  },
+  {
+   "segment": [
+    181.0,
+    189.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.1819
+  },
+  {
+   "segment": [
+    216.0,
+    218.0
+   ],
+   "verb": "wash",
+   "noun": "hand",
+   "score": 0.1815
+  },
+  {
+   "segment": [
+    166.0,
+    168.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.1794
+  },
+  {
+   "segment": [
+    8.0,
+    12.0
+   ],
+   "verb": "insert",
+   "noun": "clothes",
+   "score": 0.178
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.1742
+  },
+  {
+   "segment": [
+    95.0,
+    103.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.1689
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.1665
+  },
+  {
+   "segment": [
+    166.0,
+    170.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.1647
+  },
+  {
+   "segment": [
+    223.0,
+    225.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.1606
+  },
+  {
+   "segment": [
+    174.0,
+    178.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.1569
+  },
+  {
+   "segment": [
+    76.0,
+    84.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.1553
+  },
+  {
+   "segment": [
+    151.0,
+    153.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.1539
+  },
+  {
+   "segment": [
+    180.0,
+    188.0
+   ],
+   "verb": "insert",
+   "noun": "salad",
+   "score": 0.1536
+  },
+  {
+   "segment": [
+    184.0,
+    186.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.1529
+  },
+  {
+   "segment": [
+    244.0,
+    246.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.1511
+  },
+  {
+   "segment": [
+    165.0,
+    167.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.1475
+  },
+  {
+   "segment": [
+    90.0,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.1475
+  },
+  {
+   "segment": [
+    86.0,
+    94.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.1473
+  },
+  {
+   "segment": [
+    162.0,
+    170.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.1411
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.1408
+  },
+  {
+   "segment": [
+    55.0,
+    59.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.1401
+  },
+  {
+   "segment": [
+    160.0,
+    168.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.1398
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.1397
+  },
+  {
+   "segment": [
+    223.0,
+    225.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.1379
+  },
+  {
+   "segment": [
+    145.0,
+    153.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.1362
+  },
+  {
+   "segment": [
+    73.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.1355
+  },
+  {
+   "segment": [
+    200.0,
+    202.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.1335
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.1333
+  },
+  {
+   "segment": [
+    216.0,
+    218.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.1297
+  },
+  {
+   "segment": [
+    172.0,
+    174.0
+   ],
+   "verb": "insert",
+   "noun": "onion",
+   "score": 0.1262
+  },
+  {
+   "segment": [
+    88.0,
+    96.0
+   ],
+   "verb": "dry",
+   "noun": "cloth",
+   "score": 0.1256
+  },
+  {
+   "segment": [
+    245.0,
+    247.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.1256
+  },
+  {
+   "segment": [
+    168.0,
+    176.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.1249
+  },
+  {
+   "segment": [
+    136.0,
+    140.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.124
+  },
+  {
+   "segment": [
+    162.0,
+    164.0
+   ],
+   "verb": "insert",
+   "noun": "onion",
+   "score": 0.1221
+  },
+  {
+   "segment": [
+    215.0,
+    223.0
+   ],
+   "verb": "wash",
+   "noun": "hand",
+   "score": 0.1216
+  },
+  {
+   "segment": [
+    93.0,
+    101.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.1207
+  },
+  {
+   "segment": [
+    163.0,
+    165.0
+   ],
+   "verb": "insert",
+   "noun": "onion",
+   "score": 0.1205
+  },
+  {
+   "segment": [
+    173.0,
+    177.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.1199
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.1197
+  },
+  {
+   "segment": [
+    183.0,
+    185.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.1187
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.1186
+  },
+  {
+   "segment": [
+    14.0,
+    22.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.1184
+  },
+  {
+   "segment": [
+    52.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.116
+  },
+  {
+   "segment": [
+    171.0,
+    173.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.1154
+  },
+  {
+   "segment": [
+    200.0,
+    202.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.1151
+  },
+  {
+   "segment": [
+    76.0,
+    84.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.1131
+  },
+  {
+   "segment": [
+    179.0,
+    181.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.1129
+  },
+  {
+   "segment": [
+    245.0,
+    247.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.1121
+  },
+  {
+   "segment": [
+    106.0,
+    110.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.1119
+  },
+  {
+   "segment": [
+    100.0,
+    104.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.1118
+  },
+  {
+   "segment": [
+    220.0,
+    222.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.1113
+  },
+  {
+   "segment": [
+    194.0,
+    202.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.1108
+  },
+  {
+   "segment": [
+    9.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.1103
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.1072
+  },
+  {
+   "segment": [
+    183.0,
+    185.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.1068
+  },
+  {
+   "segment": [
+    135.0,
+    137.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.1062
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.1061
+  },
+  {
+   "segment": [
+    97.0,
+    105.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.1049
+  },
+  {
+   "segment": [
+    138.0,
+    146.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.104
+  },
+  {
+   "segment": [
+    205.0,
+    207.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.1038
+  },
+  {
+   "segment": [
+    213.0,
+    221.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.1035
+  },
+  {
+   "segment": [
+    224.0,
+    226.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.1034
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "remove",
+   "noun": "clothes",
+   "score": 0.1027
+  },
+  {
+   "segment": [
+    208.0,
+    210.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.101
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "clothes",
+   "score": 0.1007
+  },
+  {
+   "segment": [
+    171.0,
+    175.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.1006
+  },
+  {
+   "segment": [
+    143.0,
+    151.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.1005
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "dry",
+   "noun": "cloth",
+   "score": 0.1005
+  },
+  {
+   "segment": [
+    182.0,
+    184.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.1001
+  },
+  {
+   "segment": [
+    165.0,
+    173.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0995
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0995
+  },
+  {
+   "segment": [
+    123.0,
+    127.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0994
+  },
+  {
+   "segment": [
+    215.0,
+    219.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0984
+  },
+  {
+   "segment": [
+    102.0,
+    106.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.098
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0977
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0972
+  },
+  {
+   "segment": [
+    86.0,
+    90.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0971
+  },
+  {
+   "segment": [
+    205.0,
+    207.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0971
+  },
+  {
+   "segment": [
+    105.0,
+    109.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0967
+  },
+  {
+   "segment": [
+    209.0,
+    217.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0952
+  },
+  {
+   "segment": [
+    159.0,
+    161.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0946
+  },
+  {
+   "segment": [
+    239.0,
+    247.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0942
+  },
+  {
+   "segment": [
+    215.0,
+    217.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0941
+  },
+  {
+   "segment": [
+    238.0,
+    246.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.094
+  },
+  {
+   "segment": [
+    183.0,
+    185.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0939
+  },
+  {
+   "segment": [
+    105.0,
+    109.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0934
+  },
+  {
+   "segment": [
+    162.0,
+    170.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0932
+  },
+  {
+   "segment": [
+    208.0,
+    210.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.0931
+  },
+  {
+   "segment": [
+    9.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0929
+  },
+  {
+   "segment": [
+    168.0,
+    170.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0927
+  },
+  {
+   "segment": [
+    225.0,
+    227.0
+   ],
+   "verb": "dry",
+   "noun": "apron",
+   "score": 0.0923
+  },
+  {
+   "segment": [
+    139.0,
+    147.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0912
+  },
+  {
+   "segment": [
+    174.0,
+    182.0
+   ],
+   "verb": "insert",
+   "noun": "salad",
+   "score": 0.0909
+  },
+  {
+   "segment": [
+    212.0,
+    220.0
+   ],
+   "verb": "wash",
+   "noun": "hand",
+   "score": 0.0905
+  },
+  {
+   "segment": [
+    68.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0897
+  },
+  {
+   "segment": [
+    135.0,
+    137.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.0894
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0887
+  },
+  {
+   "segment": [
+    62.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0882
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.087
+  },
+  {
+   "segment": [
+    204.0,
+    206.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.087
+  },
+  {
+   "segment": [
+    110.0,
+    118.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0867
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0861
+  },
+  {
+   "segment": [
+    180.0,
+    182.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0858
+  },
+  {
+   "segment": [
+    178.0,
+    186.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0858
+  },
+  {
+   "segment": [
+    186.0,
+    188.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0856
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "pot",
+   "score": 0.0855
+  },
+  {
+   "segment": [
+    8.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "clothes",
+   "score": 0.0851
+  },
+  {
+   "segment": [
+    213.0,
+    215.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0849
+  },
+  {
+   "segment": [
+    10.0,
+    18.0
+   ],
+   "verb": "dry",
+   "noun": "bag",
+   "score": 0.084
+  },
+  {
+   "segment": [
+    75.0,
+    79.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.084
+  },
+  {
+   "segment": [
+    209.0,
+    211.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0838
+  },
+  {
+   "segment": [
+    94.0,
+    98.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0837
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0832
+  },
+  {
+   "segment": [
+    136.0,
+    138.0
+   ],
+   "verb": "wash",
+   "noun": "pot",
+   "score": 0.0828
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0824
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0811
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0811
+  },
+  {
+   "segment": [
+    219.0,
+    221.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.0806
+  },
+  {
+   "segment": [
+    215.0,
+    217.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.0805
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.0805
+  },
+  {
+   "segment": [
+    86.0,
+    90.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0802
+  },
+  {
+   "segment": [
+    184.0,
+    188.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0793
+  },
+  {
+   "segment": [
+    130.0,
+    134.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0792
+  },
+  {
+   "segment": [
+    182.0,
+    184.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0792
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.079
+  },
+  {
+   "segment": [
+    56.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0787
+  },
+  {
+   "segment": [
+    169.0,
+    171.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.0786
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0785
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0784
+  },
+  {
+   "segment": [
+    226.0,
+    230.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0783
+  },
+  {
+   "segment": [
+    192.0,
+    200.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0781
+  },
+  {
+   "segment": [
+    144.0,
+    146.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0775
+  },
+  {
+   "segment": [
+    69.0,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0775
+  },
+  {
+   "segment": [
+    184.0,
+    192.0
+   ],
+   "verb": "insert",
+   "noun": "bin",
+   "score": 0.0773
+  },
+  {
+   "segment": [
+    192.0,
+    200.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0766
+  },
+  {
+   "segment": [
+    217.0,
+    219.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0764
+  },
+  {
+   "segment": [
+    244.0,
+    246.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0763
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0762
+  },
+  {
+   "segment": [
+    178.0,
+    182.0
+   ],
+   "verb": "insert",
+   "noun": "onion",
+   "score": 0.0761
+  },
+  {
+   "segment": [
+    70.0,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.076
+  },
+  {
+   "segment": [
+    130.0,
+    134.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0759
+  },
+  {
+   "segment": [
+    14.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0759
+  },
+  {
+   "segment": [
+    177.0,
+    185.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0757
+  },
+  {
+   "segment": [
+    172.0,
+    176.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0753
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.075
+  },
+  {
+   "segment": [
+    186.0,
+    188.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0749
+  },
+  {
+   "segment": [
+    84.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0745
+  },
+  {
+   "segment": [
+    225.0,
+    227.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.0744
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0743
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "dry",
+   "noun": "cloth",
+   "score": 0.0742
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0742
+  },
+  {
+   "segment": [
+    243.0,
+    245.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0737
+  },
+  {
+   "segment": [
+    73.0,
+    81.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0737
+  },
+  {
+   "segment": [
+    69.0,
+    77.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0736
+  },
+  {
+   "segment": [
+    214.0,
+    218.0
+   ],
+   "verb": "open",
+   "noun": "liquid:washing",
+   "score": 0.0733
+  },
+  {
+   "segment": [
+    119.0,
+    121.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.0731
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0725
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "wash",
+   "noun": "board:chopping",
+   "score": 0.0719
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0717
+  },
+  {
+   "segment": [
+    210.0,
+    212.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0714
+  },
+  {
+   "segment": [
+    102.0,
+    106.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.0711
+  },
+  {
+   "segment": [
+    205.0,
+    207.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.071
+  },
+  {
+   "segment": [
+    89.0,
+    97.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.071
+  },
+  {
+   "segment": [
+    167.0,
+    169.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.071
+  },
+  {
+   "segment": [
+    182.0,
+    184.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.071
+  },
+  {
+   "segment": [
+    212.0,
+    216.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0709
+  },
+  {
+   "segment": [
+    169.0,
+    173.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0707
+  },
+  {
+   "segment": [
+    107.0,
+    115.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0706
+  },
+  {
+   "segment": [
+    70.0,
+    74.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.07
+  },
+  {
+   "segment": [
+    169.0,
+    171.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.0699
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.0699
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "dry",
+   "noun": "cloth",
+   "score": 0.0698
+  },
+  {
+   "segment": [
+    232.0,
+    240.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0695
+  },
+  {
+   "segment": [
+    202.0,
+    210.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0691
+  },
+  {
+   "segment": [
+    49.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0688
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "wash",
+   "noun": "bin",
+   "score": 0.0687
+  },
+  {
+   "segment": [
+    71.0,
+    75.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0687
+  },
+  {
+   "segment": [
+    86.0,
+    94.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0685
+  },
+  {
+   "segment": [
+    181.0,
+    189.0
+   ],
+   "verb": "insert",
+   "noun": "bin",
+   "score": 0.0682
+  },
+  {
+   "segment": [
+    148.0,
+    156.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0682
+  },
+  {
+   "segment": [
+    226.0,
+    228.0
+   ],
+   "verb": "insert",
+   "noun": "apron",
+   "score": 0.068
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0677
+  },
+  {
+   "segment": [
+    135.0,
+    137.0
+   ],
+   "verb": "wash",
+   "noun": "bin",
+   "score": 0.0675
+  },
+  {
+   "segment": [
+    188.0,
+    190.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0673
+  },
+  {
+   "segment": [
+    185.0,
+    187.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.066
+  },
+  {
+   "segment": [
+    145.0,
+    147.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0659
+  },
+  {
+   "segment": [
+    212.0,
+    214.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0657
+  },
+  {
+   "segment": [
+    204.0,
+    206.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0656
+  },
+  {
+   "segment": [
+    145.0,
+    153.0
+   ],
+   "verb": "take",
+   "noun": "napkin",
+   "score": 0.0656
+  },
+  {
+   "segment": [
+    211.0,
+    213.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0656
+  },
+  {
+   "segment": [
+    204.0,
+    206.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.0649
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0645
+  },
+  {
+   "segment": [
+    88.0,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0645
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0642
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "wash",
+   "noun": "mat",
+   "score": 0.0642
+  },
+  {
+   "segment": [
+    55.0,
+    59.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.0641
+  },
+  {
+   "segment": [
+    68.0,
+    72.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0641
+  },
+  {
+   "segment": [
+    137.0,
+    139.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0641
+  },
+  {
+   "segment": [
+    121.0,
+    125.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0638
+  },
+  {
+   "segment": [
+    115.0,
+    119.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0637
+  },
+  {
+   "segment": [
+    175.0,
+    177.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.0637
+  },
+  {
+   "segment": [
+    130.0,
+    132.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.0633
+  },
+  {
+   "segment": [
+    200.0,
+    204.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0633
+  },
+  {
+   "segment": [
+    94.0,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "towel",
+   "score": 0.0631
+  },
+  {
+   "segment": [
+    58.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0629
+  },
+  {
+   "segment": [
+    144.0,
+    146.0
+   ],
+   "verb": "take",
+   "noun": "napkin",
+   "score": 0.0628
+  },
+  {
+   "segment": [
+    224.0,
+    226.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0627
+  },
+  {
+   "segment": [
+    222.0,
+    226.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0626
+  },
+  {
+   "segment": [
+    68.0,
+    72.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0626
+  },
+  {
+   "segment": [
+    90.0,
+    94.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0626
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0624
+  },
+  {
+   "segment": [
+    129.0,
+    137.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0623
+  },
+  {
+   "segment": [
+    235.0,
+    237.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0622
+  },
+  {
+   "segment": [
+    110.0,
+    114.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0621
+  },
+  {
+   "segment": [
+    225.0,
+    229.0
+   ],
+   "verb": "dry",
+   "noun": "bag",
+   "score": 0.0618
+  },
+  {
+   "segment": [
+    184.0,
+    186.0
+   ],
+   "verb": "insert",
+   "noun": "onion",
+   "score": 0.0618
+  },
+  {
+   "segment": [
+    53.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0617
+  },
+  {
+   "segment": [
+    5.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0616
+  },
+  {
+   "segment": [
+    166.0,
+    170.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0616
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0615
+  },
+  {
+   "segment": [
+    191.0,
+    195.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0615
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0615
+  },
+  {
+   "segment": [
+    52.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0614
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0614
+  },
+  {
+   "segment": [
+    191.0,
+    195.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0613
+  },
+  {
+   "segment": [
+    202.0,
+    210.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0612
+  },
+  {
+   "segment": [
+    170.0,
+    172.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0612
+  },
+  {
+   "segment": [
+    222.0,
+    226.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.0612
+  },
+  {
+   "segment": [
+    81.0,
+    89.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0607
+  },
+  {
+   "segment": [
+    209.0,
+    211.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0606
+  },
+  {
+   "segment": [
+    161.0,
+    163.0
+   ],
+   "verb": "insert",
+   "noun": "onion",
+   "score": 0.0602
+  },
+  {
+   "segment": [
+    210.0,
+    218.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    133.0,
+    141.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0598
+  },
+  {
+   "segment": [
+    123.0,
+    127.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0594
+  },
+  {
+   "segment": [
+    184.0,
+    192.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0593
+  },
+  {
+   "segment": [
+    98.0,
+    106.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0591
+  },
+  {
+   "segment": [
+    180.0,
+    182.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.059
+  },
+  {
+   "segment": [
+    210.0,
+    212.0
+   ],
+   "verb": "open",
+   "noun": "sink",
+   "score": 0.0589
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.0584
+  },
+  {
+   "segment": [
+    235.0,
+    243.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0583
+  },
+  {
+   "segment": [
+    216.0,
+    220.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0582
+  },
+  {
+   "segment": [
+    171.0,
+    173.0
+   ],
+   "verb": "insert",
+   "noun": "onion",
+   "score": 0.058
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.058
+  },
+  {
+   "segment": [
+    201.0,
+    205.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.058
+  },
+  {
+   "segment": [
+    52.0,
+    56.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0579
+  },
+  {
+   "segment": [
+    212.0,
+    216.0
+   ],
+   "verb": "open",
+   "noun": "liquid:washing",
+   "score": 0.0576
+  },
+  {
+   "segment": [
+    5.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0573
+  },
+  {
+   "segment": [
+    148.0,
+    150.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0572
+  },
+  {
+   "segment": [
+    50.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0572
+  },
+  {
+   "segment": [
+    246.0,
+    248.0
+   ],
+   "verb": "insert",
+   "noun": "clothes",
+   "score": 0.0571
+  },
+  {
+   "segment": [
+    215.0,
+    217.0
+   ],
+   "verb": "wash",
+   "noun": "hand",
+   "score": 0.0571
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.0569
+  },
+  {
+   "segment": [
+    177.0,
+    185.0
+   ],
+   "verb": "insert",
+   "noun": "salad",
+   "score": 0.0569
+  },
+  {
+   "segment": [
+    120.0,
+    128.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0568
+  },
+  {
+   "segment": [
+    129.0,
+    137.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0567
+  },
+  {
+   "segment": [
+    81.0,
+    89.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0566
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "dry",
+   "noun": "cloth",
+   "score": 0.0564
+  },
+  {
+   "segment": [
+    212.0,
+    214.0
+   ],
+   "verb": "open",
+   "noun": "sink",
+   "score": 0.0564
+  },
+  {
+   "segment": [
+    219.0,
+    221.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0562
+  },
+  {
+   "segment": [
+    234.0,
+    236.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0559
+  },
+  {
+   "segment": [
+    136.0,
+    138.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0556
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "take",
+   "noun": "pot",
+   "score": 0.0556
+  },
+  {
+   "segment": [
+    147.0,
+    149.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0553
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0551
+  },
+  {
+   "segment": [
+    167.0,
+    169.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0551
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.055
+  },
+  {
+   "segment": [
+    107.0,
+    111.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0546
+  },
+  {
+   "segment": [
+    110.0,
+    112.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.0546
+  },
+  {
+   "segment": [
+    107.0,
+    115.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0546
+  },
+  {
+   "segment": [
+    100.0,
+    102.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0545
+  },
+  {
+   "segment": [
+    224.0,
+    226.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0545
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0543
+  },
+  {
+   "segment": [
+    227.0,
+    229.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0543
+  },
+  {
+   "segment": [
+    213.0,
+    215.0
+   ],
+   "verb": "wash",
+   "noun": "hand",
+   "score": 0.0542
+  },
+  {
+   "segment": [
+    185.0,
+    187.0
+   ],
+   "verb": "insert",
+   "noun": "ginger",
+   "score": 0.0541
+  },
+  {
+   "segment": [
+    233.0,
+    235.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0541
+  },
+  {
+   "segment": [
+    166.0,
+    168.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.0539
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.0538
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "dry",
+   "noun": "bag",
+   "score": 0.0537
+  },
+  {
+   "segment": [
+    29.0,
+    33.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0537
+  },
+  {
+   "segment": [
+    193.0,
+    195.0
+   ],
+   "verb": "throw",
+   "noun": "bin",
+   "score": 0.0537
+  },
+  {
+   "segment": [
+    226.0,
+    230.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.0536
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0535
+  },
+  {
+   "segment": [
+    158.0,
+    162.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.0534
+  },
+  {
+   "segment": [
+    151.0,
+    159.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0532
+  },
+  {
+   "segment": [
+    170.0,
+    174.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0531
+  },
+  {
+   "segment": [
+    128.0,
+    132.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0531
+  },
+  {
+   "segment": [
+    76.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.053
+  },
+  {
+   "segment": [
+    209.0,
+    211.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.053
+  },
+  {
+   "segment": [
+    195.0,
+    203.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0529
+  },
+  {
+   "segment": [
+    100.0,
+    102.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0528
+  },
+  {
+   "segment": [
+    139.0,
+    141.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.0527
+  },
+  {
+   "segment": [
+    167.0,
+    171.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.0527
+  },
+  {
+   "segment": [
+    224.0,
+    228.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0525
+  },
+  {
+   "segment": [
+    146.0,
+    154.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0522
+  },
+  {
+   "segment": [
+    214.0,
+    216.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0522
+  },
+  {
+   "segment": [
+    220.0,
+    222.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0522
+  },
+  {
+   "segment": [
+    214.0,
+    216.0
+   ],
+   "verb": "open",
+   "noun": "sink",
+   "score": 0.0516
+  },
+  {
+   "segment": [
+    55.0,
+    59.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0513
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0513
+  },
+  {
+   "segment": [
+    180.0,
+    182.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0513
+  },
+  {
+   "segment": [
+    80.0,
+    84.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0513
+  },
+  {
+   "segment": [
+    148.0,
+    150.0
+   ],
+   "verb": "take",
+   "noun": "towel",
+   "score": 0.0509
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0508
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0507
+  },
+  {
+   "segment": [
+    193.0,
+    195.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0506
+  },
+  {
+   "segment": [
+    86.0,
+    90.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0506
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0505
+  },
+  {
+   "segment": [
+    226.0,
+    228.0
+   ],
+   "verb": "put",
+   "noun": "apron",
+   "score": 0.0503
+  },
+  {
+   "segment": [
+    242.0,
+    246.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0502
+  },
+  {
+   "segment": [
+    179.0,
+    181.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.0501
+  },
+  {
+   "segment": [
+    72.0,
+    76.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.05
+  },
+  {
+   "segment": [
+    136.0,
+    144.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0497
+  },
+  {
+   "segment": [
+    17.0,
+    21.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0496
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "dry",
+   "noun": "knife",
+   "score": 0.0496
+  },
+  {
+   "segment": [
+    52.0,
+    56.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0496
+  },
+  {
+   "segment": [
+    114.0,
+    118.0
+   ],
+   "verb": "close",
+   "noun": "tap",
+   "score": 0.0494
+  },
+  {
+   "segment": [
+    162.0,
+    164.0
+   ],
+   "verb": "cut",
+   "noun": "onion",
+   "score": 0.0493
+  },
+  {
+   "segment": [
+    232.0,
+    236.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.0493
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0492
+  },
+  {
+   "segment": [
+    218.0,
+    226.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.049
+  },
+  {
+   "segment": [
+    142.0,
+    144.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0489
+  },
+  {
+   "segment": [
+    208.0,
+    216.0
+   ],
+   "verb": "open",
+   "noun": "sink",
+   "score": 0.0489
+  },
+  {
+   "segment": [
+    62.0,
+    70.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0489
+  },
+  {
+   "segment": [
+    187.0,
+    195.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0487
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.0487
+  },
+  {
+   "segment": [
+    6.0,
+    14.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0486
+  },
+  {
+   "segment": [
+    129.0,
+    137.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0485
+  },
+  {
+   "segment": [
+    28.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0485
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0485
+  },
+  {
+   "segment": [
+    137.0,
+    139.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.0484
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0483
+  },
+  {
+   "segment": [
+    218.0,
+    220.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0482
+  },
+  {
+   "segment": [
+    95.0,
+    99.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.0482
+  },
+  {
+   "segment": [
+    207.0,
+    209.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0482
+  },
+  {
+   "segment": [
+    77.0,
+    81.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.048
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.048
+  },
+  {
+   "segment": [
+    221.0,
+    223.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.048
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "dry",
+   "noun": "pot",
+   "score": 0.0479
+  },
+  {
+   "segment": [
+    227.0,
+    229.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.0477
+  },
+  {
+   "segment": [
+    107.0,
+    111.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.0474
+  },
+  {
+   "segment": [
+    54.0,
+    58.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0474
+  },
+  {
+   "segment": [
+    25.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0474
+  },
+  {
+   "segment": [
+    89.0,
+    93.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0473
+  },
+  {
+   "segment": [
+    95.0,
+    99.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0472
+  },
+  {
+   "segment": [
+    219.0,
+    221.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0472
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "insert",
+   "noun": "onion",
+   "score": 0.0471
+  },
+  {
+   "segment": [
+    43.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0471
+  },
+  {
+   "segment": [
+    229.0,
+    231.0
+   ],
+   "verb": "remove",
+   "noun": "apron",
+   "score": 0.047
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.047
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0469
+  },
+  {
+   "segment": [
+    160.0,
+    168.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0468
+  },
+  {
+   "segment": [
+    221.0,
+    223.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0467
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "dry",
+   "noun": "cloth",
+   "score": 0.0466
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0465
+  },
+  {
+   "segment": [
+    110.0,
+    112.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0465
+  },
+  {
+   "segment": [
+    192.0,
+    194.0
+   ],
+   "verb": "throw",
+   "noun": "bin",
+   "score": 0.0465
+  },
+  {
+   "segment": [
+    128.0,
+    132.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0465
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0464
+  },
+  {
+   "segment": [
+    77.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0464
+  },
+  {
+   "segment": [
+    218.0,
+    226.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0464
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.0463
+  },
+  {
+   "segment": [
+    61.0,
+    69.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0462
+  },
+  {
+   "segment": [
+    240.0,
+    248.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.046
+  },
+  {
+   "segment": [
+    159.0,
+    161.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0459
+  },
+  {
+   "segment": [
+    184.0,
+    186.0
+   ],
+   "verb": "insert",
+   "noun": "ginger",
+   "score": 0.0459
+  },
+  {
+   "segment": [
+    148.0,
+    152.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0458
+  },
+  {
+   "segment": [
+    163.0,
+    165.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0457
+  },
+  {
+   "segment": [
+    123.0,
+    131.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0457
+  },
+  {
+   "segment": [
+    90.0,
+    94.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0456
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "dry",
+   "noun": "bag",
+   "score": 0.0455
+  },
+  {
+   "segment": [
+    202.0,
+    206.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.0454
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "dry",
+   "noun": "cloth",
+   "score": 0.0452
+  },
+  {
+   "segment": [
+    233.0,
+    235.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0452
+  },
+  {
+   "segment": [
+    184.0,
+    192.0
+   ],
+   "verb": "insert",
+   "noun": "onion",
+   "score": 0.0451
+  },
+  {
+   "segment": [
+    83.0,
+    91.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0451
+  },
+  {
+   "segment": [
+    235.0,
+    237.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.045
+  },
+  {
+   "segment": [
+    46.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.045
+  },
+  {
+   "segment": [
+    90.0,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.045
+  },
+  {
+   "segment": [
+    145.0,
+    147.0
+   ],
+   "verb": "take",
+   "noun": "napkin",
+   "score": 0.045
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.045
+  },
+  {
+   "segment": [
+    151.0,
+    153.0
+   ],
+   "verb": "open",
+   "noun": "napkin",
+   "score": 0.045
+  },
+  {
+   "segment": [
+    111.0,
+    119.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0447
+  },
+  {
+   "segment": [
+    12.0,
+    20.0
+   ],
+   "verb": "wash",
+   "noun": "bag",
+   "score": 0.0444
+  },
+  {
+   "segment": [
+    62.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0442
+  },
+  {
+   "segment": [
+    27.0,
+    31.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.0441
+  },
+  {
+   "segment": [
+    91.0,
+    99.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.044
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "dry",
+   "noun": "bag",
+   "score": 0.0439
+  },
+  {
+   "segment": [
+    226.0,
+    228.0
+   ],
+   "verb": "remove",
+   "noun": "apron",
+   "score": 0.0439
+  },
+  {
+   "segment": [
+    218.0,
+    226.0
+   ],
+   "verb": "close",
+   "noun": "hand",
+   "score": 0.0437
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "dry",
+   "noun": "spoon",
+   "score": 0.0433
+  },
+  {
+   "segment": [
+    121.0,
+    129.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0433
+  },
+  {
+   "segment": [
+    97.0,
+    101.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.0429
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0429
+  },
+  {
+   "segment": [
+    115.0,
+    117.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0428
+  },
+  {
+   "segment": [
+    115.0,
+    117.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0428
+  },
+  {
+   "segment": [
+    83.0,
+    91.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0427
+  },
+  {
+   "segment": [
+    233.0,
+    241.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.0426
+  },
+  {
+   "segment": [
+    153.0,
+    157.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0426
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.0425
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0425
+  },
+  {
+   "segment": [
+    141.0,
+    149.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0424
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.0424
+  },
+  {
+   "segment": [
+    150.0,
+    152.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0424
+  },
+  {
+   "segment": [
+    130.0,
+    132.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0423
+  },
+  {
+   "segment": [
+    110.0,
+    112.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0422
+  },
+  {
+   "segment": [
+    224.0,
+    228.0
+   ],
+   "verb": "insert",
+   "noun": "hand",
+   "score": 0.0422
+  },
+  {
+   "segment": [
+    54.0,
+    58.0
+   ],
+   "verb": "close",
+   "noun": "tap",
+   "score": 0.0422
+  },
+  {
+   "segment": [
+    212.0,
+    220.0
+   ],
+   "verb": "open",
+   "noun": "sink",
+   "score": 0.0421
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.042
+  },
+  {
+   "segment": [
+    62.0,
+    70.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.042
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0419
+  },
+  {
+   "segment": [
+    235.0,
+    237.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0418
+  },
+  {
+   "segment": [
+    143.0,
+    145.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0418
+  },
+  {
+   "segment": [
+    141.0,
+    143.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0417
+  },
+  {
+   "segment": [
+    125.0,
+    133.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0416
+  },
+  {
+   "segment": [
+    136.0,
+    140.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0414
+  },
+  {
+   "segment": [
+    187.0,
+    195.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0414
+  },
+  {
+   "segment": [
+    112.0,
+    116.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0414
+  },
+  {
+   "segment": [
+    199.0,
+    201.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0413
+  },
+  {
+   "segment": [
+    118.0,
+    126.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0413
+  },
+  {
+   "segment": [
+    92.0,
+    100.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0412
+  },
+  {
+   "segment": [
+    213.0,
+    215.0
+   ],
+   "verb": "open",
+   "noun": "sink",
+   "score": 0.0412
+  },
+  {
+   "segment": [
+    163.0,
+    165.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.0412
+  },
+  {
+   "segment": [
+    125.0,
+    133.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0411
+  },
+  {
+   "segment": [
+    213.0,
+    221.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.041
+  },
+  {
+   "segment": [
+    79.0,
+    87.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.041
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0409
+  },
+  {
+   "segment": [
+    237.0,
+    245.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0409
+  },
+  {
+   "segment": [
+    103.0,
+    107.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0409
+  },
+  {
+   "segment": [
+    178.0,
+    182.0
+   ],
+   "verb": "put",
+   "noun": "onion",
+   "score": 0.0409
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0407
+  },
+  {
+   "segment": [
+    233.0,
+    241.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0406
+  },
+  {
+   "segment": [
+    139.0,
+    141.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0406
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0406
+  },
+  {
+   "segment": [
+    21.0,
+    29.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0405
+  },
+  {
+   "segment": [
+    140.0,
+    144.0
+   ],
+   "verb": "take",
+   "noun": "napkin",
+   "score": 0.0405
+  },
+  {
+   "segment": [
+    183.0,
+    191.0
+   ],
+   "verb": "insert",
+   "noun": "salad",
+   "score": 0.0404
+  },
+  {
+   "segment": [
+    220.0,
+    224.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0404
+  },
+  {
+   "segment": [
+    230.0,
+    232.0
+   ],
+   "verb": "remove",
+   "noun": "apron",
+   "score": 0.0403
+  },
+  {
+   "segment": [
+    238.0,
+    246.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0403
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0402
+  },
+  {
+   "segment": [
+    220.0,
+    222.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.0402
+  },
+  {
+   "segment": [
+    81.0,
+    89.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0401
+  },
+  {
+   "segment": [
+    57.0,
+    61.0
+   ],
+   "verb": "open",
+   "noun": "spoon",
+   "score": 0.0399
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.0398
+  },
+  {
+   "segment": [
+    57.0,
+    61.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.0398
+  },
+  {
+   "segment": [
+    122.0,
+    126.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0397
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.0397
+  },
+  {
+   "segment": [
+    164.0,
+    168.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.0397
+  },
+  {
+   "segment": [
+    140.0,
+    142.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0397
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0396
+  },
+  {
+   "segment": [
+    181.0,
+    183.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0395
+  },
+  {
+   "segment": [
+    56.0,
+    64.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0394
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0394
+  },
+  {
+   "segment": [
+    185.0,
+    193.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.0394
+  },
+  {
+   "segment": [
+    133.0,
+    141.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.0393
+  },
+  {
+   "segment": [
+    16.0,
+    20.0
+   ],
+   "verb": "wash",
+   "noun": "knife",
+   "score": 0.0393
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "dry",
+   "noun": "cloth",
+   "score": 0.0391
+  },
+  {
+   "segment": [
+    137.0,
+    139.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.039
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.039
+  },
+  {
+   "segment": [
+    187.0,
+    189.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.039
+  },
+  {
+   "segment": [
+    100.0,
+    108.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.0389
+  },
+  {
+   "segment": [
+    171.0,
+    179.0
+   ],
+   "verb": "insert",
+   "noun": "salad",
+   "score": 0.0387
+  },
+  {
+   "segment": [
+    53.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0386
+  },
+  {
+   "segment": [
+    32.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0386
+  },
+  {
+   "segment": [
+    84.0,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "pot",
+   "score": 0.0385
+  },
+  {
+   "segment": [
+    207.0,
+    209.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0385
+  },
+  {
+   "segment": [
+    159.0,
+    161.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0385
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0385
+  },
+  {
+   "segment": [
+    214.0,
+    216.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.0385
+  },
+  {
+   "segment": [
+    130.0,
+    134.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0385
+  },
+  {
+   "segment": [
+    15.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.0384
+  },
+  {
+   "segment": [
+    236.0,
+    238.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0383
+  },
+  {
+   "segment": [
+    205.0,
+    213.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0383
+  },
+  {
+   "segment": [
+    6.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0383
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0382
+  },
+  {
+   "segment": [
+    129.0,
+    133.0
+   ],
+   "verb": "close",
+   "noun": "tap",
+   "score": 0.0382
+  },
+  {
+   "segment": [
+    61.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0382
+  },
+  {
+   "segment": [
+    224.0,
+    228.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0381
+  },
+  {
+   "segment": [
+    207.0,
+    209.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0381
+  },
+  {
+   "segment": [
+    94.0,
+    102.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.038
+  },
+  {
+   "segment": [
+    124.0,
+    128.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.0379
+  },
+  {
+   "segment": [
+    21.0,
+    29.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0379
+  },
+  {
+   "segment": [
+    46.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0379
+  },
+  {
+   "segment": [
+    82.0,
+    90.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0379
+  },
+  {
+   "segment": [
+    133.0,
+    141.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0377
+  },
+  {
+   "segment": [
+    195.0,
+    197.0
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.0377
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0376
+  },
+  {
+   "segment": [
+    187.0,
+    189.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0375
+  },
+  {
+   "segment": [
+    142.0,
+    144.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0375
+  },
+  {
+   "segment": [
+    170.0,
+    172.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.0374
+  },
+  {
+   "segment": [
+    39.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0374
+  },
+  {
+   "segment": [
+    222.0,
+    230.0
+   ],
+   "verb": "remove",
+   "noun": "apron",
+   "score": 0.0373
+  },
+  {
+   "segment": [
+    181.0,
+    183.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.0373
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0372
+  },
+  {
+   "segment": [
+    188.0,
+    190.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0372
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.0372
+  },
+  {
+   "segment": [
+    165.0,
+    167.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0372
+  },
+  {
+   "segment": [
+    234.0,
+    236.0
+   ],
+   "verb": "insert",
+   "noun": "ginger",
+   "score": 0.0371
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.037
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.037
+  },
+  {
+   "segment": [
+    161.0,
+    163.0
+   ],
+   "verb": "insert",
+   "noun": "lime",
+   "score": 0.0369
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0369
+  },
+  {
+   "segment": [
+    50.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0369
+  },
+  {
+   "segment": [
+    27.0,
+    31.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0369
+  },
+  {
+   "segment": [
+    226.0,
+    234.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0367
+  },
+  {
+   "segment": [
+    15.0,
+    23.0
+   ],
+   "verb": "insert",
+   "noun": "lid",
+   "score": 0.0367
+  },
+  {
+   "segment": [
+    236.0,
+    238.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.0367
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "dry",
+   "noun": "cloth",
+   "score": 0.0367
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0366
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0365
+  },
+  {
+   "segment": [
+    111.0,
+    119.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0365
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0365
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0364
+  },
+  {
+   "segment": [
+    205.0,
+    213.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0364
+  },
+  {
+   "segment": [
+    173.0,
+    175.0
+   ],
+   "verb": "insert",
+   "noun": "onion",
+   "score": 0.0363
+  },
+  {
+   "segment": [
+    90.0,
+    94.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.0363
+  },
+  {
+   "segment": [
+    191.0,
+    195.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.0362
+  },
+  {
+   "segment": [
+    161.0,
+    163.0
+   ],
+   "verb": "insert",
+   "noun": "grape",
+   "score": 0.0361
+  },
+  {
+   "segment": [
+    144.0,
+    146.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.036
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.036
+  },
+  {
+   "segment": [
+    16.0,
+    20.0
+   ],
+   "verb": "wash",
+   "noun": "spoon",
+   "score": 0.0359
+  },
+  {
+   "segment": [
+    195.0,
+    197.0
+   ],
+   "verb": "take",
+   "noun": "dishwasher",
+   "score": 0.0359
+  },
+  {
+   "segment": [
+    228.0,
+    230.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0359
+  },
+  {
+   "segment": [
+    206.0,
+    208.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0358
+  },
+  {
+   "segment": [
+    181.0,
+    183.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0357
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0356
+  },
+  {
+   "segment": [
+    208.0,
+    212.0
+   ],
+   "verb": "insert",
+   "noun": "hand",
+   "score": 0.0354
+  },
+  {
+   "segment": [
+    237.0,
+    245.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0354
+  },
+  {
+   "segment": [
+    47.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0354
+  },
+  {
+   "segment": [
+    96.0,
+    100.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0354
+  },
+  {
+   "segment": [
+    206.0,
+    210.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0351
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0351
+  },
+  {
+   "segment": [
+    167.0,
+    175.0
+   ],
+   "verb": "insert",
+   "noun": "onion",
+   "score": 0.035
+  },
+  {
+   "segment": [
+    135.0,
+    139.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0349
+  },
+  {
+   "segment": [
+    80.0,
+    88.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0349
+  },
+  {
+   "segment": [
+    230.0,
+    234.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.0349
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0348
+  },
+  {
+   "segment": [
+    59.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.0346
+  },
+  {
+   "segment": [
+    196.0,
+    198.0
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.0345
+  },
+  {
+   "segment": [
+    185.0,
+    189.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0345
+  },
+  {
+   "segment": [
+    109.0,
+    113.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0345
+  },
+  {
+   "segment": [
+    162.0,
+    164.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0344
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0344
+  },
+  {
+   "segment": [
+    230.0,
+    232.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0343
+  },
+  {
+   "segment": [
+    142.0,
+    150.0
+   ],
+   "verb": "take",
+   "noun": "napkin",
+   "score": 0.0343
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "dry",
+   "noun": "cloth",
+   "score": 0.0343
+  },
+  {
+   "segment": [
+    157.0,
+    165.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0343
+  },
+  {
+   "segment": [
+    0.0,
+    8.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0342
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0341
+  },
+  {
+   "segment": [
+    93.0,
+    97.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.034
+  },
+  {
+   "segment": [
+    235.0,
+    243.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.034
+  },
+  {
+   "segment": [
+    145.0,
+    147.0
+   ],
+   "verb": "turn-on",
+   "noun": "liquid:washing",
+   "score": 0.0339
+  },
+  {
+   "segment": [
+    150.0,
+    152.0
+   ],
+   "verb": "take",
+   "noun": "napkin",
+   "score": 0.0339
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.0339
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0337
+  },
+  {
+   "segment": [
+    192.0,
+    194.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0337
+  },
+  {
+   "segment": [
+    140.0,
+    148.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.0337
+  },
+  {
+   "segment": [
+    144.0,
+    148.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0336
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0335
+  },
+  {
+   "segment": [
+    56.0,
+    64.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0335
+  },
+  {
+   "segment": [
+    23.0,
+    31.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0333
+  },
+  {
+   "segment": [
+    69.0,
+    73.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0333
+  },
+  {
+   "segment": [
+    200.0,
+    202.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.0332
+  },
+  {
+   "segment": [
+    130.0,
+    132.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0332
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "insert",
+   "noun": "bin",
+   "score": 0.0331
+  },
+  {
+   "segment": [
+    60.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.033
+  },
+  {
+   "segment": [
+    38.0,
+    46.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.033
+  },
+  {
+   "segment": [
+    228.0,
+    232.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.033
+  },
+  {
+   "segment": [
+    152.0,
+    160.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0329
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0329
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0329
+  },
+  {
+   "segment": [
+    64.0,
+    72.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0329
+  },
+  {
+   "segment": [
+    203.0,
+    205.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0328
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0327
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0326
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0326
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0325
+  },
+  {
+   "segment": [
+    0.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0325
+  },
+  {
+   "segment": [
+    128.0,
+    130.0
+   ],
+   "verb": "dry",
+   "noun": "bag",
+   "score": 0.0324
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0324
+  },
+  {
+   "segment": [
+    199.0,
+    207.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0324
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "dry",
+   "noun": "cupboard",
+   "score": 0.0323
+  },
+  {
+   "segment": [
+    122.0,
+    124.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0322
+  },
+  {
+   "segment": [
+    11.0,
+    15.0
+   ],
+   "verb": "insert",
+   "noun": "bin",
+   "score": 0.0322
+  },
+  {
+   "segment": [
+    217.0,
+    225.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.0322
+  },
+  {
+   "segment": [
+    203.0,
+    207.0
+   ],
+   "verb": "take",
+   "noun": "potato",
+   "score": 0.0322
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0321
+  },
+  {
+   "segment": [
+    146.0,
+    150.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0321
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.032
+  },
+  {
+   "segment": [
+    163.0,
+    167.0
+   ],
+   "verb": "put",
+   "noun": "onion",
+   "score": 0.032
+  },
+  {
+   "segment": [
+    25.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.032
+  },
+  {
+   "segment": [
+    43.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.032
+  },
+  {
+   "segment": [
+    117.0,
+    121.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.032
+  },
+  {
+   "segment": [
+    39.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.032
+  },
+  {
+   "segment": [
+    62.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "napkin",
+   "score": 0.032
+  },
+  {
+   "segment": [
+    200.0,
+    204.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0319
+  },
+  {
+   "segment": [
+    122.0,
+    126.0
+   ],
+   "verb": "close",
+   "noun": "tap",
+   "score": 0.0319
+  },
+  {
+   "segment": [
+    146.0,
+    148.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0318
+  },
+  {
+   "segment": [
+    72.0,
+    76.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0317
+  },
+  {
+   "segment": [
+    33.0,
+    41.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0316
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.0316
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.0315
+  },
+  {
+   "segment": [
+    141.0,
+    143.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0315
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.0314
+  },
+  {
+   "segment": [
+    229.0,
+    231.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0314
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0314
+  },
+  {
+   "segment": [
+    138.0,
+    146.0
+   ],
+   "verb": "take",
+   "noun": "towel:kitchen",
+   "score": 0.0314
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0313
+  },
+  {
+   "segment": [
+    111.0,
+    115.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0313
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0311
+  },
+  {
+   "segment": [
+    143.0,
+    147.0
+   ],
+   "verb": "take",
+   "noun": "paper",
+   "score": 0.031
+  },
+  {
+   "segment": [
+    56.0,
+    60.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0309
+  },
+  {
+   "segment": [
+    230.0,
+    234.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0309
+  },
+  {
+   "segment": [
+    93.0,
+    97.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0309
+  },
+  {
+   "segment": [
+    119.0,
+    121.0
+   ],
+   "verb": "wash",
+   "noun": "board:chopping",
+   "score": 0.0308
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0308
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0308
+  },
+  {
+   "segment": [
+    170.0,
+    172.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.0308
+  },
+  {
+   "segment": [
+    81.0,
+    85.0
+   ],
+   "verb": "open",
+   "noun": "napkin",
+   "score": 0.0308
+  },
+  {
+   "segment": [
+    147.0,
+    149.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0308
+  },
+  {
+   "segment": [
+    121.0,
+    125.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.0307
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0306
+  },
+  {
+   "segment": [
+    189.0,
+    191.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0306
+  },
+  {
+   "segment": [
+    188.0,
+    190.0
+   ],
+   "verb": "insert",
+   "noun": "rubbish",
+   "score": 0.0306
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "dry",
+   "noun": "spoon",
+   "score": 0.0306
+  },
+  {
+   "segment": [
+    195.0,
+    197.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0305
+  },
+  {
+   "segment": [
+    239.0,
+    247.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.0304
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.0303
+  },
+  {
+   "segment": [
+    53.0,
+    57.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0303
+  },
+  {
+   "segment": [
+    205.0,
+    213.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0303
+  },
+  {
+   "segment": [
+    232.0,
+    236.0
+   ],
+   "verb": "remove",
+   "noun": "hand",
+   "score": 0.0301
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "dry",
+   "noun": "cloth",
+   "score": 0.0301
+  },
+  {
+   "segment": [
+    187.0,
+    189.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    190.0,
+    198.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    233.0,
+    235.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    158.0,
+    162.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    189.0,
+    197.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0299
+  },
+  {
+   "segment": [
+    198.0,
+    202.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0299
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0298
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0298
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0298
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0297
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0296
+  },
+  {
+   "segment": [
+    155.0,
+    157.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0295
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.0295
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "clothes",
+   "score": 0.0295
+  },
+  {
+   "segment": [
+    114.0,
+    118.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0295
+  },
+  {
+   "segment": [
+    11.0,
+    15.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.0295
+  },
+  {
+   "segment": [
+    239.0,
+    247.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0294
+  },
+  {
+   "segment": [
+    228.0,
+    230.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0294
+  },
+  {
+   "segment": [
+    230.0,
+    232.0
+   ],
+   "verb": "insert",
+   "noun": "apron",
+   "score": 0.0294
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0294
+  },
+  {
+   "segment": [
+    196.0,
+    198.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0293
+  },
+  {
+   "segment": [
+    139.0,
+    141.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.0292
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0292
+  },
+  {
+   "segment": [
+    160.0,
+    162.0
+   ],
+   "verb": "insert",
+   "noun": "knife",
+   "score": 0.0292
+  },
+  {
+   "segment": [
+    240.0,
+    242.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0291
+  },
+  {
+   "segment": [
+    153.0,
+    157.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0291
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0291
+  },
+  {
+   "segment": [
+    146.0,
+    150.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.029
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.029
+  },
+  {
+   "segment": [
+    92.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.029
+  },
+  {
+   "segment": [
+    14.0,
+    22.0
+   ],
+   "verb": "dry",
+   "noun": "bag",
+   "score": 0.0289
+  },
+  {
+   "segment": [
+    25.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0289
+  },
+  {
+   "segment": [
+    197.0,
+    199.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0288
+  },
+  {
+   "segment": [
+    59.0,
+    67.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0288
+  },
+  {
+   "segment": [
+    91.0,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0288
+  },
+  {
+   "segment": [
+    232.0,
+    240.0
+   ],
+   "verb": "throw",
+   "noun": "hand",
+   "score": 0.0288
+  },
+  {
+   "segment": [
+    158.0,
+    166.0
+   ],
+   "verb": "throw",
+   "noun": "bag",
+   "score": 0.0287
+  },
+  {
+   "segment": [
+    154.0,
+    162.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0285
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0285
+  },
+  {
+   "segment": [
+    204.0,
+    212.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0285
+  },
+  {
+   "segment": [
+    127.0,
+    131.0
+   ],
+   "verb": "open",
+   "noun": "water",
+   "score": 0.0284
+  },
+  {
+   "segment": [
+    25.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.0284
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0284
+  },
+  {
+   "segment": [
+    240.0,
+    242.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0284
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0283
+  },
+  {
+   "segment": [
+    139.0,
+    143.0
+   ],
+   "verb": "turn-on",
+   "noun": "liquid:washing",
+   "score": 0.0283
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0282
+  },
+  {
+   "segment": [
+    199.0,
+    201.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0282
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.0282
+  },
+  {
+   "segment": [
+    124.0,
+    128.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0282
+  },
+  {
+   "segment": [
+    149.0,
+    151.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0282
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0282
+  },
+  {
+   "segment": [
+    78.0,
+    82.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0281
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0281
+  },
+  {
+   "segment": [
+    93.0,
+    97.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.028
+  },
+  {
+   "segment": [
+    228.0,
+    232.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.028
+  },
+  {
+   "segment": [
+    45.0,
+    49.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0279
+  },
+  {
+   "segment": [
+    43.0,
+    47.0
+   ],
+   "verb": "open",
+   "noun": "sink",
+   "score": 0.0279
+  },
+  {
+   "segment": [
+    230.0,
+    238.0
+   ],
+   "verb": "insert",
+   "noun": "hand",
+   "score": 0.0279
+  },
+  {
+   "segment": [
+    43.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0279
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0279
+  },
+  {
+   "segment": [
+    17.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0279
+  },
+  {
+   "segment": [
+    208.0,
+    212.0
+   ],
+   "verb": "insert",
+   "noun": "sink",
+   "score": 0.0278
+  },
+  {
+   "segment": [
+    138.0,
+    142.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.0278
+  },
+  {
+   "segment": [
+    193.0,
+    197.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.0277
+  },
+  {
+   "segment": [
+    150.0,
+    152.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0277
+  },
+  {
+   "segment": [
+    38.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0276
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "wash",
+   "noun": "bag",
+   "score": 0.0276
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0276
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0275
+  },
+  {
+   "segment": [
+    154.0,
+    162.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0274
+  },
+  {
+   "segment": [
+    225.0,
+    233.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0274
+  },
+  {
+   "segment": [
+    120.0,
+    122.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.0274
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0274
+  },
+  {
+   "segment": [
+    147.0,
+    149.0
+   ],
+   "verb": "take",
+   "noun": "napkin",
+   "score": 0.0274
+  },
+  {
+   "segment": [
+    156.0,
+    158.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0273
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0273
+  },
+  {
+   "segment": [
+    231.0,
+    233.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0272
+  },
+  {
+   "segment": [
+    153.0,
+    157.0
+   ],
+   "verb": "wash",
+   "noun": "bag",
+   "score": 0.0272
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0271
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0271
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "dry",
+   "noun": "board:chopping",
+   "score": 0.0271
+  },
+  {
+   "segment": [
+    43.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.027
+  },
+  {
+   "segment": [
+    203.0,
+    211.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.027
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.027
+  },
+  {
+   "segment": [
+    187.0,
+    191.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.027
+  },
+  {
+   "segment": [
+    186.0,
+    194.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.027
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.027
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0269
+  },
+  {
+   "segment": [
+    189.0,
+    191.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0269
+  },
+  {
+   "segment": [
+    23.0,
+    31.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0269
+  },
+  {
+   "segment": [
+    172.0,
+    180.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0268
+  },
+  {
+   "segment": [
+    206.0,
+    214.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0268
+  },
+  {
+   "segment": [
+    206.0,
+    208.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0268
+  },
+  {
+   "segment": [
+    143.0,
+    145.0
+   ],
+   "verb": "take",
+   "noun": "napkin",
+   "score": 0.0268
+  },
+  {
+   "segment": [
+    122.0,
+    124.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0267
+  },
+  {
+   "segment": [
+    28.0,
+    32.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0267
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.0267
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0267
+  },
+  {
+   "segment": [
+    156.0,
+    160.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.0266
+  },
+  {
+   "segment": [
+    236.0,
+    238.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0266
+  },
+  {
+   "segment": [
+    119.0,
+    121.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0265
+  },
+  {
+   "segment": [
+    229.0,
+    237.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0264
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0264
+  },
+  {
+   "segment": [
+    195.0,
+    203.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0264
+  },
+  {
+   "segment": [
+    30.0,
+    38.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0262
+  },
+  {
+   "segment": [
+    140.0,
+    142.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0262
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.0262
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0262
+  },
+  {
+   "segment": [
+    196.0,
+    198.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0262
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0262
+  },
+  {
+   "segment": [
+    41.0,
+    49.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0261
+  },
+  {
+   "segment": [
+    232.0,
+    234.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0261
+  },
+  {
+   "segment": [
+    197.0,
+    199.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0261
+  },
+  {
+   "segment": [
+    206.0,
+    208.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0261
+  },
+  {
+   "segment": [
+    37.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0261
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.026
+  },
+  {
+   "segment": [
+    156.0,
+    158.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.026
+  },
+  {
+   "segment": [
+    199.0,
+    207.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0259
+  },
+  {
+   "segment": [
+    150.0,
+    154.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0259
+  },
+  {
+   "segment": [
+    201.0,
+    205.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0258
+  },
+  {
+   "segment": [
+    208.0,
+    212.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0258
+  },
+  {
+   "segment": [
+    241.0,
+    243.0
+   ],
+   "verb": "turn-on",
+   "noun": "water",
+   "score": 0.0258
+  },
+  {
+   "segment": [
+    199.0,
+    201.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0258
+  },
+  {
+   "segment": [
+    192.0,
+    194.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.0258
+  },
+  {
+   "segment": [
+    202.0,
+    210.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0256
+  },
+  {
+   "segment": [
+    194.0,
+    198.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0256
+  },
+  {
+   "segment": [
+    238.0,
+    240.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.0256
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0256
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.0255
+  },
+  {
+   "segment": [
+    156.0,
+    160.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0255
+  },
+  {
+   "segment": [
+    232.0,
+    236.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0255
+  },
+  {
+   "segment": [
+    78.0,
+    82.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0255
+  },
+  {
+   "segment": [
+    60.0,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.0255
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0254
+  },
+  {
+   "segment": [
+    197.0,
+    199.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0254
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0254
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "dry",
+   "noun": "cloth",
+   "score": 0.0254
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.0253
+  },
+  {
+   "segment": [
+    134.0,
+    138.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0253
+  },
+  {
+   "segment": [
+    197.0,
+    205.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0253
+  },
+  {
+   "segment": [
+    50.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0252
+  },
+  {
+   "segment": [
+    115.0,
+    123.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0252
+  },
+  {
+   "segment": [
+    17.0,
+    25.0
+   ],
+   "verb": "insert",
+   "noun": "water",
+   "score": 0.0252
+  },
+  {
+   "segment": [
+    132.0,
+    136.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0252
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0252
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0251
+  },
+  {
+   "segment": [
+    186.0,
+    194.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0251
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0251
+  },
+  {
+   "segment": [
+    231.0,
+    233.0
+   ],
+   "verb": "dry",
+   "noun": "bag",
+   "score": 0.0251
+  },
+  {
+   "segment": [
+    126.0,
+    134.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.025
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0249
+  },
+  {
+   "segment": [
+    186.0,
+    190.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0248
+  },
+  {
+   "segment": [
+    13.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.0248
+  },
+  {
+   "segment": [
+    154.0,
+    162.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.0248
+  },
+  {
+   "segment": [
+    234.0,
+    236.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0247
+  },
+  {
+   "segment": [
+    156.0,
+    164.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0246
+  },
+  {
+   "segment": [
+    159.0,
+    167.0
+   ],
+   "verb": "take",
+   "noun": "onion",
+   "score": 0.0246
+  },
+  {
+   "segment": [
+    58.0,
+    66.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0245
+  },
+  {
+   "segment": [
+    161.0,
+    165.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.0245
+  },
+  {
+   "segment": [
+    81.0,
+    85.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.0244
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "wash",
+   "noun": "liquid:washing",
+   "score": 0.0244
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0242
+  },
+  {
+   "segment": [
+    39.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0242
+  },
+  {
+   "segment": [
+    239.0,
+    241.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0242
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0242
+  },
+  {
+   "segment": [
+    169.0,
+    173.0
+   ],
+   "verb": "insert",
+   "noun": "salad",
+   "score": 0.0242
+  },
+  {
+   "segment": [
+    65.0,
+    73.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0241
+  },
+  {
+   "segment": [
+    224.0,
+    232.0
+   ],
+   "verb": "dry",
+   "noun": "apron",
+   "score": 0.0241
+  },
+  {
+   "segment": [
+    229.0,
+    231.0
+   ],
+   "verb": "put",
+   "noun": "apron",
+   "score": 0.0241
+  },
+  {
+   "segment": [
+    241.0,
+    245.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.024
+  },
+  {
+   "segment": [
+    149.0,
+    151.0
+   ],
+   "verb": "wash",
+   "noun": "colander",
+   "score": 0.024
+  },
+  {
+   "segment": [
+    235.0,
+    243.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.024
+  },
+  {
+   "segment": [
+    221.0,
+    229.0
+   ],
+   "verb": "remove",
+   "noun": "hand",
+   "score": 0.024
+  },
+  {
+   "segment": [
+    148.0,
+    156.0
+   ],
+   "verb": "take",
+   "noun": "napkin",
+   "score": 0.024
+  },
+  {
+   "segment": [
+    84.0,
+    88.0
+   ],
+   "verb": "dry",
+   "noun": "cupboard",
+   "score": 0.0239
+  },
+  {
+   "segment": [
+    77.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0239
+  },
+  {
+   "segment": [
+    191.0,
+    193.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0238
+  },
+  {
+   "segment": [
+    44.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.0238
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0237
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0237
+  },
+  {
+   "segment": [
+    55.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0237
+  },
+  {
+   "segment": [
+    241.0,
+    243.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0237
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0236
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.0236
+  },
+  {
+   "segment": [
+    156.0,
+    160.0
+   ],
+   "verb": "open",
+   "noun": "napkin",
+   "score": 0.0236
+  },
+  {
+   "segment": [
+    20.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0236
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0236
+  },
+  {
+   "segment": [
+    238.0,
+    240.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0236
+  },
+  {
+   "segment": [
+    159.0,
+    167.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0235
+  },
+  {
+   "segment": [
+    57.0,
+    65.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0235
+  },
+  {
+   "segment": [
+    120.0,
+    124.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0235
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0235
+  },
+  {
+   "segment": [
+    160.0,
+    162.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.0235
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.0234
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0234
+  },
+  {
+   "segment": [
+    0.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0234
+  },
+  {
+   "segment": [
+    22.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0234
+  },
+  {
+   "segment": [
+    149.0,
+    151.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0234
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.0233
+  },
+  {
+   "segment": [
+    61.0,
+    65.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0233
+  },
+  {
+   "segment": [
+    161.0,
+    165.0
+   ],
+   "verb": "throw",
+   "noun": "rice",
+   "score": 0.0233
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0232
+  },
+  {
+   "segment": [
+    48.0,
+    52.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0232
+  },
+  {
+   "segment": [
+    224.0,
+    232.0
+   ],
+   "verb": "put",
+   "noun": "apron",
+   "score": 0.0232
+  },
+  {
+   "segment": [
+    238.0,
+    240.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0231
+  },
+  {
+   "segment": [
+    239.0,
+    241.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0231
+  },
+  {
+   "segment": [
+    46.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0231
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.023
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.023
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.023
+  },
+  {
+   "segment": [
+    237.0,
+    239.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.023
+  },
+  {
+   "segment": [
+    49.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.023
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.023
+  },
+  {
+   "segment": [
+    117.0,
+    125.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.023
+  },
+  {
+   "segment": [
+    149.0,
+    157.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.023
+  },
+  {
+   "segment": [
+    113.0,
+    121.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.0228
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0228
+  },
+  {
+   "segment": [
+    153.0,
+    161.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0227
+  },
+  {
+   "segment": [
+    40.0,
+    48.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0227
+  },
+  {
+   "segment": [
+    117.0,
+    125.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0226
+  },
+  {
+   "segment": [
+    237.0,
+    239.0
+   ],
+   "verb": "open",
+   "noun": "water",
+   "score": 0.0226
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.0225
+  },
+  {
+   "segment": [
+    159.0,
+    163.0
+   ],
+   "verb": "throw",
+   "noun": "rice",
+   "score": 0.0225
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0225
+  },
+  {
+   "segment": [
+    198.0,
+    206.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0224
+  },
+  {
+   "segment": [
+    116.0,
+    120.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0224
+  },
+  {
+   "segment": [
+    3.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0224
+  },
+  {
+   "segment": [
+    231.0,
+    233.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0223
+  },
+  {
+   "segment": [
+    198.0,
+    202.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0222
+  },
+  {
+   "segment": [
+    243.0,
+    245.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0222
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0222
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0222
+  },
+  {
+   "segment": [
+    232.0,
+    234.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0221
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0221
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.022
+  },
+  {
+   "segment": [
+    132.0,
+    136.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.022
+  },
+  {
+   "segment": [
+    237.0,
+    239.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.0219
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0219
+  },
+  {
+   "segment": [
+    34.0,
+    42.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0217
+  },
+  {
+   "segment": [
+    41.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0217
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0216
+  },
+  {
+   "segment": [
+    206.0,
+    214.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0216
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0216
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0216
+  },
+  {
+   "segment": [
+    63.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0215
+  },
+  {
+   "segment": [
+    50.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0215
+  },
+  {
+   "segment": [
+    158.0,
+    160.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.0215
+  },
+  {
+   "segment": [
+    17.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0214
+  },
+  {
+   "segment": [
+    43.0,
+    47.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0214
+  },
+  {
+   "segment": [
+    218.0,
+    222.0
+   ],
+   "verb": "throw",
+   "noun": "hand",
+   "score": 0.0214
+  },
+  {
+   "segment": [
+    239.0,
+    241.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0213
+  },
+  {
+   "segment": [
+    66.0,
+    74.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0212
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0212
+  },
+  {
+   "segment": [
+    82.0,
+    86.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0211
+  },
+  {
+   "segment": [
+    240.0,
+    242.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0211
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "take",
+   "noun": "lid",
+   "score": 0.0211
+  },
+  {
+   "segment": [
+    242.0,
+    244.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.021
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.021
+  },
+  {
+   "segment": [
+    117.0,
+    121.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.021
+  },
+  {
+   "segment": [
+    151.0,
+    159.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0209
+  },
+  {
+   "segment": [
+    45.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0209
+  },
+  {
+   "segment": [
+    48.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0209
+  },
+  {
+   "segment": [
+    131.0,
+    133.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0208
+  },
+  {
+   "segment": [
+    231.0,
+    235.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0208
+  },
+  {
+   "segment": [
+    155.0,
+    159.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0208
+  },
+  {
+   "segment": [
+    189.0,
+    191.0
+   ],
+   "verb": "insert",
+   "noun": "rubbish",
+   "score": 0.0207
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0207
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0206
+  },
+  {
+   "segment": [
+    31.0,
+    35.0
+   ],
+   "verb": "wash",
+   "noun": "rice",
+   "score": 0.0206
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.0205
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0205
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0205
+  },
+  {
+   "segment": [
+    190.0,
+    192.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0205
+  },
+  {
+   "segment": [
+    155.0,
+    159.0
+   ],
+   "verb": "open",
+   "noun": "water",
+   "score": 0.0204
+  },
+  {
+   "segment": [
+    241.0,
+    243.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.0204
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0204
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.0203
+  },
+  {
+   "segment": [
+    31.0,
+    35.0
+   ],
+   "verb": "wash",
+   "noun": "bag",
+   "score": 0.0201
+  },
+  {
+   "segment": [
+    243.0,
+    245.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0201
+  },
+  {
+   "segment": [
+    38.0,
+    46.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0201
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    238.0,
+    242.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    132.0,
+    136.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0199
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0198
+  },
+  {
+   "segment": [
+    152.0,
+    154.0
+   ],
+   "verb": "open",
+   "noun": "liquid:washing",
+   "score": 0.0197
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0197
+  },
+  {
+   "segment": [
+    188.0,
+    192.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.0197
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "insert",
+   "noun": "water",
+   "score": 0.0196
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0196
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0195
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0194
+  },
+  {
+   "segment": [
+    51.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0193
+  },
+  {
+   "segment": [
+    191.0,
+    193.0
+   ],
+   "verb": "wash",
+   "noun": "bin",
+   "score": 0.0193
+  },
+  {
+   "segment": [
+    115.0,
+    123.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.0193
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "wash",
+   "noun": "spoon",
+   "score": 0.0193
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "floor",
+   "score": 0.0192
+  },
+  {
+   "segment": [
+    240.0,
+    244.0
+   ],
+   "verb": "wash",
+   "noun": "hand",
+   "score": 0.0191
+  },
+  {
+   "segment": [
+    152.0,
+    154.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.0191
+  },
+  {
+   "segment": [
+    127.0,
+    129.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0191
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0191
+  },
+  {
+   "segment": [
+    242.0,
+    244.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.0191
+  },
+  {
+   "segment": [
+    198.0,
+    200.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.019
+  },
+  {
+   "segment": [
+    128.0,
+    130.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0189
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0189
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0188
+  },
+  {
+   "segment": [
+    26.0,
+    34.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0187
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0186
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.0186
+  },
+  {
+   "segment": [
+    63.0,
+    71.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0186
+  },
+  {
+   "segment": [
+    132.0,
+    140.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0186
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.0185
+  },
+  {
+   "segment": [
+    187.0,
+    191.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0185
+  },
+  {
+   "segment": [
+    13.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "bin",
+   "score": 0.0185
+  },
+  {
+   "segment": [
+    186.0,
+    190.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0184
+  },
+  {
+   "segment": [
+    242.0,
+    244.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0184
+  },
+  {
+   "segment": [
+    191.0,
+    193.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.0184
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0183
+  },
+  {
+   "segment": [
+    239.0,
+    243.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0182
+  },
+  {
+   "segment": [
+    29.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0182
+  },
+  {
+   "segment": [
+    155.0,
+    157.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0182
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.0182
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0182
+  },
+  {
+   "segment": [
+    125.0,
+    129.0
+   ],
+   "verb": "open",
+   "noun": "pasta",
+   "score": 0.0181
+  },
+  {
+   "segment": [
+    156.0,
+    158.0
+   ],
+   "verb": "wash",
+   "noun": "bag",
+   "score": 0.0181
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0181
+  },
+  {
+   "segment": [
+    152.0,
+    154.0
+   ],
+   "verb": "open",
+   "noun": "napkin",
+   "score": 0.018
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "water",
+   "score": 0.0179
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0177
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0177
+  },
+  {
+   "segment": [
+    228.0,
+    236.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0177
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.0177
+  },
+  {
+   "segment": [
+    155.0,
+    157.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.0176
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0176
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0176
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0176
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0175
+  },
+  {
+   "segment": [
+    232.0,
+    234.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0175
+  },
+  {
+   "segment": [
+    131.0,
+    133.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0174
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0174
+  },
+  {
+   "segment": [
+    127.0,
+    131.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.0174
+  },
+  {
+   "segment": [
+    37.0,
+    45.0
+   ],
+   "verb": "close",
+   "noun": "tap",
+   "score": 0.0174
+  },
+  {
+   "segment": [
+    83.0,
+    87.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.0173
+  },
+  {
+   "segment": [
+    194.0,
+    196.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0173
+  },
+  {
+   "segment": [
+    44.0,
+    52.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.0173
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0173
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0172
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0172
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.0171
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0171
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.017
+  },
+  {
+   "segment": [
+    238.0,
+    242.0
+   ],
+   "verb": "wash",
+   "noun": "hand",
+   "score": 0.017
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.017
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "wash",
+   "noun": "sink",
+   "score": 0.017
+  },
+  {
+   "segment": [
+    202.0,
+    204.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.017
+  },
+  {
+   "segment": [
+    131.0,
+    133.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0169
+  },
+  {
+   "segment": [
+    201.0,
+    203.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0168
+  },
+  {
+   "segment": [
+    22.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0168
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0168
+  },
+  {
+   "segment": [
+    42.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0167
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "throw",
+   "noun": "tap",
+   "score": 0.0167
+  },
+  {
+   "segment": [
+    160.0,
+    164.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0167
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "insert",
+   "noun": "sink",
+   "score": 0.0166
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0166
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.0166
+  },
+  {
+   "segment": [
+    158.0,
+    160.0
+   ],
+   "verb": "throw",
+   "noun": "rice",
+   "score": 0.0165
+  },
+  {
+   "segment": [
+    35.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0165
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0165
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0164
+  },
+  {
+   "segment": [
+    194.0,
+    196.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0163
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0162
+  },
+  {
+   "segment": [
+    190.0,
+    192.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0162
+  },
+  {
+   "segment": [
+    240.0,
+    244.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.0162
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "dry",
+   "noun": "bag",
+   "score": 0.0162
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0161
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.016
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.016
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.016
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "wash",
+   "noun": "knife",
+   "score": 0.016
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "insert",
+   "noun": "bowl",
+   "score": 0.016
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0159
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0157
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0157
+  },
+  {
+   "segment": [
+    20.0,
+    28.0
+   ],
+   "verb": "insert",
+   "noun": "sink",
+   "score": 0.0157
+  },
+  {
+   "segment": [
+    160.0,
+    164.0
+   ],
+   "verb": "throw",
+   "noun": "bin",
+   "score": 0.0157
+  },
+  {
+   "segment": [
+    128.0,
+    130.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0155
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0155
+  },
+  {
+   "segment": [
+    119.0,
+    123.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0155
+  },
+  {
+   "segment": [
+    119.0,
+    123.0
+   ],
+   "verb": "open",
+   "noun": "water",
+   "score": 0.0154
+  },
+  {
+   "segment": [
+    234.0,
+    238.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0154
+  },
+  {
+   "segment": [
+    198.0,
+    200.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0154
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0152
+  },
+  {
+   "segment": [
+    119.0,
+    123.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0152
+  },
+  {
+   "segment": [
+    190.0,
+    192.0
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.0151
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "water",
+   "score": 0.0151
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.0151
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.015
+  },
+  {
+   "segment": [
+    46.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0149
+  },
+  {
+   "segment": [
+    15.0,
+    19.0
+   ],
+   "verb": "wash",
+   "noun": "bin",
+   "score": 0.0149
+  },
+  {
+   "segment": [
+    189.0,
+    193.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0148
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.0148
+  },
+  {
+   "segment": [
+    138.0,
+    140.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0147
+  },
+  {
+   "segment": [
+    125.0,
+    129.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.0147
+  },
+  {
+   "segment": [
+    1.0,
+    9.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0147
+  },
+  {
+   "segment": [
+    31.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.0147
+  },
+  {
+   "segment": [
+    39.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0147
+  },
+  {
+   "segment": [
+    31.0,
+    39.0
+   ],
+   "verb": "insert",
+   "noun": "sink",
+   "score": 0.0145
+  },
+  {
+   "segment": [
+    157.0,
+    159.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.0145
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0145
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.0145
+  },
+  {
+   "segment": [
+    49.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.0144
+  },
+  {
+   "segment": [
+    49.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.0143
+  },
+  {
+   "segment": [
+    3.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0143
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0143
+  },
+  {
+   "segment": [
+    120.0,
+    122.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0142
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0141
+  },
+  {
+   "segment": [
+    198.0,
+    200.0
+   ],
+   "verb": "throw",
+   "noun": "drawer",
+   "score": 0.0139
+  },
+  {
+   "segment": [
+    20.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0139
+  },
+  {
+   "segment": [
+    157.0,
+    165.0
+   ],
+   "verb": "take",
+   "noun": "potato",
+   "score": 0.0139
+  },
+  {
+   "segment": [
+    12.0,
+    16.0
+   ],
+   "verb": "insert",
+   "noun": "knife",
+   "score": 0.0139
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.0139
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.0138
+  },
+  {
+   "segment": [
+    30.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.0138
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "dry",
+   "noun": "sponge",
+   "score": 0.0138
+  },
+  {
+   "segment": [
+    127.0,
+    129.0
+   ],
+   "verb": "dry",
+   "noun": "bag",
+   "score": 0.0138
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0137
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0137
+  },
+  {
+   "segment": [
+    120.0,
+    122.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0136
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "container",
+   "score": 0.0134
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.0134
+  },
+  {
+   "segment": [
+    2.0,
+    10.0
+   ],
+   "verb": "throw",
+   "noun": "cloth",
+   "score": 0.0133
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "hand",
+   "score": 0.0133
+  },
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0133
+  },
+  {
+   "segment": [
+    50.0,
+    54.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0132
+  },
+  {
+   "segment": [
+    162.0,
+    166.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0132
+  },
+  {
+   "segment": [
+    42.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.0132
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0131
+  },
+  {
+   "segment": [
+    155.0,
+    159.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.013
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0129
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0127
+  },
+  {
+   "segment": [
+    127.0,
+    129.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0126
+  },
+  {
+   "segment": [
+    157.0,
+    159.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0126
+  },
+  {
+   "segment": [
+    125.0,
+    127.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.0126
+  },
+  {
+   "segment": [
+    229.0,
+    233.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.0125
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "wash",
+   "noun": "knife",
+   "score": 0.0125
+  },
+  {
+   "segment": [
+    157.0,
+    161.0
+   ],
+   "verb": "insert",
+   "noun": "sink",
+   "score": 0.0124
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0123
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0123
+  },
+  {
+   "segment": [
+    36.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "sink",
+   "score": 0.0123
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "sink",
+   "score": 0.0122
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.0122
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0122
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0121
+  },
+  {
+   "segment": [
+    28.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0121
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "insert",
+   "noun": "cloth",
+   "score": 0.0119
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "water",
+   "score": 0.0119
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0117
+  },
+  {
+   "segment": [
+    14.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0117
+  },
+  {
+   "segment": [
+    151.0,
+    155.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0116
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.0113
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0112
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0112
+  },
+  {
+   "segment": [
+    41.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0112
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0112
+  },
+  {
+   "segment": [
+    157.0,
+    159.0
+   ],
+   "verb": "put",
+   "noun": "sink",
+   "score": 0.0112
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.011
+  },
+  {
+   "segment": [
+    14.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "sink",
+   "score": 0.0109
+  },
+  {
+   "segment": [
+    41.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0108
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "open",
+   "noun": "hand",
+   "score": 0.0108
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "wash",
+   "noun": "sponge",
+   "score": 0.0107
+  },
+  {
+   "segment": [
+    126.0,
+    128.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0107
+  },
+  {
+   "segment": [
+    28.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "tap",
+   "score": 0.0105
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "wash",
+   "noun": "bag",
+   "score": 0.0105
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "wash",
+   "noun": "cloth",
+   "score": 0.0103
+  },
+  {
+   "segment": [
+    126.0,
+    128.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0102
+  },
+  {
+   "segment": [
+    18.0,
+    26.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.0098
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.0096
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "wash",
+   "noun": "water",
+   "score": 0.009
+  },
+  {
+   "segment": [
+    126.0,
+    128.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0088
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.0082
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.0082
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    8.0,
+    12.0
+   ]
+  },
+  {
+   "segment": [
+    19.0,
+    23.0
+   ]
+  },
+  {
+   "segment": [
+    97.0,
+    101.0
+   ]
+  },
+  {
+   "segment": [
+    109.0,
+    113.0
+   ]
+  },
+  {
+   "segment": [
+    124.0,
+    140.0
+   ]
+  },
+  {
+   "segment": [
+    227.0,
+    231.0
+   ]
+  }
+ ]
+}

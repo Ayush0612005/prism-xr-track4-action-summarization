@@ -1,0 +1,8449 @@
+{
+ "team_id": "Toothpaste Eater",
+ "video_id": "Ski_5PoL6Vp8GEw",
+ "duration_sec": 212.95,
+ "label": {
+  "name": "jumping",
+  "score": 0.3988
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.8371
+  },
+  {
+   "segment": [
+    105.0,
+    109.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.6977
+  },
+  {
+   "segment": [
+    103.0,
+    107.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.5575
+  },
+  {
+   "segment": [
+    134.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.5525
+  },
+  {
+   "segment": [
+    179.0,
+    181.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.5211
+  },
+  {
+   "segment": [
+    162.0,
+    164.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.4701
+  },
+  {
+   "segment": [
+    158.0,
+    166.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.4689
+  },
+  {
+   "segment": [
+    162.0,
+    170.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.4406
+  },
+  {
+   "segment": [
+    155.0,
+    163.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.4197
+  },
+  {
+   "segment": [
+    180.0,
+    184.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.4109
+  },
+  {
+   "segment": [
+    185.0,
+    193.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.4091
+  },
+  {
+   "segment": [
+    54.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.4016
+  },
+  {
+   "segment": [
+    154.0,
+    156.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.3947
+  },
+  {
+   "segment": [
+    7.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.3877
+  },
+  {
+   "segment": [
+    166.0,
+    174.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3821
+  },
+  {
+   "segment": [
+    167.0,
+    169.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.3619
+  },
+  {
+   "segment": [
+    48.0,
+    52.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3587
+  },
+  {
+   "segment": [
+    125.0,
+    133.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3578
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3498
+  },
+  {
+   "segment": [
+    169.0,
+    171.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3477
+  },
+  {
+   "segment": [
+    129.0,
+    137.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3423
+  },
+  {
+   "segment": [
+    32.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.34
+  },
+  {
+   "segment": [
+    174.0,
+    178.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3393
+  },
+  {
+   "segment": [
+    107.0,
+    111.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.3372
+  },
+  {
+   "segment": [
+    192.0,
+    194.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3338
+  },
+  {
+   "segment": [
+    136.0,
+    140.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3298
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.3265
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.3264
+  },
+  {
+   "segment": [
+    127.0,
+    129.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3191
+  },
+  {
+   "segment": [
+    175.0,
+    183.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3124
+  },
+  {
+   "segment": [
+    182.0,
+    190.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3107
+  },
+  {
+   "segment": [
+    68.0,
+    72.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3104
+  },
+  {
+   "segment": [
+    59.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3077
+  },
+  {
+   "segment": [
+    210.0,
+    212.0
+   ],
+   "verb": "turn-on",
+   "noun": "light",
+   "score": 0.3073
+  },
+  {
+   "segment": [
+    157.0,
+    159.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3042
+  },
+  {
+   "segment": [
+    168.0,
+    170.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.3033
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "turn-on",
+   "noun": "light",
+   "score": 0.3016
+  },
+  {
+   "segment": [
+    173.0,
+    175.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2978
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2958
+  },
+  {
+   "segment": [
+    61.0,
+    65.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2931
+  },
+  {
+   "segment": [
+    172.0,
+    176.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2912
+  },
+  {
+   "segment": [
+    185.0,
+    187.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2854
+  },
+  {
+   "segment": [
+    187.0,
+    189.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2808
+  },
+  {
+   "segment": [
+    187.0,
+    189.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2808
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.2786
+  },
+  {
+   "segment": [
+    189.0,
+    197.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2777
+  },
+  {
+   "segment": [
+    210.0,
+    212.0
+   ],
+   "verb": "turn-on",
+   "noun": "microwave",
+   "score": 0.2776
+  },
+  {
+   "segment": [
+    207.0,
+    211.0
+   ],
+   "verb": "open",
+   "noun": "light",
+   "score": 0.2751
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2729
+  },
+  {
+   "segment": [
+    188.0,
+    190.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2714
+  },
+  {
+   "segment": [
+    140.0,
+    142.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2711
+  },
+  {
+   "segment": [
+    181.0,
+    183.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2696
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "turn-on",
+   "noun": "microwave",
+   "score": 0.2682
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2656
+  },
+  {
+   "segment": [
+    208.0,
+    212.0
+   ],
+   "verb": "turn-off",
+   "noun": "light",
+   "score": 0.2584
+  },
+  {
+   "segment": [
+    141.0,
+    143.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2555
+  },
+  {
+   "segment": [
+    168.0,
+    170.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2534
+  },
+  {
+   "segment": [
+    126.0,
+    128.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2513
+  },
+  {
+   "segment": [
+    131.0,
+    133.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2483
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2448
+  },
+  {
+   "segment": [
+    158.0,
+    160.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2374
+  },
+  {
+   "segment": [
+    191.0,
+    199.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.2359
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.2343
+  },
+  {
+   "segment": [
+    188.0,
+    190.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.234
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2337
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.2326
+  },
+  {
+   "segment": [
+    155.0,
+    157.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.2289
+  },
+  {
+   "segment": [
+    66.0,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2245
+  },
+  {
+   "segment": [
+    158.0,
+    160.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2212
+  },
+  {
+   "segment": [
+    120.0,
+    122.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.2182
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2179
+  },
+  {
+   "segment": [
+    189.0,
+    191.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2171
+  },
+  {
+   "segment": [
+    48.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.217
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2168
+  },
+  {
+   "segment": [
+    159.0,
+    161.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2154
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2122
+  },
+  {
+   "segment": [
+    28.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.2108
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.2083
+  },
+  {
+   "segment": [
+    170.0,
+    172.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2075
+  },
+  {
+   "segment": [
+    127.0,
+    129.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.206
+  },
+  {
+   "segment": [
+    94.0,
+    102.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.2056
+  },
+  {
+   "segment": [
+    136.0,
+    138.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2047
+  },
+  {
+   "segment": [
+    143.0,
+    147.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.2031
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.2024
+  },
+  {
+   "segment": [
+    159.0,
+    161.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.2023
+  },
+  {
+   "segment": [
+    177.0,
+    179.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.2016
+  },
+  {
+   "segment": [
+    163.0,
+    171.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1986
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "turn-on",
+   "noun": "light",
+   "score": 0.1978
+  },
+  {
+   "segment": [
+    179.0,
+    187.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1967
+  },
+  {
+   "segment": [
+    129.0,
+    137.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1966
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.196
+  },
+  {
+   "segment": [
+    167.0,
+    175.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1955
+  },
+  {
+   "segment": [
+    61.0,
+    69.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1953
+  },
+  {
+   "segment": [
+    73.0,
+    77.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.1953
+  },
+  {
+   "segment": [
+    140.0,
+    142.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1953
+  },
+  {
+   "segment": [
+    192.0,
+    194.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1947
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.1947
+  },
+  {
+   "segment": [
+    141.0,
+    143.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1943
+  },
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "microwave",
+   "score": 0.1934
+  },
+  {
+   "segment": [
+    51.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1931
+  },
+  {
+   "segment": [
+    193.0,
+    195.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.192
+  },
+  {
+   "segment": [
+    183.0,
+    185.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1919
+  },
+  {
+   "segment": [
+    72.0,
+    80.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.191
+  },
+  {
+   "segment": [
+    178.0,
+    186.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1908
+  },
+  {
+   "segment": [
+    107.0,
+    111.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.1907
+  },
+  {
+   "segment": [
+    184.0,
+    188.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1905
+  },
+  {
+   "segment": [
+    156.0,
+    158.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.1904
+  },
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.1904
+  },
+  {
+   "segment": [
+    136.0,
+    144.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.19
+  },
+  {
+   "segment": [
+    115.0,
+    123.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1896
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "turn-on",
+   "noun": "cloth",
+   "score": 0.1888
+  },
+  {
+   "segment": [
+    50.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1886
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1878
+  },
+  {
+   "segment": [
+    18.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1866
+  },
+  {
+   "segment": [
+    170.0,
+    172.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.186
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1799
+  },
+  {
+   "segment": [
+    20.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.178
+  },
+  {
+   "segment": [
+    35.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.1778
+  },
+  {
+   "segment": [
+    163.0,
+    165.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.1772
+  },
+  {
+   "segment": [
+    167.0,
+    169.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1764
+  },
+  {
+   "segment": [
+    8.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "towel:kitchen",
+   "score": 0.1753
+  },
+  {
+   "segment": [
+    5.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.1752
+  },
+  {
+   "segment": [
+    209.0,
+    211.0
+   ],
+   "verb": "turn-on",
+   "noun": "light",
+   "score": 0.1751
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.171
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1706
+  },
+  {
+   "segment": [
+    170.0,
+    178.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1703
+  },
+  {
+   "segment": [
+    162.0,
+    164.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1676
+  },
+  {
+   "segment": [
+    87.0,
+    95.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1669
+  },
+  {
+   "segment": [
+    139.0,
+    147.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1668
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1666
+  },
+  {
+   "segment": [
+    184.0,
+    186.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1657
+  },
+  {
+   "segment": [
+    193.0,
+    197.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.165
+  },
+  {
+   "segment": [
+    119.0,
+    121.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1647
+  },
+  {
+   "segment": [
+    120.0,
+    128.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1642
+  },
+  {
+   "segment": [
+    76.0,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1638
+  },
+  {
+   "segment": [
+    175.0,
+    183.0
+   ],
+   "verb": "cut",
+   "noun": "cucumber",
+   "score": 0.1633
+  },
+  {
+   "segment": [
+    169.0,
+    171.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.163
+  },
+  {
+   "segment": [
+    94.0,
+    102.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1626
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1618
+  },
+  {
+   "segment": [
+    160.0,
+    168.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.161
+  },
+  {
+   "segment": [
+    5.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "sink",
+   "score": 0.1605
+  },
+  {
+   "segment": [
+    174.0,
+    178.0
+   ],
+   "verb": "cut",
+   "noun": "cucumber",
+   "score": 0.1603
+  },
+  {
+   "segment": [
+    134.0,
+    142.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.1601
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1586
+  },
+  {
+   "segment": [
+    10.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.1585
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.1582
+  },
+  {
+   "segment": [
+    145.0,
+    149.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.1579
+  },
+  {
+   "segment": [
+    113.0,
+    121.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1578
+  },
+  {
+   "segment": [
+    58.0,
+    66.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1575
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.1574
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.1569
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1562
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1558
+  },
+  {
+   "segment": [
+    165.0,
+    169.0
+   ],
+   "verb": "open",
+   "noun": "lime",
+   "score": 0.1548
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1547
+  },
+  {
+   "segment": [
+    82.0,
+    86.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.1535
+  },
+  {
+   "segment": [
+    124.0,
+    132.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1527
+  },
+  {
+   "segment": [
+    191.0,
+    193.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1521
+  },
+  {
+   "segment": [
+    34.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1518
+  },
+  {
+   "segment": [
+    131.0,
+    133.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1518
+  },
+  {
+   "segment": [
+    185.0,
+    193.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1505
+  },
+  {
+   "segment": [
+    30.0,
+    34.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1501
+  },
+  {
+   "segment": [
+    182.0,
+    184.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1496
+  },
+  {
+   "segment": [
+    189.0,
+    191.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.1492
+  },
+  {
+   "segment": [
+    166.0,
+    168.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.149
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1485
+  },
+  {
+   "segment": [
+    34.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.1483
+  },
+  {
+   "segment": [
+    92.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1479
+  },
+  {
+   "segment": [
+    77.0,
+    85.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.1468
+  },
+  {
+   "segment": [
+    30.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.1464
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1456
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1456
+  },
+  {
+   "segment": [
+    60.0,
+    68.0
+   ],
+   "verb": "insert",
+   "noun": "leek",
+   "score": 0.1446
+  },
+  {
+   "segment": [
+    71.0,
+    79.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1443
+  },
+  {
+   "segment": [
+    156.0,
+    158.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.1438
+  },
+  {
+   "segment": [
+    16.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.1437
+  },
+  {
+   "segment": [
+    152.0,
+    160.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1426
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.1423
+  },
+  {
+   "segment": [
+    176.0,
+    178.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1415
+  },
+  {
+   "segment": [
+    133.0,
+    141.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.1415
+  },
+  {
+   "segment": [
+    159.0,
+    161.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.1402
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1398
+  },
+  {
+   "segment": [
+    178.0,
+    180.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1387
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.1379
+  },
+  {
+   "segment": [
+    171.0,
+    173.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1374
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.1365
+  },
+  {
+   "segment": [
+    54.0,
+    58.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1354
+  },
+  {
+   "segment": [
+    41.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1353
+  },
+  {
+   "segment": [
+    163.0,
+    165.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1348
+  },
+  {
+   "segment": [
+    126.0,
+    128.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1345
+  },
+  {
+   "segment": [
+    128.0,
+    130.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1339
+  },
+  {
+   "segment": [
+    143.0,
+    145.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.1336
+  },
+  {
+   "segment": [
+    142.0,
+    150.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1336
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.1335
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.1322
+  },
+  {
+   "segment": [
+    62.0,
+    70.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1308
+  },
+  {
+   "segment": [
+    51.0,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1307
+  },
+  {
+   "segment": [
+    85.0,
+    89.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1303
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.1301
+  },
+  {
+   "segment": [
+    9.0,
+    13.0
+   ],
+   "verb": "throw",
+   "noun": "towel:kitchen",
+   "score": 0.13
+  },
+  {
+   "segment": [
+    66.0,
+    74.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1299
+  },
+  {
+   "segment": [
+    126.0,
+    134.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1293
+  },
+  {
+   "segment": [
+    0.0,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.1293
+  },
+  {
+   "segment": [
+    152.0,
+    154.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.1287
+  },
+  {
+   "segment": [
+    63.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1283
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.1279
+  },
+  {
+   "segment": [
+    100.0,
+    102.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1278
+  },
+  {
+   "segment": [
+    125.0,
+    133.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1276
+  },
+  {
+   "segment": [
+    97.0,
+    101.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.1271
+  },
+  {
+   "segment": [
+    120.0,
+    128.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1268
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1261
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1256
+  },
+  {
+   "segment": [
+    146.0,
+    148.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.1251
+  },
+  {
+   "segment": [
+    68.0,
+    76.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.125
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1248
+  },
+  {
+   "segment": [
+    85.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1243
+  },
+  {
+   "segment": [
+    113.0,
+    121.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1243
+  },
+  {
+   "segment": [
+    174.0,
+    176.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1237
+  },
+  {
+   "segment": [
+    54.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1234
+  },
+  {
+   "segment": [
+    90.0,
+    98.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1232
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.1229
+  },
+  {
+   "segment": [
+    177.0,
+    181.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1222
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1212
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1202
+  },
+  {
+   "segment": [
+    112.0,
+    120.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1201
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.1186
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.1184
+  },
+  {
+   "segment": [
+    86.0,
+    90.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.1183
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.1175
+  },
+  {
+   "segment": [
+    147.0,
+    149.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.1175
+  },
+  {
+   "segment": [
+    130.0,
+    132.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1174
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1174
+  },
+  {
+   "segment": [
+    180.0,
+    182.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.117
+  },
+  {
+   "segment": [
+    8.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.1164
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1153
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.1146
+  },
+  {
+   "segment": [
+    137.0,
+    139.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.114
+  },
+  {
+   "segment": [
+    45.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.114
+  },
+  {
+   "segment": [
+    165.0,
+    167.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.1139
+  },
+  {
+   "segment": [
+    151.0,
+    153.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.113
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1128
+  },
+  {
+   "segment": [
+    75.0,
+    83.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1124
+  },
+  {
+   "segment": [
+    21.0,
+    29.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1123
+  },
+  {
+   "segment": [
+    136.0,
+    140.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1122
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1117
+  },
+  {
+   "segment": [
+    71.0,
+    79.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1115
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1114
+  },
+  {
+   "segment": [
+    165.0,
+    167.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.1108
+  },
+  {
+   "segment": [
+    102.0,
+    106.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.1107
+  },
+  {
+   "segment": [
+    91.0,
+    99.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1107
+  },
+  {
+   "segment": [
+    133.0,
+    137.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1107
+  },
+  {
+   "segment": [
+    176.0,
+    184.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1104
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1102
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.11
+  },
+  {
+   "segment": [
+    155.0,
+    157.0
+   ],
+   "verb": "take",
+   "noun": "wrap:plastic",
+   "score": 0.1099
+  },
+  {
+   "segment": [
+    166.0,
+    168.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1098
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1096
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1093
+  },
+  {
+   "segment": [
+    188.0,
+    196.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.1092
+  },
+  {
+   "segment": [
+    168.0,
+    172.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1092
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1088
+  },
+  {
+   "segment": [
+    171.0,
+    173.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.1087
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1086
+  },
+  {
+   "segment": [
+    58.0,
+    66.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1082
+  },
+  {
+   "segment": [
+    13.0,
+    21.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.1076
+  },
+  {
+   "segment": [
+    25.0,
+    33.0
+   ],
+   "verb": "insert",
+   "noun": "leek",
+   "score": 0.1075
+  },
+  {
+   "segment": [
+    163.0,
+    165.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1075
+  },
+  {
+   "segment": [
+    167.0,
+    169.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.107
+  },
+  {
+   "segment": [
+    67.0,
+    71.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.1069
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.1068
+  },
+  {
+   "segment": [
+    13.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.1068
+  },
+  {
+   "segment": [
+    111.0,
+    115.0
+   ],
+   "verb": "close",
+   "noun": "lime",
+   "score": 0.1068
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "open",
+   "noun": "light",
+   "score": 0.1065
+  },
+  {
+   "segment": [
+    71.0,
+    75.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.1065
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.1064
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.1063
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1062
+  },
+  {
+   "segment": [
+    142.0,
+    144.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.1061
+  },
+  {
+   "segment": [
+    150.0,
+    158.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.1059
+  },
+  {
+   "segment": [
+    146.0,
+    154.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.105
+  },
+  {
+   "segment": [
+    173.0,
+    181.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1046
+  },
+  {
+   "segment": [
+    132.0,
+    140.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1037
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1035
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1031
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.1031
+  },
+  {
+   "segment": [
+    156.0,
+    160.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.1022
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.1022
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.1021
+  },
+  {
+   "segment": [
+    16.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.1019
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.1019
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.1019
+  },
+  {
+   "segment": [
+    41.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.1019
+  },
+  {
+   "segment": [
+    49.0,
+    57.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1018
+  },
+  {
+   "segment": [
+    158.0,
+    160.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.1017
+  },
+  {
+   "segment": [
+    51.0,
+    55.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.1016
+  },
+  {
+   "segment": [
+    82.0,
+    86.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.1015
+  },
+  {
+   "segment": [
+    119.0,
+    121.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1011
+  },
+  {
+   "segment": [
+    135.0,
+    143.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1011
+  },
+  {
+   "segment": [
+    145.0,
+    147.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.101
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "turn-off",
+   "noun": "light",
+   "score": 0.101
+  },
+  {
+   "segment": [
+    165.0,
+    173.0
+   ],
+   "verb": "cut",
+   "noun": "cucumber",
+   "score": 0.1002
+  },
+  {
+   "segment": [
+    73.0,
+    77.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.1001
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.1
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.1
+  },
+  {
+   "segment": [
+    120.0,
+    122.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0999
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0995
+  },
+  {
+   "segment": [
+    152.0,
+    154.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0995
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0993
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0991
+  },
+  {
+   "segment": [
+    93.0,
+    101.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0991
+  },
+  {
+   "segment": [
+    130.0,
+    132.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0988
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0986
+  },
+  {
+   "segment": [
+    194.0,
+    198.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0984
+  },
+  {
+   "segment": [
+    157.0,
+    159.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0984
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0981
+  },
+  {
+   "segment": [
+    127.0,
+    129.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0981
+  },
+  {
+   "segment": [
+    119.0,
+    121.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.098
+  },
+  {
+   "segment": [
+    149.0,
+    151.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0978
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0973
+  },
+  {
+   "segment": [
+    128.0,
+    130.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0972
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0971
+  },
+  {
+   "segment": [
+    141.0,
+    149.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.097
+  },
+  {
+   "segment": [
+    23.0,
+    31.0
+   ],
+   "verb": "insert",
+   "noun": "salad",
+   "score": 0.0967
+  },
+  {
+   "segment": [
+    186.0,
+    188.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0966
+  },
+  {
+   "segment": [
+    126.0,
+    130.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0964
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0962
+  },
+  {
+   "segment": [
+    30.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.096
+  },
+  {
+   "segment": [
+    144.0,
+    146.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0958
+  },
+  {
+   "segment": [
+    46.0,
+    54.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0956
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "throw",
+   "noun": "tap",
+   "score": 0.0952
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0947
+  },
+  {
+   "segment": [
+    121.0,
+    129.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0945
+  },
+  {
+   "segment": [
+    146.0,
+    148.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0944
+  },
+  {
+   "segment": [
+    8.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0935
+  },
+  {
+   "segment": [
+    76.0,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.0933
+  },
+  {
+   "segment": [
+    146.0,
+    154.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.0927
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.0923
+  },
+  {
+   "segment": [
+    50.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "leek",
+   "score": 0.0917
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0916
+  },
+  {
+   "segment": [
+    56.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0916
+  },
+  {
+   "segment": [
+    143.0,
+    147.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.0916
+  },
+  {
+   "segment": [
+    22.0,
+    30.0
+   ],
+   "verb": "insert",
+   "noun": "leek",
+   "score": 0.0909
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "leek",
+   "score": 0.0908
+  },
+  {
+   "segment": [
+    168.0,
+    176.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0907
+  },
+  {
+   "segment": [
+    137.0,
+    139.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0905
+  },
+  {
+   "segment": [
+    191.0,
+    193.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0905
+  },
+  {
+   "segment": [
+    71.0,
+    75.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.0904
+  },
+  {
+   "segment": [
+    158.0,
+    166.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0902
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.09
+  },
+  {
+   "segment": [
+    189.0,
+    191.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0898
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0898
+  },
+  {
+   "segment": [
+    128.0,
+    132.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.0894
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.0889
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0888
+  },
+  {
+   "segment": [
+    106.0,
+    108.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0888
+  },
+  {
+   "segment": [
+    147.0,
+    149.0
+   ],
+   "verb": "open",
+   "noun": "lemon",
+   "score": 0.0887
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "courgette",
+   "score": 0.0886
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0883
+  },
+  {
+   "segment": [
+    97.0,
+    105.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0882
+  },
+  {
+   "segment": [
+    158.0,
+    166.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0881
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0879
+  },
+  {
+   "segment": [
+    94.0,
+    102.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0877
+  },
+  {
+   "segment": [
+    162.0,
+    164.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0876
+  },
+  {
+   "segment": [
+    15.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "leek",
+   "score": 0.0876
+  },
+  {
+   "segment": [
+    47.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0874
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0873
+  },
+  {
+   "segment": [
+    48.0,
+    52.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.0872
+  },
+  {
+   "segment": [
+    12.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0871
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0871
+  },
+  {
+   "segment": [
+    111.0,
+    115.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.0865
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0862
+  },
+  {
+   "segment": [
+    142.0,
+    144.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0859
+  },
+  {
+   "segment": [
+    71.0,
+    79.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0855
+  },
+  {
+   "segment": [
+    55.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.0854
+  },
+  {
+   "segment": [
+    146.0,
+    148.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0853
+  },
+  {
+   "segment": [
+    58.0,
+    62.0
+   ],
+   "verb": "cut",
+   "noun": "cucumber",
+   "score": 0.0849
+  },
+  {
+   "segment": [
+    126.0,
+    128.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0848
+  },
+  {
+   "segment": [
+    150.0,
+    158.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.0844
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "turn-on",
+   "noun": "microwave",
+   "score": 0.0844
+  },
+  {
+   "segment": [
+    104.0,
+    108.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0843
+  },
+  {
+   "segment": [
+    168.0,
+    170.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.0842
+  },
+  {
+   "segment": [
+    109.0,
+    117.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0842
+  },
+  {
+   "segment": [
+    160.0,
+    168.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0842
+  },
+  {
+   "segment": [
+    181.0,
+    189.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0839
+  },
+  {
+   "segment": [
+    92.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "courgette",
+   "score": 0.0836
+  },
+  {
+   "segment": [
+    141.0,
+    143.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0836
+  },
+  {
+   "segment": [
+    27.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "leek",
+   "score": 0.0834
+  },
+  {
+   "segment": [
+    154.0,
+    158.0
+   ],
+   "verb": "take",
+   "noun": "spinach",
+   "score": 0.0833
+  },
+  {
+   "segment": [
+    8.0,
+    16.0
+   ],
+   "verb": "throw",
+   "noun": "bin",
+   "score": 0.0832
+  },
+  {
+   "segment": [
+    170.0,
+    172.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0825
+  },
+  {
+   "segment": [
+    185.0,
+    187.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0824
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0823
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.082
+  },
+  {
+   "segment": [
+    122.0,
+    130.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0819
+  },
+  {
+   "segment": [
+    128.0,
+    130.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0818
+  },
+  {
+   "segment": [
+    175.0,
+    177.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0816
+  },
+  {
+   "segment": [
+    177.0,
+    179.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0815
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.0814
+  },
+  {
+   "segment": [
+    192.0,
+    196.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.0814
+  },
+  {
+   "segment": [
+    188.0,
+    196.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0812
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0811
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0811
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0811
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0811
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "throw",
+   "noun": "tap",
+   "score": 0.081
+  },
+  {
+   "segment": [
+    190.0,
+    194.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.0808
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0807
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "leek",
+   "score": 0.0805
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0804
+  },
+  {
+   "segment": [
+    22.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0802
+  },
+  {
+   "segment": [
+    128.0,
+    136.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0801
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "throw",
+   "noun": "bin",
+   "score": 0.0801
+  },
+  {
+   "segment": [
+    25.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0799
+  },
+  {
+   "segment": [
+    70.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.0799
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0795
+  },
+  {
+   "segment": [
+    183.0,
+    185.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0794
+  },
+  {
+   "segment": [
+    164.0,
+    168.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.0794
+  },
+  {
+   "segment": [
+    149.0,
+    151.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0792
+  },
+  {
+   "segment": [
+    87.0,
+    91.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0785
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0785
+  },
+  {
+   "segment": [
+    143.0,
+    151.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0785
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0783
+  },
+  {
+   "segment": [
+    142.0,
+    144.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0782
+  },
+  {
+   "segment": [
+    195.0,
+    197.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0781
+  },
+  {
+   "segment": [
+    137.0,
+    145.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0774
+  },
+  {
+   "segment": [
+    97.0,
+    105.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0772
+  },
+  {
+   "segment": [
+    151.0,
+    153.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0771
+  },
+  {
+   "segment": [
+    156.0,
+    158.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0769
+  },
+  {
+   "segment": [
+    130.0,
+    134.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0767
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0765
+  },
+  {
+   "segment": [
+    128.0,
+    132.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0764
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0764
+  },
+  {
+   "segment": [
+    116.0,
+    120.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.0759
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.0756
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0755
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0755
+  },
+  {
+   "segment": [
+    109.0,
+    117.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.0755
+  },
+  {
+   "segment": [
+    191.0,
+    199.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.0751
+  },
+  {
+   "segment": [
+    14.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "salad",
+   "score": 0.075
+  },
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "turn-on",
+   "noun": "microwave",
+   "score": 0.0749
+  },
+  {
+   "segment": [
+    87.0,
+    91.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0746
+  },
+  {
+   "segment": [
+    208.0,
+    210.0
+   ],
+   "verb": "close",
+   "noun": "light",
+   "score": 0.0744
+  },
+  {
+   "segment": [
+    98.0,
+    102.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0744
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0744
+  },
+  {
+   "segment": [
+    186.0,
+    190.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0743
+  },
+  {
+   "segment": [
+    178.0,
+    180.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0743
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "sink",
+   "score": 0.0741
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0741
+  },
+  {
+   "segment": [
+    135.0,
+    137.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.074
+  },
+  {
+   "segment": [
+    200.0,
+    208.0
+   ],
+   "verb": "insert",
+   "noun": "top",
+   "score": 0.074
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0736
+  },
+  {
+   "segment": [
+    5.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0733
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.073
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "oil",
+   "score": 0.0728
+  },
+  {
+   "segment": [
+    155.0,
+    159.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.0725
+  },
+  {
+   "segment": [
+    172.0,
+    180.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0724
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.0724
+  },
+  {
+   "segment": [
+    143.0,
+    151.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0723
+  },
+  {
+   "segment": [
+    131.0,
+    133.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0723
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0722
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0721
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0721
+  },
+  {
+   "segment": [
+    18.0,
+    26.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0719
+  },
+  {
+   "segment": [
+    172.0,
+    174.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0718
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0717
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "throw",
+   "noun": "bin",
+   "score": 0.0717
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0717
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0715
+  },
+  {
+   "segment": [
+    29.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0712
+  },
+  {
+   "segment": [
+    82.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.0711
+  },
+  {
+   "segment": [
+    139.0,
+    141.0
+   ],
+   "verb": "put",
+   "noun": "salt",
+   "score": 0.0709
+  },
+  {
+   "segment": [
+    138.0,
+    146.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0709
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0708
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.0708
+  },
+  {
+   "segment": [
+    155.0,
+    163.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0707
+  },
+  {
+   "segment": [
+    115.0,
+    123.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0706
+  },
+  {
+   "segment": [
+    121.0,
+    125.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0701
+  },
+  {
+   "segment": [
+    88.0,
+    92.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.07
+  },
+  {
+   "segment": [
+    190.0,
+    192.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0696
+  },
+  {
+   "segment": [
+    80.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "leek",
+   "score": 0.0694
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.0689
+  },
+  {
+   "segment": [
+    21.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0686
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0685
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0684
+  },
+  {
+   "segment": [
+    100.0,
+    108.0
+   ],
+   "verb": "close",
+   "noun": "lime",
+   "score": 0.0684
+  },
+  {
+   "segment": [
+    184.0,
+    192.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0682
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0681
+  },
+  {
+   "segment": [
+    100.0,
+    102.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0679
+  },
+  {
+   "segment": [
+    189.0,
+    197.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.0675
+  },
+  {
+   "segment": [
+    180.0,
+    182.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0675
+  },
+  {
+   "segment": [
+    49.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.0674
+  },
+  {
+   "segment": [
+    130.0,
+    132.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0674
+  },
+  {
+   "segment": [
+    60.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "leek",
+   "score": 0.0674
+  },
+  {
+   "segment": [
+    141.0,
+    149.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0672
+  },
+  {
+   "segment": [
+    125.0,
+    127.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.067
+  },
+  {
+   "segment": [
+    8.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "sink",
+   "score": 0.0669
+  },
+  {
+   "segment": [
+    43.0,
+    47.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.0668
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0666
+  },
+  {
+   "segment": [
+    34.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.0663
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0662
+  },
+  {
+   "segment": [
+    194.0,
+    196.0
+   ],
+   "verb": "take",
+   "noun": "spinach",
+   "score": 0.0662
+  },
+  {
+   "segment": [
+    68.0,
+    72.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.0661
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "box",
+   "score": 0.0659
+  },
+  {
+   "segment": [
+    75.0,
+    83.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0658
+  },
+  {
+   "segment": [
+    89.0,
+    97.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0658
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "close",
+   "noun": "bin",
+   "score": 0.0657
+  },
+  {
+   "segment": [
+    35.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0654
+  },
+  {
+   "segment": [
+    150.0,
+    152.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0654
+  },
+  {
+   "segment": [
+    100.0,
+    108.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.0652
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.065
+  },
+  {
+   "segment": [
+    145.0,
+    147.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.065
+  },
+  {
+   "segment": [
+    188.0,
+    190.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.065
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0649
+  },
+  {
+   "segment": [
+    182.0,
+    184.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0649
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0648
+  },
+  {
+   "segment": [
+    187.0,
+    191.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0645
+  },
+  {
+   "segment": [
+    41.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.0645
+  },
+  {
+   "segment": [
+    136.0,
+    138.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0644
+  },
+  {
+   "segment": [
+    13.0,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.0643
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0642
+  },
+  {
+   "segment": [
+    141.0,
+    145.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.064
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0638
+  },
+  {
+   "segment": [
+    145.0,
+    153.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0632
+  },
+  {
+   "segment": [
+    139.0,
+    141.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0631
+  },
+  {
+   "segment": [
+    106.0,
+    114.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.063
+  },
+  {
+   "segment": [
+    118.0,
+    126.0
+   ],
+   "verb": "close",
+   "noun": "bag",
+   "score": 0.0629
+  },
+  {
+   "segment": [
+    23.0,
+    31.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0629
+  },
+  {
+   "segment": [
+    24.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.0628
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0627
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0624
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0623
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0623
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0622
+  },
+  {
+   "segment": [
+    119.0,
+    127.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0619
+  },
+  {
+   "segment": [
+    82.0,
+    86.0
+   ],
+   "verb": "close",
+   "noun": "pan",
+   "score": 0.0618
+  },
+  {
+   "segment": [
+    154.0,
+    156.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0617
+  },
+  {
+   "segment": [
+    187.0,
+    189.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0612
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0612
+  },
+  {
+   "segment": [
+    142.0,
+    146.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0611
+  },
+  {
+   "segment": [
+    83.0,
+    91.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0611
+  },
+  {
+   "segment": [
+    164.0,
+    166.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.061
+  },
+  {
+   "segment": [
+    190.0,
+    192.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.061
+  },
+  {
+   "segment": [
+    171.0,
+    173.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.061
+  },
+  {
+   "segment": [
+    87.0,
+    95.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0609
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "close",
+   "noun": "lid",
+   "score": 0.0607
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0607
+  },
+  {
+   "segment": [
+    112.0,
+    120.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0606
+  },
+  {
+   "segment": [
+    197.0,
+    199.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0605
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0605
+  },
+  {
+   "segment": [
+    1.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0604
+  },
+  {
+   "segment": [
+    54.0,
+    58.0
+   ],
+   "verb": "throw",
+   "noun": "cucumber",
+   "score": 0.0603
+  },
+  {
+   "segment": [
+    143.0,
+    145.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0602
+  },
+  {
+   "segment": [
+    17.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0602
+  },
+  {
+   "segment": [
+    186.0,
+    194.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0602
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.0602
+  },
+  {
+   "segment": [
+    26.0,
+    34.0
+   ],
+   "verb": "insert",
+   "noun": "salad",
+   "score": 0.0601
+  },
+  {
+   "segment": [
+    89.0,
+    93.0
+   ],
+   "verb": "insert",
+   "noun": "fridge",
+   "score": 0.0601
+  },
+  {
+   "segment": [
+    171.0,
+    179.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0601
+  },
+  {
+   "segment": [
+    184.0,
+    186.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    145.0,
+    153.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.0598
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0597
+  },
+  {
+   "segment": [
+    131.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0594
+  },
+  {
+   "segment": [
+    150.0,
+    158.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0594
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0593
+  },
+  {
+   "segment": [
+    177.0,
+    179.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0591
+  },
+  {
+   "segment": [
+    16.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "salad",
+   "score": 0.0589
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0585
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0584
+  },
+  {
+   "segment": [
+    106.0,
+    108.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0584
+  },
+  {
+   "segment": [
+    98.0,
+    106.0
+   ],
+   "verb": "insert",
+   "noun": "lime",
+   "score": 0.0583
+  },
+  {
+   "segment": [
+    95.0,
+    103.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0582
+  },
+  {
+   "segment": [
+    32.0,
+    36.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0582
+  },
+  {
+   "segment": [
+    19.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.0581
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.0581
+  },
+  {
+   "segment": [
+    161.0,
+    163.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.058
+  },
+  {
+   "segment": [
+    56.0,
+    60.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0578
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0578
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.0576
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.0575
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0575
+  },
+  {
+   "segment": [
+    81.0,
+    85.0
+   ],
+   "verb": "close",
+   "noun": "drawer",
+   "score": 0.0574
+  },
+  {
+   "segment": [
+    109.0,
+    117.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0572
+  },
+  {
+   "segment": [
+    195.0,
+    197.0
+   ],
+   "verb": "take",
+   "noun": "spinach",
+   "score": 0.0572
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.0569
+  },
+  {
+   "segment": [
+    191.0,
+    193.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0569
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "box",
+   "score": 0.0568
+  },
+  {
+   "segment": [
+    193.0,
+    195.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0568
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.0568
+  },
+  {
+   "segment": [
+    63.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.0567
+  },
+  {
+   "segment": [
+    148.0,
+    152.0
+   ],
+   "verb": "take",
+   "noun": "onion:spring",
+   "score": 0.0567
+  },
+  {
+   "segment": [
+    148.0,
+    150.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0566
+  },
+  {
+   "segment": [
+    190.0,
+    194.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.056
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.056
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0559
+  },
+  {
+   "segment": [
+    192.0,
+    196.0
+   ],
+   "verb": "take",
+   "noun": "lettuce",
+   "score": 0.0557
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "sink",
+   "score": 0.0556
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.0555
+  },
+  {
+   "segment": [
+    117.0,
+    125.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0555
+  },
+  {
+   "segment": [
+    145.0,
+    149.0
+   ],
+   "verb": "put",
+   "noun": "salad",
+   "score": 0.0554
+  },
+  {
+   "segment": [
+    203.0,
+    205.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0554
+  },
+  {
+   "segment": [
+    27.0,
+    31.0
+   ],
+   "verb": "insert",
+   "noun": "bin",
+   "score": 0.0553
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0551
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "courgette",
+   "score": 0.0551
+  },
+  {
+   "segment": [
+    73.0,
+    77.0
+   ],
+   "verb": "close",
+   "noun": "oil",
+   "score": 0.0549
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0547
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0546
+  },
+  {
+   "segment": [
+    201.0,
+    209.0
+   ],
+   "verb": "wash",
+   "noun": "top",
+   "score": 0.0545
+  },
+  {
+   "segment": [
+    102.0,
+    110.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0541
+  },
+  {
+   "segment": [
+    199.0,
+    201.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.054
+  },
+  {
+   "segment": [
+    201.0,
+    209.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0539
+  },
+  {
+   "segment": [
+    153.0,
+    155.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0539
+  },
+  {
+   "segment": [
+    15.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0537
+  },
+  {
+   "segment": [
+    80.0,
+    88.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0536
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0535
+  },
+  {
+   "segment": [
+    147.0,
+    155.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0535
+  },
+  {
+   "segment": [
+    103.0,
+    111.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.0532
+  },
+  {
+   "segment": [
+    39.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0531
+  },
+  {
+   "segment": [
+    151.0,
+    159.0
+   ],
+   "verb": "take",
+   "noun": "onion:spring",
+   "score": 0.0529
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.0528
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "close",
+   "noun": "oil",
+   "score": 0.0525
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0523
+  },
+  {
+   "segment": [
+    161.0,
+    163.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0522
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "tray",
+   "score": 0.0522
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0521
+  },
+  {
+   "segment": [
+    160.0,
+    164.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.052
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0519
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0516
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "cloth",
+   "score": 0.0515
+  },
+  {
+   "segment": [
+    131.0,
+    139.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.0514
+  },
+  {
+   "segment": [
+    140.0,
+    142.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0511
+  },
+  {
+   "segment": [
+    183.0,
+    185.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.051
+  },
+  {
+   "segment": [
+    80.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.051
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0509
+  },
+  {
+   "segment": [
+    122.0,
+    124.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0508
+  },
+  {
+   "segment": [
+    182.0,
+    190.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0507
+  },
+  {
+   "segment": [
+    154.0,
+    162.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0507
+  },
+  {
+   "segment": [
+    139.0,
+    141.0
+   ],
+   "verb": "put",
+   "noun": "oil",
+   "score": 0.0507
+  },
+  {
+   "segment": [
+    173.0,
+    175.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0505
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0505
+  },
+  {
+   "segment": [
+    179.0,
+    181.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0504
+  },
+  {
+   "segment": [
+    198.0,
+    200.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0504
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.0503
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0501
+  },
+  {
+   "segment": [
+    166.0,
+    174.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0501
+  },
+  {
+   "segment": [
+    138.0,
+    142.0
+   ],
+   "verb": "take",
+   "noun": "salt",
+   "score": 0.0501
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.0501
+  },
+  {
+   "segment": [
+    123.0,
+    127.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0501
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0501
+  },
+  {
+   "segment": [
+    88.0,
+    96.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.05
+  },
+  {
+   "segment": [
+    108.0,
+    116.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.05
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0499
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0498
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.0497
+  },
+  {
+   "segment": [
+    76.0,
+    84.0
+   ],
+   "verb": "close",
+   "noun": "drawer",
+   "score": 0.0496
+  },
+  {
+   "segment": [
+    202.0,
+    206.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.0496
+  },
+  {
+   "segment": [
+    90.0,
+    94.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0496
+  },
+  {
+   "segment": [
+    148.0,
+    150.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0495
+  },
+  {
+   "segment": [
+    41.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0494
+  },
+  {
+   "segment": [
+    38.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0494
+  },
+  {
+   "segment": [
+    120.0,
+    122.0
+   ],
+   "verb": "close",
+   "noun": "cover",
+   "score": 0.0493
+  },
+  {
+   "segment": [
+    152.0,
+    154.0
+   ],
+   "verb": "close",
+   "noun": "drawer",
+   "score": 0.049
+  },
+  {
+   "segment": [
+    118.0,
+    126.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.049
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0489
+  },
+  {
+   "segment": [
+    101.0,
+    109.0
+   ],
+   "verb": "close",
+   "noun": "liquid:washing",
+   "score": 0.0488
+  },
+  {
+   "segment": [
+    113.0,
+    117.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0487
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0487
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0487
+  },
+  {
+   "segment": [
+    79.0,
+    87.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0486
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0484
+  },
+  {
+   "segment": [
+    27.0,
+    35.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.0483
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0481
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.048
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.048
+  },
+  {
+   "segment": [
+    169.0,
+    171.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.0478
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "oven",
+   "score": 0.0477
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0474
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0472
+  },
+  {
+   "segment": [
+    154.0,
+    156.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0471
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "oven",
+   "score": 0.0471
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0471
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "put",
+   "noun": "oil",
+   "score": 0.047
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0469
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0468
+  },
+  {
+   "segment": [
+    120.0,
+    124.0
+   ],
+   "verb": "close",
+   "noun": "lime",
+   "score": 0.0463
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.0463
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0462
+  },
+  {
+   "segment": [
+    125.0,
+    127.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.046
+  },
+  {
+   "segment": [
+    190.0,
+    192.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.046
+  },
+  {
+   "segment": [
+    15.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.0459
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0459
+  },
+  {
+   "segment": [
+    197.0,
+    205.0
+   ],
+   "verb": "insert",
+   "noun": "top",
+   "score": 0.0458
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0456
+  },
+  {
+   "segment": [
+    72.0,
+    76.0
+   ],
+   "verb": "close",
+   "noun": "leek",
+   "score": 0.0456
+  },
+  {
+   "segment": [
+    121.0,
+    125.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0456
+  },
+  {
+   "segment": [
+    192.0,
+    194.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0455
+  },
+  {
+   "segment": [
+    197.0,
+    199.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.0455
+  },
+  {
+   "segment": [
+    181.0,
+    183.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0454
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "insert",
+   "noun": "bin",
+   "score": 0.0453
+  },
+  {
+   "segment": [
+    74.0,
+    82.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0453
+  },
+  {
+   "segment": [
+    45.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.0452
+  },
+  {
+   "segment": [
+    186.0,
+    188.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0451
+  },
+  {
+   "segment": [
+    7.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0451
+  },
+  {
+   "segment": [
+    116.0,
+    124.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.045
+  },
+  {
+   "segment": [
+    101.0,
+    105.0
+   ],
+   "verb": "insert",
+   "noun": "fridge",
+   "score": 0.0446
+  },
+  {
+   "segment": [
+    89.0,
+    93.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.0445
+  },
+  {
+   "segment": [
+    199.0,
+    201.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0444
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.0444
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0442
+  },
+  {
+   "segment": [
+    99.0,
+    103.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0441
+  },
+  {
+   "segment": [
+    24.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.044
+  },
+  {
+   "segment": [
+    116.0,
+    120.0
+   ],
+   "verb": "insert",
+   "noun": "lime",
+   "score": 0.0439
+  },
+  {
+   "segment": [
+    148.0,
+    150.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.0439
+  },
+  {
+   "segment": [
+    11.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "towel:kitchen",
+   "score": 0.0438
+  },
+  {
+   "segment": [
+    77.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.0437
+  },
+  {
+   "segment": [
+    204.0,
+    212.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0437
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.0436
+  },
+  {
+   "segment": [
+    80.0,
+    84.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0435
+  },
+  {
+   "segment": [
+    195.0,
+    199.0
+   ],
+   "verb": "insert",
+   "noun": "leek",
+   "score": 0.0435
+  },
+  {
+   "segment": [
+    122.0,
+    124.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0434
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0433
+  },
+  {
+   "segment": [
+    12.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "ginger",
+   "score": 0.0432
+  },
+  {
+   "segment": [
+    149.0,
+    151.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0431
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.043
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.0428
+  },
+  {
+   "segment": [
+    202.0,
+    206.0
+   ],
+   "verb": "insert",
+   "noun": "ginger",
+   "score": 0.0428
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0426
+  },
+  {
+   "segment": [
+    193.0,
+    197.0
+   ],
+   "verb": "take",
+   "noun": "onion:spring",
+   "score": 0.0425
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0425
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0424
+  },
+  {
+   "segment": [
+    172.0,
+    174.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0424
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0423
+  },
+  {
+   "segment": [
+    197.0,
+    205.0
+   ],
+   "verb": "insert",
+   "noun": "rubbish",
+   "score": 0.0423
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0419
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0417
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0414
+  },
+  {
+   "segment": [
+    109.0,
+    113.0
+   ],
+   "verb": "close",
+   "noun": "liquid:washing",
+   "score": 0.0413
+  },
+  {
+   "segment": [
+    163.0,
+    171.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0413
+  },
+  {
+   "segment": [
+    25.0,
+    33.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0413
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.0413
+  },
+  {
+   "segment": [
+    91.0,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0411
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.041
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.041
+  },
+  {
+   "segment": [
+    175.0,
+    177.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.0409
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0408
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0408
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0406
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0406
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0405
+  },
+  {
+   "segment": [
+    150.0,
+    154.0
+   ],
+   "verb": "open",
+   "noun": "salad",
+   "score": 0.0404
+  },
+  {
+   "segment": [
+    26.0,
+    34.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0402
+  },
+  {
+   "segment": [
+    174.0,
+    176.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.04
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0399
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0398
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "salad",
+   "score": 0.0398
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "box",
+   "score": 0.0396
+  },
+  {
+   "segment": [
+    176.0,
+    178.0
+   ],
+   "verb": "open",
+   "noun": "cucumber",
+   "score": 0.0396
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0396
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.0395
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.0394
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0393
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "take",
+   "noun": "oven",
+   "score": 0.0393
+  },
+  {
+   "segment": [
+    35.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "oil",
+   "score": 0.0389
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0387
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0387
+  },
+  {
+   "segment": [
+    43.0,
+    47.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0386
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0386
+  },
+  {
+   "segment": [
+    5.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "rubbish",
+   "score": 0.0386
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "rubbish",
+   "score": 0.0385
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0385
+  },
+  {
+   "segment": [
+    75.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "lime",
+   "score": 0.0384
+  },
+  {
+   "segment": [
+    96.0,
+    100.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.0383
+  },
+  {
+   "segment": [
+    195.0,
+    199.0
+   ],
+   "verb": "insert",
+   "noun": "lime",
+   "score": 0.0381
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.038
+  },
+  {
+   "segment": [
+    110.0,
+    112.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0379
+  },
+  {
+   "segment": [
+    203.0,
+    205.0
+   ],
+   "verb": "put",
+   "noun": "ginger",
+   "score": 0.0378
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0376
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0375
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "liquid:washing",
+   "score": 0.0374
+  },
+  {
+   "segment": [
+    42.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.0372
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0371
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "put",
+   "noun": "oven",
+   "score": 0.0371
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0369
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0369
+  },
+  {
+   "segment": [
+    118.0,
+    122.0
+   ],
+   "verb": "close",
+   "noun": "lime",
+   "score": 0.0367
+  },
+  {
+   "segment": [
+    205.0,
+    209.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.0364
+  },
+  {
+   "segment": [
+    46.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "skin",
+   "score": 0.0364
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0363
+  },
+  {
+   "segment": [
+    41.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0363
+  },
+  {
+   "segment": [
+    27.0,
+    31.0
+   ],
+   "verb": "insert",
+   "noun": "onion",
+   "score": 0.036
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.036
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0359
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "close",
+   "noun": "drawer",
+   "score": 0.0358
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0357
+  },
+  {
+   "segment": [
+    184.0,
+    188.0
+   ],
+   "verb": "insert",
+   "noun": "cucumber",
+   "score": 0.0355
+  },
+  {
+   "segment": [
+    96.0,
+    100.0
+   ],
+   "verb": "put",
+   "noun": "lemon",
+   "score": 0.0355
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "put",
+   "noun": "oil",
+   "score": 0.0355
+  },
+  {
+   "segment": [
+    27.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0354
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0354
+  },
+  {
+   "segment": [
+    138.0,
+    140.0
+   ],
+   "verb": "put",
+   "noun": "salt",
+   "score": 0.0352
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "lettuce",
+   "score": 0.0351
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0351
+  },
+  {
+   "segment": [
+    151.0,
+    155.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0349
+  },
+  {
+   "segment": [
+    100.0,
+    104.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0346
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0346
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "take",
+   "noun": "oil",
+   "score": 0.0342
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.0336
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "put",
+   "noun": "onion",
+   "score": 0.0336
+  },
+  {
+   "segment": [
+    199.0,
+    201.0
+   ],
+   "verb": "close",
+   "noun": "hoover",
+   "score": 0.0335
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.0335
+  },
+  {
+   "segment": [
+    80.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0334
+  },
+  {
+   "segment": [
+    150.0,
+    152.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.0332
+  },
+  {
+   "segment": [
+    203.0,
+    207.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0332
+  },
+  {
+   "segment": [
+    65.0,
+    69.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0331
+  },
+  {
+   "segment": [
+    197.0,
+    205.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.0331
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "close",
+   "noun": "liquid:washing",
+   "score": 0.0331
+  },
+  {
+   "segment": [
+    151.0,
+    153.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.033
+  },
+  {
+   "segment": [
+    150.0,
+    152.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.033
+  },
+  {
+   "segment": [
+    138.0,
+    140.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0329
+  },
+  {
+   "segment": [
+    37.0,
+    41.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0328
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0327
+  },
+  {
+   "segment": [
+    63.0,
+    67.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0327
+  },
+  {
+   "segment": [
+    200.0,
+    204.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0326
+  },
+  {
+   "segment": [
+    88.0,
+    92.0
+   ],
+   "verb": "close",
+   "noun": "oil",
+   "score": 0.0326
+  },
+  {
+   "segment": [
+    125.0,
+    127.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0324
+  },
+  {
+   "segment": [
+    95.0,
+    99.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0323
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "close",
+   "noun": "bin",
+   "score": 0.0323
+  },
+  {
+   "segment": [
+    108.0,
+    112.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.0321
+  },
+  {
+   "segment": [
+    189.0,
+    193.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0321
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0319
+  },
+  {
+   "segment": [
+    95.0,
+    99.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0318
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0317
+  },
+  {
+   "segment": [
+    161.0,
+    163.0
+   ],
+   "verb": "take",
+   "noun": "oven",
+   "score": 0.0317
+  },
+  {
+   "segment": [
+    198.0,
+    206.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0316
+  },
+  {
+   "segment": [
+    199.0,
+    203.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0316
+  },
+  {
+   "segment": [
+    37.0,
+    41.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0316
+  },
+  {
+   "segment": [
+    41.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0316
+  },
+  {
+   "segment": [
+    160.0,
+    162.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0314
+  },
+  {
+   "segment": [
+    198.0,
+    200.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0311
+  },
+  {
+   "segment": [
+    123.0,
+    127.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0311
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "take",
+   "noun": "food",
+   "score": 0.0311
+  },
+  {
+   "segment": [
+    110.0,
+    112.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0307
+  },
+  {
+   "segment": [
+    84.0,
+    92.0
+   ],
+   "verb": "insert",
+   "noun": "fridge",
+   "score": 0.0307
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0306
+  },
+  {
+   "segment": [
+    199.0,
+    203.0
+   ],
+   "verb": "open",
+   "noun": "bin",
+   "score": 0.0306
+  },
+  {
+   "segment": [
+    95.0,
+    99.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.0305
+  },
+  {
+   "segment": [
+    63.0,
+    67.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.0304
+  },
+  {
+   "segment": [
+    147.0,
+    151.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0304
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "close",
+   "noun": "lemon",
+   "score": 0.0299
+  },
+  {
+   "segment": [
+    108.0,
+    112.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.0298
+  },
+  {
+   "segment": [
+    205.0,
+    209.0
+   ],
+   "verb": "wash",
+   "noun": "plate",
+   "score": 0.0296
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "put",
+   "noun": "oil",
+   "score": 0.0296
+  },
+  {
+   "segment": [
+    203.0,
+    211.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0294
+  },
+  {
+   "segment": [
+    204.0,
+    212.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.0292
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.029
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "close",
+   "noun": "food",
+   "score": 0.0288
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0287
+  },
+  {
+   "segment": [
+    160.0,
+    162.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0287
+  },
+  {
+   "segment": [
+    160.0,
+    162.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0287
+  },
+  {
+   "segment": [
+    115.0,
+    117.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.0286
+  },
+  {
+   "segment": [
+    204.0,
+    206.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0286
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0281
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "put",
+   "noun": "cucumber",
+   "score": 0.028
+  },
+  {
+   "segment": [
+    79.0,
+    87.0
+   ],
+   "verb": "close",
+   "noun": "leek",
+   "score": 0.028
+  },
+  {
+   "segment": [
+    78.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.0276
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "close",
+   "noun": "cucumber",
+   "score": 0.0276
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.0276
+  },
+  {
+   "segment": [
+    198.0,
+    200.0
+   ],
+   "verb": "close",
+   "noun": "drawer",
+   "score": 0.0275
+  },
+  {
+   "segment": [
+    78.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "salad",
+   "score": 0.0272
+  },
+  {
+   "segment": [
+    193.0,
+    201.0
+   ],
+   "verb": "take",
+   "noun": "lemon",
+   "score": 0.0272
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0271
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.027
+  },
+  {
+   "segment": [
+    198.0,
+    202.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0269
+  },
+  {
+   "segment": [
+    207.0,
+    209.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0268
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "throw",
+   "noun": "cupboard",
+   "score": 0.0267
+  },
+  {
+   "segment": [
+    201.0,
+    203.0
+   ],
+   "verb": "open",
+   "noun": "box",
+   "score": 0.0266
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0263
+  },
+  {
+   "segment": [
+    200.0,
+    202.0
+   ],
+   "verb": "close",
+   "noun": "hoover",
+   "score": 0.0261
+  },
+  {
+   "segment": [
+    201.0,
+    203.0
+   ],
+   "verb": "take",
+   "noun": "box",
+   "score": 0.026
+  },
+  {
+   "segment": [
+    114.0,
+    118.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.0257
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0256
+  },
+  {
+   "segment": [
+    194.0,
+    202.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.0255
+  },
+  {
+   "segment": [
+    205.0,
+    209.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.0254
+  },
+  {
+   "segment": [
+    195.0,
+    203.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.0251
+  },
+  {
+   "segment": [
+    40.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.0249
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "close",
+   "noun": "bin",
+   "score": 0.0248
+  },
+  {
+   "segment": [
+    37.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0248
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0246
+  },
+  {
+   "segment": [
+    197.0,
+    201.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0245
+  },
+  {
+   "segment": [
+    204.0,
+    208.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.0244
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0242
+  },
+  {
+   "segment": [
+    203.0,
+    211.0
+   ],
+   "verb": "take",
+   "noun": "top",
+   "score": 0.0239
+  },
+  {
+   "segment": [
+    115.0,
+    117.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0238
+  },
+  {
+   "segment": [
+    200.0,
+    204.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0236
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "put",
+   "noun": "onion",
+   "score": 0.0236
+  },
+  {
+   "segment": [
+    195.0,
+    203.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.0236
+  },
+  {
+   "segment": [
+    110.0,
+    112.0
+   ],
+   "verb": "put",
+   "noun": "bin",
+   "score": 0.0235
+  },
+  {
+   "segment": [
+    202.0,
+    210.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0228
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.0225
+  },
+  {
+   "segment": [
+    207.0,
+    209.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0224
+  },
+  {
+   "segment": [
+    200.0,
+    202.0
+   ],
+   "verb": "close",
+   "noun": "bin",
+   "score": 0.0223
+  },
+  {
+   "segment": [
+    206.0,
+    208.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0222
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0219
+  },
+  {
+   "segment": [
+    200.0,
+    204.0
+   ],
+   "verb": "take",
+   "noun": "bin",
+   "score": 0.0218
+  },
+  {
+   "segment": [
+    123.0,
+    127.0
+   ],
+   "verb": "close",
+   "noun": "bag",
+   "score": 0.0218
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "take",
+   "noun": "onion",
+   "score": 0.0216
+  },
+  {
+   "segment": [
+    197.0,
+    199.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.0216
+  },
+  {
+   "segment": [
+    200.0,
+    202.0
+   ],
+   "verb": "close",
+   "noun": "rubbish",
+   "score": 0.0216
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "salt",
+   "score": 0.021
+  },
+  {
+   "segment": [
+    115.0,
+    119.0
+   ],
+   "verb": "put",
+   "noun": "water",
+   "score": 0.0208
+  },
+  {
+   "segment": [
+    115.0,
+    117.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0207
+  },
+  {
+   "segment": [
+    206.0,
+    210.0
+   ],
+   "verb": "open",
+   "noun": "plate",
+   "score": 0.0205
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0205
+  },
+  {
+   "segment": [
+    38.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0204
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "salt",
+   "score": 0.0204
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    194.0,
+    202.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    207.0,
+    209.0
+   ],
+   "verb": "put",
+   "noun": "drawer",
+   "score": 0.0199
+  },
+  {
+   "segment": [
+    195.0,
+    203.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0191
+  },
+  {
+   "segment": [
+    38.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0186
+  },
+  {
+   "segment": [
+    197.0,
+    201.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0182
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0177
+  },
+  {
+   "segment": [
+    206.0,
+    208.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0171
+  },
+  {
+   "segment": [
+    202.0,
+    204.0
+   ],
+   "verb": "put",
+   "noun": "ginger",
+   "score": 0.0165
+  },
+  {
+   "segment": [
+    194.0,
+    202.0
+   ],
+   "verb": "take",
+   "noun": "cucumber",
+   "score": 0.0162
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0157
+  },
+  {
+   "segment": [
+    196.0,
+    204.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0156
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0155
+  },
+  {
+   "segment": [
+    202.0,
+    204.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0155
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0152
+  },
+  {
+   "segment": [
+    202.0,
+    204.0
+   ],
+   "verb": "put",
+   "noun": "box",
+   "score": 0.0148
+  },
+  {
+   "segment": [
+    196.0,
+    198.0
+   ],
+   "verb": "put",
+   "noun": "lime",
+   "score": 0.0146
+  },
+  {
+   "segment": [
+    205.0,
+    207.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0141
+  },
+  {
+   "segment": [
+    196.0,
+    198.0
+   ],
+   "verb": "take",
+   "noun": "lime",
+   "score": 0.014
+  },
+  {
+   "segment": [
+    205.0,
+    207.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.0124
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    4.0,
+    16.0
+   ]
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ]
+  },
+  {
+   "segment": [
+    46.0,
+    50.0
+   ]
+  },
+  {
+   "segment": [
+    194.0,
+    198.0
+   ]
+  },
+  {
+   "segment": [
+    204.0,
+    208.0
+   ]
+  }
+ ]
+}

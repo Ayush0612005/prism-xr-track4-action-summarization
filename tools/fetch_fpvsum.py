@@ -38,7 +38,9 @@ def main():
                 continue
             for attempt in (1, 2):
                 rc = subprocess.run([sys.executable, "-m", "yt_dlp", "-q", "--no-warnings",
-                                     "-f", "bv*[height<=480][ext=mp4]/b[height<=480][ext=mp4]/bv*[ext=mp4]/b",
+                                     # plain https (DASH) streams first: an HLS stream came back truncated once
+                                     "-f", "bv*[height<=480][ext=mp4][protocol=https]/bv*[height<=720][ext=mp4]"
+                                     "[protocol=https]/bv*[height<=480][ext=mp4]/b[ext=mp4]/b",
                                      "-o", path, f"https://www.youtube.com/watch?v={ytid}"]).returncode
                 if rc == 0 and os.path.exists(path):
                     break
