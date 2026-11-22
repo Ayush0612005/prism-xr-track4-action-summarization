@@ -1,0 +1,6 @@
+.git
+reels
+logs
+kaggle/*.ipynb
+**/__pycache__
+weights/*.ckpt

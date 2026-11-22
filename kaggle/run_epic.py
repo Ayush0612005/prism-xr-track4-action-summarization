@@ -13,6 +13,7 @@ from __future__ import annotations
 import argparse
 import csv
 import glob
+import hashlib
 import os
 import shutil
 import subprocess
@@ -43,21 +44,49 @@ def shard_ids(manifest, k, n):
     return assign[k]
 
 
-def download(vid, scripts, work, log):
+def expected_md5(scripts, vid):
+    """MD5 of <vid>.MP4 from the downloader's own data/md5.csv (None if not listed)."""
+    try:
+        with open(os.path.join(scripts, "data", "md5.csv"), newline="") as f:
+            for r in csv.DictReader(f):
+                if r["file_remote_path"].endswith(f"/{vid}.MP4"):
+                    return r["md5"]
+    except OSError:
+        pass
+    return None
+
+
+def file_md5(path):
+    h = hashlib.md5()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(1 << 22), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def download(vid, scripts, work, log, attempts=3, timeout_s=40 * 60):
+    """Official downloader, then verify the file against its published MD5 (a truncated
+    download once exited 0 and produced an undecodable file)."""
     dest = os.path.join(work, vid)
-    for attempt in (1, 2):
+    want = expected_md5(scripts, vid)
+    for attempt in range(1, attempts + 1):
         try:
             subprocess.run([sys.executable, "epic_downloader.py", "--videos", "--specific-videos", vid,
                             "--output-path", dest], cwd=scripts, check=True,
-                           stdout=subprocess.DEVNULL, stderr=subprocess.PIPE, timeout=3 * 3600)
+                           stdout=subprocess.DEVNULL, stderr=subprocess.PIPE, timeout=timeout_s)
             hits = glob.glob(os.path.join(dest, "**", f"{vid}.MP4"), recursive=True) + \
                 glob.glob(os.path.join(dest, "**", f"{vid}.mp4"), recursive=True)
-            if hits:
-                return hits[0]
-            raise FileNotFoundError(f"{vid}.MP4 not found after download")
+            if not hits:
+                raise FileNotFoundError(f"{vid}.MP4 not found after download")
+            got = file_md5(hits[0])
+            if want and got != want:
+                raise ValueError(f"MD5 mismatch ({os.path.getsize(hits[0])} bytes, {got} != {want})")
+            log(f"download {vid} ok ({os.path.getsize(hits[0]) / 1e6:.0f} MB, md5 {'verified' if want else 'not listed'})")
+            return hits[0]
         except Exception as e:
             log(f"download {vid} attempt {attempt} failed: {e}")
             shutil.rmtree(dest, ignore_errors=True)
+            time.sleep(10 * attempt)
     return None
 
 
@@ -70,6 +99,7 @@ def main():
     ap.add_argument("--shard", default="0/1", help="k/n: shard k of n (duration-balanced)")
     ap.add_argument("--resume-from", default=None, help="dir with JSONs from an earlier session")
     ap.add_argument("--limit", type=int, default=0)
+    ap.add_argument("--ids", default="", help="comma-separated manifest ids to (re)process instead of the full list")
     a = ap.parse_args()
 
     os.makedirs(a.out, exist_ok=True)
@@ -92,7 +122,12 @@ def main():
                         "https://github.com/epic-kitchens/epic-kitchens-download-scripts", a.scripts], check=True)
 
     k, n = (int(x) for x in a.shard.split("/"))
-    ids = shard_ids(a.manifest, k, n)
+    if a.ids:  # re-run a subset of manifest ids (e.g. earlier failures), one in every n
+        valid = set(epic_ids(a.manifest))
+        sel = [v for v in a.ids.split(",") if v in valid]
+        ids = sel[k::n]
+    else:
+        ids = shard_ids(a.manifest, k, n)
     todo = [v for v in ids if not os.path.exists(os.path.join(a.out, f"{v}.json"))]
     if a.limit:
         todo = todo[: a.limit]

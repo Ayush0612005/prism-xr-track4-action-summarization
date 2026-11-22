@@ -12,6 +12,9 @@ on:
       limit:
         description: "max videos per shard (0 = all)"
         default: "0"
+      ids:
+        description: "optional comma-separated manifest ids to re-run (split across shards)"
+        default: ""
 
 jobs:
   plan:
@@ -51,7 +54,7 @@ jobs:
         run: |
           sudo mkdir -p /mnt/epic && sudo chown "$USER" /mnt/epic
           python kaggle/run_epic.py --shard ${{ matrix.shard }}/${{ inputs.shards }} \
-            --limit ${{ inputs.limit }} --out "$PWD/run/outputs" --work /mnt/epic --scripts "$RUNNER_TEMP/dl"
+            --limit ${{ inputs.limit }} --ids "${{ inputs.ids }}" --out "$PWD/run/outputs" --work /mnt/epic --scripts "$RUNNER_TEMP/dl"
       - name: Upload
         if: always()
         uses: actions/upload-artifact@v4
