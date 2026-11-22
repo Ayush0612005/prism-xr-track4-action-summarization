@@ -1,4 +1,4 @@
-# Action-Aware Video Summarization
+﻿# Action-Aware Video Summarization
 
 Samsung PRISM XR Hackathon 2026, Track 4. Team **Toothpaste Eater** (SRM Institute of Science and Technology).
 
@@ -10,7 +10,8 @@ distinct actions as possible. One JSON per video, in the official Track 4 format
 ./run.sh <video.mp4> <out.json>
 ```
 
-* Demo video (2:57): https://youtu.be/Per1hUIaQKU
+* Demo video (2:57): https://youtu.be/Per1hUIaQKU (copy in [docs/demo/demo_video_720p.mp4](docs/demo/demo_video_720p.mp4))
+* AI disclosure: [AI_DISCLOSURE.md](AI_DISCLOSURE.md)
 * Presentation: [docs/SRM_ToothpasteEater.pptx](docs/SRM_ToothpasteEater.pptx) ([PDF](docs/SRM_ToothpasteEater.pdf))
 
 ## Results
