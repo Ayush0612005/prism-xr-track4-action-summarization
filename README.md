@@ -10,6 +10,9 @@ distinct actions as possible. One JSON per video, in the official Track 4 format
 ./run.sh <video.mp4> <out.json>
 ```
 
+* Demo video (2:57): https://youtu.be/Per1hUIaQKU
+* Presentation: [docs/SRM_ToothpasteEater.pptx](docs/SRM_ToothpasteEater.pptx) ([PDF](docs/SRM_ToothpasteEater.pdf))
+
 ## Results
 
 Numbers below are measured on our own runs. The official scores use hidden ground truth we do not have.
