@@ -1,0 +1,3496 @@
+{
+ "team_id": "Toothpaste Eater",
+ "video_id": "P11_19",
+ "duration_sec": 85.33,
+ "label": {
+  "name": "cooking",
+  "score": 0.9995
+ },
+ "actions": [
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.9843
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.9606
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.857
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.8489
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.8035
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.7807
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.7233
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.7193
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.7112
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.6821
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.6316
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.6195
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.6174
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.5918
+  },
+  {
+   "segment": [
+    4.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.5804
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.5804
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.5686
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.5429
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.5129
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "insert",
+   "noun": "fridge",
+   "score": 0.5101
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.5072
+  },
+  {
+   "segment": [
+    25.0,
+    29.0
+   ],
+   "verb": "insert",
+   "noun": "fridge",
+   "score": 0.5018
+  },
+  {
+   "segment": [
+    77.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.4868
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.4594
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.458
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.4503
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "floor",
+   "score": 0.4461
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.405
+  },
+  {
+   "segment": [
+    59.0,
+    67.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.4046
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.4006
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.3794
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "insert",
+   "noun": "pasta",
+   "score": 0.3731
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.3566
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.3535
+  },
+  {
+   "segment": [
+    60.0,
+    64.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.3131
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.3103
+  },
+  {
+   "segment": [
+    52.0,
+    56.0
+   ],
+   "verb": "pour",
+   "noun": "vinegar",
+   "score": 0.31
+  },
+  {
+   "segment": [
+    1.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.3056
+  },
+  {
+   "segment": [
+    34.0,
+    38.0
+   ],
+   "verb": "insert",
+   "noun": "hummus",
+   "score": 0.2991
+  },
+  {
+   "segment": [
+    15.0,
+    23.0
+   ],
+   "verb": "close",
+   "noun": "bread",
+   "score": 0.2749
+  },
+  {
+   "segment": [
+    77.0,
+    81.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.2709
+  },
+  {
+   "segment": [
+    76.0,
+    84.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.2663
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "vinegar",
+   "score": 0.2647
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.2611
+  },
+  {
+   "segment": [
+    3.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.2566
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "throw",
+   "noun": "floor",
+   "score": 0.2482
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.2466
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.2455
+  },
+  {
+   "segment": [
+    62.0,
+    66.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.2438
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.2435
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.243
+  },
+  {
+   "segment": [
+    50.0,
+    58.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.2361
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.2346
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "pour",
+   "noun": "box",
+   "score": 0.2316
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.2299
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.2268
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.2261
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.2251
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.2228
+  },
+  {
+   "segment": [
+    3.0,
+    7.0
+   ],
+   "verb": "remove",
+   "noun": "plate",
+   "score": 0.2204
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "insert",
+   "noun": "pasta",
+   "score": 0.2197
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.2141
+  },
+  {
+   "segment": [
+    19.0,
+    23.0
+   ],
+   "verb": "fold",
+   "noun": "bread",
+   "score": 0.2124
+  },
+  {
+   "segment": [
+    16.0,
+    24.0
+   ],
+   "verb": "wrap",
+   "noun": "bread",
+   "score": 0.2095
+  },
+  {
+   "segment": [
+    62.0,
+    70.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.2083
+  },
+  {
+   "segment": [
+    41.0,
+    45.0
+   ],
+   "verb": "throw",
+   "noun": "backpack",
+   "score": 0.2047
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.2029
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.2022
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.2018
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.1972
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "move",
+   "noun": "bread",
+   "score": 0.1972
+  },
+  {
+   "segment": [
+    51.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "vinegar",
+   "score": 0.1965
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.1934
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.1924
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "pour",
+   "noun": "knife",
+   "score": 0.19
+  },
+  {
+   "segment": [
+    26.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.1893
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "open",
+   "noun": "lid",
+   "score": 0.1879
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.1835
+  },
+  {
+   "segment": [
+    74.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.183
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.1802
+  },
+  {
+   "segment": [
+    12.0,
+    20.0
+   ],
+   "verb": "close",
+   "noun": "bag",
+   "score": 0.1785
+  },
+  {
+   "segment": [
+    29.0,
+    33.0
+   ],
+   "verb": "move",
+   "noun": "bread",
+   "score": 0.1783
+  },
+  {
+   "segment": [
+    18.0,
+    26.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.1782
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "lid",
+   "score": 0.1773
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.1754
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "insert",
+   "noun": "fridge",
+   "score": 0.1748
+  },
+  {
+   "segment": [
+    43.0,
+    47.0
+   ],
+   "verb": "take",
+   "noun": "bread",
+   "score": 0.174
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.1733
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.1719
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "fork",
+   "score": 0.1698
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "mix",
+   "noun": "stock",
+   "score": 0.1689
+  },
+  {
+   "segment": [
+    59.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.168
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "food",
+   "score": 0.1663
+  },
+  {
+   "segment": [
+    55.0,
+    63.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.1649
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.1618
+  },
+  {
+   "segment": [
+    13.0,
+    17.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.1616
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.1611
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.1594
+  },
+  {
+   "segment": [
+    19.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.1593
+  },
+  {
+   "segment": [
+    55.0,
+    59.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.1559
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.1535
+  },
+  {
+   "segment": [
+    52.0,
+    56.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.1487
+  },
+  {
+   "segment": [
+    17.0,
+    21.0
+   ],
+   "verb": "close",
+   "noun": "bag",
+   "score": 0.1482
+  },
+  {
+   "segment": [
+    39.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.1477
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.1471
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "bread",
+   "score": 0.147
+  },
+  {
+   "segment": [
+    13.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.1462
+  },
+  {
+   "segment": [
+    55.0,
+    63.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.1453
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.1443
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.1441
+  },
+  {
+   "segment": [
+    28.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.1437
+  },
+  {
+   "segment": [
+    20.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "bread",
+   "score": 0.143
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "hummus",
+   "score": 0.1421
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "box",
+   "score": 0.1414
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.1408
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "fork",
+   "score": 0.1406
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.1397
+  },
+  {
+   "segment": [
+    32.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "hummus",
+   "score": 0.1365
+  },
+  {
+   "segment": [
+    77.0,
+    81.0
+   ],
+   "verb": "take",
+   "noun": "hummus",
+   "score": 0.1365
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.1353
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.1348
+  },
+  {
+   "segment": [
+    14.0,
+    22.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.1341
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.1333
+  },
+  {
+   "segment": [
+    37.0,
+    41.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.1327
+  },
+  {
+   "segment": [
+    19.0,
+    27.0
+   ],
+   "verb": "wrap",
+   "noun": "bread",
+   "score": 0.1318
+  },
+  {
+   "segment": [
+    0.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.1317
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.1299
+  },
+  {
+   "segment": [
+    15.0,
+    19.0
+   ],
+   "verb": "wrap",
+   "noun": "bag",
+   "score": 0.1288
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.1282
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "close",
+   "noun": "bag",
+   "score": 0.1281
+  },
+  {
+   "segment": [
+    37.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.128
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "vinegar",
+   "score": 0.1267
+  },
+  {
+   "segment": [
+    18.0,
+    26.0
+   ],
+   "verb": "close",
+   "noun": "bread",
+   "score": 0.1257
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.1256
+  },
+  {
+   "segment": [
+    39.0,
+    43.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.1253
+  },
+  {
+   "segment": [
+    56.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.1236
+  },
+  {
+   "segment": [
+    78.0,
+    82.0
+   ],
+   "verb": "take",
+   "noun": "bread",
+   "score": 0.1232
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.1227
+  },
+  {
+   "segment": [
+    71.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "oil",
+   "score": 0.1216
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "bowl",
+   "score": 0.1212
+  },
+  {
+   "segment": [
+    27.0,
+    35.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.121
+  },
+  {
+   "segment": [
+    9.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.1202
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.1196
+  },
+  {
+   "segment": [
+    77.0,
+    81.0
+   ],
+   "verb": "take",
+   "noun": "box",
+   "score": 0.1193
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.1182
+  },
+  {
+   "segment": [
+    66.0,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.1173
+  },
+  {
+   "segment": [
+    27.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "box",
+   "score": 0.1172
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.1167
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.1162
+  },
+  {
+   "segment": [
+    11.0,
+    15.0
+   ],
+   "verb": "remove",
+   "noun": "milk",
+   "score": 0.1158
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.1158
+  },
+  {
+   "segment": [
+    50.0,
+    58.0
+   ],
+   "verb": "pour",
+   "noun": "sauce",
+   "score": 0.1153
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.1151
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "milk",
+   "score": 0.1148
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "pour",
+   "noun": "vinegar",
+   "score": 0.1147
+  },
+  {
+   "segment": [
+    73.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.1144
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "fork",
+   "score": 0.1144
+  },
+  {
+   "segment": [
+    62.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.1125
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "insert",
+   "noun": "food",
+   "score": 0.112
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.1119
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.1116
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "fork",
+   "score": 0.1116
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "take",
+   "noun": "hummus",
+   "score": 0.1115
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "remove",
+   "noun": "plate",
+   "score": 0.1112
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.1111
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.1091
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "insert",
+   "noun": "spoon",
+   "score": 0.1086
+  },
+  {
+   "segment": [
+    14.0,
+    22.0
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.1077
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "insert",
+   "noun": "knife",
+   "score": 0.1076
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.1071
+  },
+  {
+   "segment": [
+    27.0,
+    31.0
+   ],
+   "verb": "insert",
+   "noun": "fridge",
+   "score": 0.1071
+  },
+  {
+   "segment": [
+    12.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.1071
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "floor",
+   "score": 0.1057
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "hummus",
+   "score": 0.1055
+  },
+  {
+   "segment": [
+    21.0,
+    29.0
+   ],
+   "verb": "insert",
+   "noun": "food",
+   "score": 0.1042
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.1031
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.1027
+  },
+  {
+   "segment": [
+    53.0,
+    61.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.1011
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "insert",
+   "noun": "fridge",
+   "score": 0.101
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "hummus",
+   "score": 0.1002
+  },
+  {
+   "segment": [
+    72.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "hummus",
+   "score": 0.1001
+  },
+  {
+   "segment": [
+    49.0,
+    53.0
+   ],
+   "verb": "pour",
+   "noun": "food",
+   "score": 0.0998
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "vinegar",
+   "score": 0.0996
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.099
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.0983
+  },
+  {
+   "segment": [
+    68.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "hummus",
+   "score": 0.0976
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "remove",
+   "noun": "floor",
+   "score": 0.0969
+  },
+  {
+   "segment": [
+    43.0,
+    47.0
+   ],
+   "verb": "remove",
+   "noun": "bread",
+   "score": 0.0968
+  },
+  {
+   "segment": [
+    51.0,
+    55.0
+   ],
+   "verb": "insert",
+   "noun": "vinegar",
+   "score": 0.0966
+  },
+  {
+   "segment": [
+    33.0,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "hummus",
+   "score": 0.0962
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "throw",
+   "noun": "floor",
+   "score": 0.0957
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "take",
+   "noun": "lid",
+   "score": 0.0956
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "hummus",
+   "score": 0.0956
+  },
+  {
+   "segment": [
+    53.0,
+    61.0
+   ],
+   "verb": "insert",
+   "noun": "pasta",
+   "score": 0.0955
+  },
+  {
+   "segment": [
+    31.0,
+    35.0
+   ],
+   "verb": "sort",
+   "noun": "bread",
+   "score": 0.0942
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "bowl",
+   "score": 0.0934
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "pour",
+   "noun": "bag",
+   "score": 0.0931
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.0927
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "insert",
+   "noun": "milk",
+   "score": 0.0923
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "insert",
+   "noun": "milk",
+   "score": 0.0915
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "pour",
+   "noun": "vinegar",
+   "score": 0.0915
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "close",
+   "noun": "hummus",
+   "score": 0.091
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.0907
+  },
+  {
+   "segment": [
+    76.0,
+    80.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0904
+  },
+  {
+   "segment": [
+    27.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "hummus",
+   "score": 0.0901
+  },
+  {
+   "segment": [
+    0.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0896
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "open",
+   "noun": "lid",
+   "score": 0.0892
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "open",
+   "noun": "lid",
+   "score": 0.0891
+  },
+  {
+   "segment": [
+    32.0,
+    40.0
+   ],
+   "verb": "sort",
+   "noun": "hummus",
+   "score": 0.0884
+  },
+  {
+   "segment": [
+    41.0,
+    45.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.0882
+  },
+  {
+   "segment": [
+    76.0,
+    80.0
+   ],
+   "verb": "take",
+   "noun": "milk",
+   "score": 0.0881
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "close",
+   "noun": "bread",
+   "score": 0.0876
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "insert",
+   "noun": "food",
+   "score": 0.0867
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.0863
+  },
+  {
+   "segment": [
+    13.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0861
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.0854
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "open",
+   "noun": "box",
+   "score": 0.0851
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.0847
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0846
+  },
+  {
+   "segment": [
+    50.0,
+    54.0
+   ],
+   "verb": "pour",
+   "noun": "vinegar",
+   "score": 0.0841
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.0831
+  },
+  {
+   "segment": [
+    9.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "food",
+   "score": 0.0828
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.0825
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0814
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0813
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.0808
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.0804
+  },
+  {
+   "segment": [
+    41.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "lid",
+   "score": 0.0802
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0792
+  },
+  {
+   "segment": [
+    26.0,
+    34.0
+   ],
+   "verb": "insert",
+   "noun": "hummus",
+   "score": 0.079
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.0785
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.0781
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.078
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.078
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "put",
+   "noun": "hummus",
+   "score": 0.0778
+  },
+  {
+   "segment": [
+    53.0,
+    61.0
+   ],
+   "verb": "pour",
+   "noun": "sauce",
+   "score": 0.0777
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.076
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "pour",
+   "noun": "bread",
+   "score": 0.0755
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "open",
+   "noun": "vinegar",
+   "score": 0.075
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.0746
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0746
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.0745
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.0742
+  },
+  {
+   "segment": [
+    45.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.0738
+  },
+  {
+   "segment": [
+    47.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "sauce",
+   "score": 0.0738
+  },
+  {
+   "segment": [
+    77.0,
+    85.0
+   ],
+   "verb": "move",
+   "noun": "bread",
+   "score": 0.0733
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "box",
+   "score": 0.073
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.0728
+  },
+  {
+   "segment": [
+    45.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "hummus",
+   "score": 0.0727
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.0725
+  },
+  {
+   "segment": [
+    35.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.0724
+  },
+  {
+   "segment": [
+    5.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.0721
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "insert",
+   "noun": "spoon",
+   "score": 0.0718
+  },
+  {
+   "segment": [
+    52.0,
+    60.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.0715
+  },
+  {
+   "segment": [
+    4.0,
+    12.0
+   ],
+   "verb": "insert",
+   "noun": "plate",
+   "score": 0.0703
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0702
+  },
+  {
+   "segment": [
+    69.0,
+    73.0
+   ],
+   "verb": "put",
+   "noun": "vinegar",
+   "score": 0.0695
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "insert",
+   "noun": "box",
+   "score": 0.0689
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "oil",
+   "score": 0.0688
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.0686
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "box",
+   "score": 0.0682
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "remove",
+   "noun": "cupboard",
+   "score": 0.0677
+  },
+  {
+   "segment": [
+    42.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "backpack",
+   "score": 0.0674
+  },
+  {
+   "segment": [
+    71.0,
+    79.0
+   ],
+   "verb": "insert",
+   "noun": "food",
+   "score": 0.067
+  },
+  {
+   "segment": [
+    76.0,
+    80.0
+   ],
+   "verb": "take",
+   "noun": "sauce",
+   "score": 0.0664
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0663
+  },
+  {
+   "segment": [
+    70.0,
+    78.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0662
+  },
+  {
+   "segment": [
+    6.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.0661
+  },
+  {
+   "segment": [
+    65.0,
+    73.0
+   ],
+   "verb": "pour",
+   "noun": "bread",
+   "score": 0.0657
+  },
+  {
+   "segment": [
+    8.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.0655
+  },
+  {
+   "segment": [
+    7.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.065
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.0646
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.0645
+  },
+  {
+   "segment": [
+    71.0,
+    79.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.0643
+  },
+  {
+   "segment": [
+    49.0,
+    53.0
+   ],
+   "verb": "pour",
+   "noun": "sauce",
+   "score": 0.0642
+  },
+  {
+   "segment": [
+    55.0,
+    63.0
+   ],
+   "verb": "insert",
+   "noun": "sauce",
+   "score": 0.0642
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "bowl",
+   "score": 0.0641
+  },
+  {
+   "segment": [
+    35.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "hummus",
+   "score": 0.0639
+  },
+  {
+   "segment": [
+    70.0,
+    78.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.0639
+  },
+  {
+   "segment": [
+    28.0,
+    32.0
+   ],
+   "verb": "close",
+   "noun": "bread",
+   "score": 0.0637
+  },
+  {
+   "segment": [
+    72.0,
+    80.0
+   ],
+   "verb": "insert",
+   "noun": "top",
+   "score": 0.0634
+  },
+  {
+   "segment": [
+    74.0,
+    82.0
+   ],
+   "verb": "move",
+   "noun": "bread",
+   "score": 0.0633
+  },
+  {
+   "segment": [
+    67.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0625
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.0624
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "remove",
+   "noun": "knife",
+   "score": 0.0619
+  },
+  {
+   "segment": [
+    28.0,
+    32.0
+   ],
+   "verb": "close",
+   "noun": "box",
+   "score": 0.0618
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.0614
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "insert",
+   "noun": "spoon",
+   "score": 0.061
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "hummus",
+   "score": 0.0609
+  },
+  {
+   "segment": [
+    41.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "top",
+   "score": 0.0607
+  },
+  {
+   "segment": [
+    68.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "dough",
+   "score": 0.0605
+  },
+  {
+   "segment": [
+    63.0,
+    71.0
+   ],
+   "verb": "pour",
+   "noun": "vinegar",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    13.0,
+    17.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0599
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "insert",
+   "noun": "cheese",
+   "score": 0.0596
+  },
+  {
+   "segment": [
+    39.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0594
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "jug",
+   "score": 0.0593
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "sauce",
+   "score": 0.059
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.0587
+  },
+  {
+   "segment": [
+    29.0,
+    37.0
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.0581
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.0581
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.058
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.0578
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.0574
+  },
+  {
+   "segment": [
+    71.0,
+    79.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.0569
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "close",
+   "noun": "hummus",
+   "score": 0.0564
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "open",
+   "noun": "box",
+   "score": 0.0562
+  },
+  {
+   "segment": [
+    10.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0562
+  },
+  {
+   "segment": [
+    65.0,
+    73.0
+   ],
+   "verb": "pour",
+   "noun": "hummus",
+   "score": 0.0554
+  },
+  {
+   "segment": [
+    48.0,
+    52.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.0553
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "insert",
+   "noun": "hummus",
+   "score": 0.0548
+  },
+  {
+   "segment": [
+    47.0,
+    55.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.0547
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "move",
+   "noun": "bread",
+   "score": 0.0543
+  },
+  {
+   "segment": [
+    2.0,
+    10.0
+   ],
+   "verb": "dry",
+   "noun": "plate",
+   "score": 0.0539
+  },
+  {
+   "segment": [
+    52.0,
+    60.0
+   ],
+   "verb": "insert",
+   "noun": "sauce",
+   "score": 0.0531
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "bowl",
+   "score": 0.0529
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.0524
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "insert",
+   "noun": "food",
+   "score": 0.0517
+  },
+  {
+   "segment": [
+    42.0,
+    46.0
+   ],
+   "verb": "remove",
+   "noun": "backpack",
+   "score": 0.0515
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "box",
+   "score": 0.0506
+  },
+  {
+   "segment": [
+    75.0,
+    79.0
+   ],
+   "verb": "remove",
+   "noun": "milk",
+   "score": 0.0499
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.0489
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "insert",
+   "noun": "box",
+   "score": 0.0481
+  },
+  {
+   "segment": [
+    23.0,
+    27.0
+   ],
+   "verb": "insert",
+   "noun": "fridge",
+   "score": 0.0479
+  },
+  {
+   "segment": [
+    21.0,
+    29.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.0474
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.0473
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0473
+  },
+  {
+   "segment": [
+    6.0,
+    14.0
+   ],
+   "verb": "insert",
+   "noun": "food",
+   "score": 0.0469
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "close",
+   "noun": "plate",
+   "score": 0.0468
+  },
+  {
+   "segment": [
+    45.0,
+    49.0
+   ],
+   "verb": "open",
+   "noun": "hummus",
+   "score": 0.0468
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "remove",
+   "noun": "pasta",
+   "score": 0.0461
+  },
+  {
+   "segment": [
+    24.0,
+    32.0
+   ],
+   "verb": "insert",
+   "noun": "food",
+   "score": 0.046
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.0455
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0455
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "floor",
+   "score": 0.045
+  },
+  {
+   "segment": [
+    23.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "food",
+   "score": 0.045
+  },
+  {
+   "segment": [
+    21.0,
+    29.0
+   ],
+   "verb": "insert",
+   "noun": "hummus",
+   "score": 0.0448
+  },
+  {
+   "segment": [
+    39.0,
+    47.0
+   ],
+   "verb": "remove",
+   "noun": "top",
+   "score": 0.0442
+  },
+  {
+   "segment": [
+    41.0,
+    49.0
+   ],
+   "verb": "remove",
+   "noun": "lid",
+   "score": 0.0441
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "hummus",
+   "score": 0.0437
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "top",
+   "score": 0.0429
+  },
+  {
+   "segment": [
+    38.0,
+    46.0
+   ],
+   "verb": "remove",
+   "noun": "bread",
+   "score": 0.0428
+  },
+  {
+   "segment": [
+    22.0,
+    30.0
+   ],
+   "verb": "insert",
+   "noun": "box",
+   "score": 0.0427
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "pour",
+   "noun": "hummus",
+   "score": 0.042
+  },
+  {
+   "segment": [
+    35.0,
+    43.0
+   ],
+   "verb": "open",
+   "noun": "lid",
+   "score": 0.0419
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "throw",
+   "noun": "package",
+   "score": 0.0417
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "insert",
+   "noun": "stock",
+   "score": 0.0415
+  },
+  {
+   "segment": [
+    25.0,
+    33.0
+   ],
+   "verb": "insert",
+   "noun": "box",
+   "score": 0.0408
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "remove",
+   "noun": "sauce",
+   "score": 0.0406
+  },
+  {
+   "segment": [
+    42.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "leek",
+   "score": 0.0406
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0381
+  },
+  {
+   "segment": [
+    47.0,
+    51.0
+   ],
+   "verb": "insert",
+   "noun": "sauce",
+   "score": 0.0379
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "pour",
+   "noun": "knife",
+   "score": 0.0377
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0376
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "close",
+   "noun": "milk",
+   "score": 0.0372
+  },
+  {
+   "segment": [
+    44.0,
+    52.0
+   ],
+   "verb": "open",
+   "noun": "food",
+   "score": 0.0367
+  },
+  {
+   "segment": [
+    43.0,
+    51.0
+   ],
+   "verb": "open",
+   "noun": "lid",
+   "score": 0.0366
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "throw",
+   "noun": "lid",
+   "score": 0.0361
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "drawer",
+   "score": 0.0356
+  },
+  {
+   "segment": [
+    43.0,
+    51.0
+   ],
+   "verb": "open",
+   "noun": "rice",
+   "score": 0.0344
+  },
+  {
+   "segment": [
+    37.0,
+    45.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.0344
+  },
+  {
+   "segment": [
+    44.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.0344
+  },
+  {
+   "segment": [
+    43.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.0343
+  },
+  {
+   "segment": [
+    42.0,
+    50.0
+   ],
+   "verb": "remove",
+   "noun": "top",
+   "score": 0.0328
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.0325
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "insert",
+   "noun": "spoon",
+   "score": 0.0318
+  },
+  {
+   "segment": [
+    37.0,
+    45.0
+   ],
+   "verb": "remove",
+   "noun": "lid",
+   "score": 0.0318
+  },
+  {
+   "segment": [
+    73.0,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.0313
+  },
+  {
+   "segment": [
+    43.0,
+    47.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.031
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "backpack",
+   "score": 0.0302
+  },
+  {
+   "segment": [
+    38.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0299
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.029
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.028
+  },
+  {
+   "segment": [
+    24.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "food",
+   "score": 0.0278
+  },
+  {
+   "segment": [
+    36.0,
+    44.0
+   ],
+   "verb": "insert",
+   "noun": "lid",
+   "score": 0.0259
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.0237
+  },
+  {
+   "segment": [
+    72.0,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.0233
+  },
+  {
+   "segment": [
+    73.0,
+    77.0
+   ],
+   "verb": "insert",
+   "noun": "hummus",
+   "score": 0.0231
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "close",
+   "noun": "bread",
+   "score": 0.0173
+  },
+  {
+   "segment": [
+    3.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.0141
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "glass",
+   "score": 0.007
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0064
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "insert",
+   "noun": "cupboard",
+   "score": 0.003
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.0028
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    2.0,
+    6.0
+   ]
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ]
+  },
+  {
+   "segment": [
+    76.0,
+    80.0
+   ]
+  }
+ ]
+}

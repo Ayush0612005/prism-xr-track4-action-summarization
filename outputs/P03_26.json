@@ -1,0 +1,370 @@
+{
+ "team_id": "Toothpaste Eater",
+ "video_id": "P03_26",
+ "duration_sec": 11.14,
+ "label": {
+  "name": "cooking",
+  "score": 0.9759
+ },
+ "actions": [
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.5618
+  },
+  {
+   "segment": [
+    3.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.5337
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.3397
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.2657
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.2063
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.1772
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "insert",
+   "noun": "plate",
+   "score": 0.1733
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "insert",
+   "noun": "fridge",
+   "score": 0.1393
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.1258
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.1195
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "kitchen",
+   "score": 0.1059
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0946
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "close",
+   "noun": "plate",
+   "score": 0.0945
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "insert",
+   "noun": "food",
+   "score": 0.0874
+  },
+  {
+   "segment": [
+    0.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0862
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.0843
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "insert",
+   "noun": "cheese",
+   "score": 0.0792
+  },
+  {
+   "segment": [
+    7.0,
+    11.0
+   ],
+   "verb": "insert",
+   "noun": "fridge",
+   "score": 0.0777
+  },
+  {
+   "segment": [
+    4.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.0736
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "kitchen",
+   "score": 0.0725
+  },
+  {
+   "segment": [
+    3.0,
+    11.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.0712
+  },
+  {
+   "segment": [
+    3.0,
+    11.0
+   ],
+   "verb": "remove",
+   "noun": "cheese",
+   "score": 0.0691
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.0656
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "insert",
+   "noun": "grape",
+   "score": 0.0653
+  },
+  {
+   "segment": [
+    7.0,
+    11.0
+   ],
+   "verb": "search",
+   "noun": "fridge",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    5.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.0581
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.0567
+  },
+  {
+   "segment": [
+    2.0,
+    10.0
+   ],
+   "verb": "remove",
+   "noun": "plate",
+   "score": 0.0561
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0524
+  },
+  {
+   "segment": [
+    4.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "box",
+   "score": 0.0517
+  },
+  {
+   "segment": [
+    0.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "kitchen",
+   "score": 0.0433
+  },
+  {
+   "segment": [
+    3.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.0403
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.0401
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "remove",
+   "noun": "cheese",
+   "score": 0.0384
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.035
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "dry",
+   "noun": "plate",
+   "score": 0.0341
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.0333
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "lid",
+   "score": 0.0306
+  },
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "move",
+   "noun": "plate",
+   "score": 0.0158
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    2.0,
+    6.0
+   ]
+  }
+ ]
+}

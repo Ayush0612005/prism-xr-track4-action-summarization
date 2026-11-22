@@ -1,0 +1,4015 @@
+{
+ "team_id": "Toothpaste Eater",
+ "video_id": "P28_18",
+ "duration_sec": 120.28,
+ "label": {
+  "name": "cooking",
+  "score": 0.9997
+ },
+ "actions": [
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.9657
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.9601
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.9412
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.8826
+  },
+  {
+   "segment": [
+    3.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.8477
+  },
+  {
+   "segment": [
+    99.0,
+    103.0
+   ],
+   "verb": "look",
+   "noun": "book",
+   "score": 0.8336
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.7903
+  },
+  {
+   "segment": [
+    12.0,
+    20.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.7395
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.7377
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "cut",
+   "noun": "cheese",
+   "score": 0.7051
+  },
+  {
+   "segment": [
+    25.0,
+    29.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.6834
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.6721
+  },
+  {
+   "segment": [
+    101.0,
+    105.0
+   ],
+   "verb": "look",
+   "noun": "book",
+   "score": 0.6618
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.6348
+  },
+  {
+   "segment": [
+    8.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.6306
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.6222
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.6144
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.6099
+  },
+  {
+   "segment": [
+    13.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.608
+  },
+  {
+   "segment": [
+    107.0,
+    115.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.6067
+  },
+  {
+   "segment": [
+    9.0,
+    13.0
+   ],
+   "verb": "insert",
+   "noun": "plate",
+   "score": 0.6051
+  },
+  {
+   "segment": [
+    35.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.6038
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.5782
+  },
+  {
+   "segment": [
+    103.0,
+    107.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.5753
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.5555
+  },
+  {
+   "segment": [
+    73.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.5517
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.5291
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.5281
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "throw",
+   "noun": "package",
+   "score": 0.5266
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.5104
+  },
+  {
+   "segment": [
+    93.0,
+    97.0
+   ],
+   "verb": "put",
+   "noun": "wrap",
+   "score": 0.508
+  },
+  {
+   "segment": [
+    104.0,
+    112.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.5017
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "wrap",
+   "score": 0.4997
+  },
+  {
+   "segment": [
+    7.0,
+    11.0
+   ],
+   "verb": "insert",
+   "noun": "plate",
+   "score": 0.4985
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.4964
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.48
+  },
+  {
+   "segment": [
+    54.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.4787
+  },
+  {
+   "segment": [
+    28.0,
+    32.0
+   ],
+   "verb": "close",
+   "noun": "package",
+   "score": 0.4704
+  },
+  {
+   "segment": [
+    5.0,
+    9.0
+   ],
+   "verb": "insert",
+   "noun": "plate",
+   "score": 0.4697
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "remove",
+   "noun": "knife",
+   "score": 0.4566
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.4491
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.4372
+  },
+  {
+   "segment": [
+    36.0,
+    44.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.4315
+  },
+  {
+   "segment": [
+    5.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.4264
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.4001
+  },
+  {
+   "segment": [
+    24.0,
+    28.0
+   ],
+   "verb": "close",
+   "noun": "package",
+   "score": 0.4
+  },
+  {
+   "segment": [
+    65.0,
+    73.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.3924
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.3921
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.3849
+  },
+  {
+   "segment": [
+    4.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.3828
+  },
+  {
+   "segment": [
+    21.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.3818
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.3811
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.38
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.3698
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.3686
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.3645
+  },
+  {
+   "segment": [
+    110.0,
+    112.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.3584
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.3557
+  },
+  {
+   "segment": [
+    70.0,
+    78.0
+   ],
+   "verb": "close",
+   "noun": "package",
+   "score": 0.3541
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.3522
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.3427
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.3396
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.3294
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "cut",
+   "noun": "cheese",
+   "score": 0.3269
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.3258
+  },
+  {
+   "segment": [
+    31.0,
+    39.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.3182
+  },
+  {
+   "segment": [
+    20.0,
+    28.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.318
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "move",
+   "noun": "package",
+   "score": 0.3168
+  },
+  {
+   "segment": [
+    26.0,
+    34.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.3155
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.3141
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.314
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.3131
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.3061
+  },
+  {
+   "segment": [
+    101.0,
+    109.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.3048
+  },
+  {
+   "segment": [
+    113.0,
+    117.0
+   ],
+   "verb": "move",
+   "noun": "package",
+   "score": 0.3041
+  },
+  {
+   "segment": [
+    58.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.3038
+  },
+  {
+   "segment": [
+    0.0,
+    8.0
+   ],
+   "verb": "insert",
+   "noun": "plate",
+   "score": 0.3015
+  },
+  {
+   "segment": [
+    95.0,
+    99.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.2957
+  },
+  {
+   "segment": [
+    95.0,
+    103.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.2943
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.2938
+  },
+  {
+   "segment": [
+    75.0,
+    83.0
+   ],
+   "verb": "wrap",
+   "noun": "bread",
+   "score": 0.2927
+  },
+  {
+   "segment": [
+    110.0,
+    118.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.2914
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.2912
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.2911
+  },
+  {
+   "segment": [
+    46.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.2893
+  },
+  {
+   "segment": [
+    68.0,
+    76.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.2864
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.2857
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "wrap",
+   "score": 0.2846
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.2835
+  },
+  {
+   "segment": [
+    17.0,
+    25.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.2829
+  },
+  {
+   "segment": [
+    19.0,
+    23.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.2814
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.2807
+  },
+  {
+   "segment": [
+    70.0,
+    74.0
+   ],
+   "verb": "close",
+   "noun": "knife",
+   "score": 0.28
+  },
+  {
+   "segment": [
+    89.0,
+    97.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.2766
+  },
+  {
+   "segment": [
+    67.0,
+    75.0
+   ],
+   "verb": "close",
+   "noun": "package",
+   "score": 0.2748
+  },
+  {
+   "segment": [
+    100.0,
+    102.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.2745
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.2731
+  },
+  {
+   "segment": [
+    47.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.2649
+  },
+  {
+   "segment": [
+    102.0,
+    110.0
+   ],
+   "verb": "look",
+   "noun": "book",
+   "score": 0.2643
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.264
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.264
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.2626
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.2588
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "close",
+   "noun": "package",
+   "score": 0.2586
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.2552
+  },
+  {
+   "segment": [
+    50.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.2531
+  },
+  {
+   "segment": [
+    26.0,
+    30.0
+   ],
+   "verb": "close",
+   "noun": "package",
+   "score": 0.2527
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.2515
+  },
+  {
+   "segment": [
+    1.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.2509
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.2471
+  },
+  {
+   "segment": [
+    53.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.2455
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.2441
+  },
+  {
+   "segment": [
+    64.0,
+    72.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.2429
+  },
+  {
+   "segment": [
+    31.0,
+    39.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.2411
+  },
+  {
+   "segment": [
+    13.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.2398
+  },
+  {
+   "segment": [
+    91.0,
+    99.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.2397
+  },
+  {
+   "segment": [
+    86.0,
+    94.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.2394
+  },
+  {
+   "segment": [
+    44.0,
+    48.0
+   ],
+   "verb": "move",
+   "noun": "package",
+   "score": 0.2372
+  },
+  {
+   "segment": [
+    83.0,
+    87.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.2369
+  },
+  {
+   "segment": [
+    100.0,
+    102.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.2347
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.234
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "cut",
+   "noun": "cheese",
+   "score": 0.2335
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.2307
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.2302
+  },
+  {
+   "segment": [
+    43.0,
+    51.0
+   ],
+   "verb": "throw",
+   "noun": "package",
+   "score": 0.2262
+  },
+  {
+   "segment": [
+    38.0,
+    42.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.2247
+  },
+  {
+   "segment": [
+    43.0,
+    47.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.2244
+  },
+  {
+   "segment": [
+    27.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.2232
+  },
+  {
+   "segment": [
+    29.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.217
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.217
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.2162
+  },
+  {
+   "segment": [
+    43.0,
+    51.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.2159
+  },
+  {
+   "segment": [
+    111.0,
+    119.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.2136
+  },
+  {
+   "segment": [
+    95.0,
+    99.0
+   ],
+   "verb": "move",
+   "noun": "cheese",
+   "score": 0.2119
+  },
+  {
+   "segment": [
+    17.0,
+    25.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.2114
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.2093
+  },
+  {
+   "segment": [
+    78.0,
+    86.0
+   ],
+   "verb": "wrap",
+   "noun": "cheese",
+   "score": 0.2092
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "container",
+   "score": 0.2089
+  },
+  {
+   "segment": [
+    82.0,
+    90.0
+   ],
+   "verb": "cut",
+   "noun": "cheese",
+   "score": 0.2086
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.208
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "container",
+   "score": 0.2078
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.206
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "close",
+   "noun": "package",
+   "score": 0.2048
+  },
+  {
+   "segment": [
+    17.0,
+    21.0
+   ],
+   "verb": "move",
+   "noun": "package",
+   "score": 0.2031
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.2002
+  },
+  {
+   "segment": [
+    56.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1996
+  },
+  {
+   "segment": [
+    30.0,
+    34.0
+   ],
+   "verb": "close",
+   "noun": "package",
+   "score": 0.1992
+  },
+  {
+   "segment": [
+    38.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.1991
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.1987
+  },
+  {
+   "segment": [
+    106.0,
+    108.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.1977
+  },
+  {
+   "segment": [
+    86.0,
+    94.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.1969
+  },
+  {
+   "segment": [
+    44.0,
+    52.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1949
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "container",
+   "score": 0.1926
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.1925
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1925
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.1911
+  },
+  {
+   "segment": [
+    74.0,
+    82.0
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.191
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1861
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.1844
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.1844
+  },
+  {
+   "segment": [
+    96.0,
+    104.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.184
+  },
+  {
+   "segment": [
+    42.0,
+    46.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.1834
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.1819
+  },
+  {
+   "segment": [
+    56.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.1776
+  },
+  {
+   "segment": [
+    40.0,
+    48.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.1763
+  },
+  {
+   "segment": [
+    48.0,
+    56.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.176
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1749
+  },
+  {
+   "segment": [
+    56.0,
+    64.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.1745
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.1731
+  },
+  {
+   "segment": [
+    12.0,
+    20.0
+   ],
+   "verb": "remove",
+   "noun": "plate",
+   "score": 0.1719
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.1713
+  },
+  {
+   "segment": [
+    62.0,
+    70.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.1707
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1695
+  },
+  {
+   "segment": [
+    72.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.1659
+  },
+  {
+   "segment": [
+    10.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "plate",
+   "score": 0.1649
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "insert",
+   "noun": "cheese",
+   "score": 0.1647
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.1606
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1596
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.1595
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.1591
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.1589
+  },
+  {
+   "segment": [
+    66.0,
+    70.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.1587
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.1582
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "bread",
+   "score": 0.1575
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.1571
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "lid",
+   "score": 0.1564
+  },
+  {
+   "segment": [
+    68.0,
+    76.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.1546
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.1542
+  },
+  {
+   "segment": [
+    112.0,
+    120.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.1536
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.1533
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.1516
+  },
+  {
+   "segment": [
+    83.0,
+    87.0
+   ],
+   "verb": "remove",
+   "noun": "cheese",
+   "score": 0.149
+  },
+  {
+   "segment": [
+    93.0,
+    101.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.1477
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1472
+  },
+  {
+   "segment": [
+    115.0,
+    117.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.1459
+  },
+  {
+   "segment": [
+    105.0,
+    113.0
+   ],
+   "verb": "look",
+   "noun": "book",
+   "score": 0.1428
+  },
+  {
+   "segment": [
+    91.0,
+    95.0
+   ],
+   "verb": "open",
+   "noun": "wrap",
+   "score": 0.1422
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1413
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "container",
+   "score": 0.1409
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.1379
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "take",
+   "noun": "tea",
+   "score": 0.1376
+  },
+  {
+   "segment": [
+    19.0,
+    23.0
+   ],
+   "verb": "move",
+   "noun": "package",
+   "score": 0.1374
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.1373
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.137
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "insert",
+   "noun": "cheese",
+   "score": 0.1359
+  },
+  {
+   "segment": [
+    54.0,
+    62.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.1358
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.1356
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.1348
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.1338
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.1336
+  },
+  {
+   "segment": [
+    97.0,
+    101.0
+   ],
+   "verb": "look",
+   "noun": "book",
+   "score": 0.1297
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.1296
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "insert",
+   "noun": "wrap",
+   "score": 0.1295
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1287
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.1286
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "close",
+   "noun": "package",
+   "score": 0.1279
+  },
+  {
+   "segment": [
+    20.0,
+    28.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.1273
+  },
+  {
+   "segment": [
+    96.0,
+    100.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.1272
+  },
+  {
+   "segment": [
+    62.0,
+    66.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.1257
+  },
+  {
+   "segment": [
+    41.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.1256
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.1244
+  },
+  {
+   "segment": [
+    52.0,
+    60.0
+   ],
+   "verb": "insert",
+   "noun": "cheese",
+   "score": 0.1236
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "insert",
+   "noun": "cheese",
+   "score": 0.1234
+  },
+  {
+   "segment": [
+    74.0,
+    82.0
+   ],
+   "verb": "wrap",
+   "noun": "package",
+   "score": 0.1234
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "open",
+   "noun": "knife",
+   "score": 0.1231
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.1228
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "remove",
+   "noun": "cheese",
+   "score": 0.1228
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "insert",
+   "noun": "cupboard",
+   "score": 0.1226
+  },
+  {
+   "segment": [
+    55.0,
+    63.0
+   ],
+   "verb": "wrap",
+   "noun": "package",
+   "score": 0.1225
+  },
+  {
+   "segment": [
+    95.0,
+    99.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1224
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.1219
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.1211
+  },
+  {
+   "segment": [
+    39.0,
+    47.0
+   ],
+   "verb": "move",
+   "noun": "package",
+   "score": 0.1209
+  },
+  {
+   "segment": [
+    110.0,
+    114.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.1204
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.1201
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "wrap",
+   "score": 0.1199
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.1197
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.1197
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1195
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.1186
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "close",
+   "noun": "rubbish",
+   "score": 0.1184
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "container",
+   "score": 0.118
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1179
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.1173
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1157
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "take",
+   "noun": "bread",
+   "score": 0.1156
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "close",
+   "noun": "freezer",
+   "score": 0.1156
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1118
+  },
+  {
+   "segment": [
+    14.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1102
+  },
+  {
+   "segment": [
+    15.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "sausage",
+   "score": 0.1099
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "flour",
+   "score": 0.1099
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.1092
+  },
+  {
+   "segment": [
+    78.0,
+    86.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.108
+  },
+  {
+   "segment": [
+    13.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.108
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.1072
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.1065
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.1058
+  },
+  {
+   "segment": [
+    58.0,
+    62.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.1049
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.1048
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "cut",
+   "noun": "butter",
+   "score": 0.1046
+  },
+  {
+   "segment": [
+    46.0,
+    54.0
+   ],
+   "verb": "throw",
+   "noun": "package",
+   "score": 0.1037
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "open",
+   "noun": "garlic",
+   "score": 0.1037
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.103
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "insert",
+   "noun": "cheese",
+   "score": 0.1017
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.1015
+  },
+  {
+   "segment": [
+    33.0,
+    41.0
+   ],
+   "verb": "move",
+   "noun": "package",
+   "score": 0.1015
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0998
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "close",
+   "noun": "bottle",
+   "score": 0.0997
+  },
+  {
+   "segment": [
+    48.0,
+    52.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.0995
+  },
+  {
+   "segment": [
+    60.0,
+    68.0
+   ],
+   "verb": "remove",
+   "noun": "bread",
+   "score": 0.0994
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.098
+  },
+  {
+   "segment": [
+    52.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.0972
+  },
+  {
+   "segment": [
+    34.0,
+    38.0
+   ],
+   "verb": "peel",
+   "noun": "package",
+   "score": 0.0969
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.0964
+  },
+  {
+   "segment": [
+    36.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0953
+  },
+  {
+   "segment": [
+    91.0,
+    95.0
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.095
+  },
+  {
+   "segment": [
+    106.0,
+    108.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.0943
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "sausage",
+   "score": 0.094
+  },
+  {
+   "segment": [
+    60.0,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "bread",
+   "score": 0.0939
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "pour",
+   "noun": "knife",
+   "score": 0.0936
+  },
+  {
+   "segment": [
+    63.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.0934
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.0933
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "remove",
+   "noun": "courgette",
+   "score": 0.0929
+  },
+  {
+   "segment": [
+    59.0,
+    67.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.0925
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "open",
+   "noun": "knife",
+   "score": 0.0923
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.0908
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.0902
+  },
+  {
+   "segment": [
+    115.0,
+    117.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0901
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.0899
+  },
+  {
+   "segment": [
+    70.0,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.0896
+  },
+  {
+   "segment": [
+    27.0,
+    35.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.0895
+  },
+  {
+   "segment": [
+    104.0,
+    112.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.0888
+  },
+  {
+   "segment": [
+    59.0,
+    67.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0888
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.0884
+  },
+  {
+   "segment": [
+    62.0,
+    66.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.0882
+  },
+  {
+   "segment": [
+    87.0,
+    91.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.0873
+  },
+  {
+   "segment": [
+    90.0,
+    94.0
+   ],
+   "verb": "open",
+   "noun": "dough",
+   "score": 0.0869
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "cut",
+   "noun": "package",
+   "score": 0.0866
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "scoop",
+   "noun": "yoghurt",
+   "score": 0.0857
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.0854
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "close",
+   "noun": "lid",
+   "score": 0.0854
+  },
+  {
+   "segment": [
+    115.0,
+    117.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.0848
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.0843
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "throw",
+   "noun": "package",
+   "score": 0.0838
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.0832
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.0827
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.0825
+  },
+  {
+   "segment": [
+    114.0,
+    118.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.0824
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "insert",
+   "noun": "plate",
+   "score": 0.0818
+  },
+  {
+   "segment": [
+    14.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "top",
+   "score": 0.0812
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "box",
+   "score": 0.0808
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.0807
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0803
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "container",
+   "score": 0.0802
+  },
+  {
+   "segment": [
+    85.0,
+    89.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.0802
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.08
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "turmeric",
+   "score": 0.0798
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "take",
+   "noun": "food",
+   "score": 0.079
+  },
+  {
+   "segment": [
+    15.0,
+    19.0
+   ],
+   "verb": "move",
+   "noun": "package",
+   "score": 0.0789
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "open",
+   "noun": "knife",
+   "score": 0.0787
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "pour",
+   "noun": "cupboard",
+   "score": 0.0787
+  },
+  {
+   "segment": [
+    62.0,
+    70.0
+   ],
+   "verb": "close",
+   "noun": "package",
+   "score": 0.0787
+  },
+  {
+   "segment": [
+    91.0,
+    99.0
+   ],
+   "verb": "cut",
+   "noun": "package",
+   "score": 0.0784
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "insert",
+   "noun": "cheese",
+   "score": 0.0783
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "insert",
+   "noun": "cheese",
+   "score": 0.0776
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0775
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.0769
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.0766
+  },
+  {
+   "segment": [
+    84.0,
+    88.0
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.0765
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.0765
+  },
+  {
+   "segment": [
+    78.0,
+    86.0
+   ],
+   "verb": "wrap",
+   "noun": "bread",
+   "score": 0.0764
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "cut",
+   "noun": "package",
+   "score": 0.0758
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0757
+  },
+  {
+   "segment": [
+    79.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.0752
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.0746
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.0744
+  },
+  {
+   "segment": [
+    95.0,
+    103.0
+   ],
+   "verb": "look",
+   "noun": "box",
+   "score": 0.0744
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.0742
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "look",
+   "noun": "package",
+   "score": 0.0741
+  },
+  {
+   "segment": [
+    33.0,
+    37.0
+   ],
+   "verb": "remove",
+   "noun": "courgette",
+   "score": 0.0739
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "open",
+   "noun": "oil",
+   "score": 0.0738
+  },
+  {
+   "segment": [
+    36.0,
+    44.0
+   ],
+   "verb": "cut",
+   "noun": "package",
+   "score": 0.0735
+  },
+  {
+   "segment": [
+    73.0,
+    77.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.0732
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0727
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.0723
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0717
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0717
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "sausage",
+   "score": 0.0706
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "close",
+   "noun": "wrap",
+   "score": 0.0703
+  },
+  {
+   "segment": [
+    60.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "wrap",
+   "score": 0.0702
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.07
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.07
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "courgette",
+   "score": 0.0695
+  },
+  {
+   "segment": [
+    50.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.0691
+  },
+  {
+   "segment": [
+    116.0,
+    120.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.069
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.069
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.069
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.0688
+  },
+  {
+   "segment": [
+    108.0,
+    116.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0685
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.0682
+  },
+  {
+   "segment": [
+    47.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0677
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "insert",
+   "noun": "cheese",
+   "score": 0.0676
+  },
+  {
+   "segment": [
+    108.0,
+    116.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.0674
+  },
+  {
+   "segment": [
+    110.0,
+    112.0
+   ],
+   "verb": "look",
+   "noun": "cheese",
+   "score": 0.0672
+  },
+  {
+   "segment": [
+    60.0,
+    64.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.0669
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0668
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "lid",
+   "score": 0.0666
+  },
+  {
+   "segment": [
+    35.0,
+    43.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.0662
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "scoop",
+   "noun": "knife",
+   "score": 0.0647
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.0637
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "look",
+   "noun": "cheese",
+   "score": 0.0635
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0628
+  },
+  {
+   "segment": [
+    77.0,
+    85.0
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.0625
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "insert",
+   "noun": "cheese",
+   "score": 0.062
+  },
+  {
+   "segment": [
+    110.0,
+    114.0
+   ],
+   "verb": "look",
+   "noun": "book",
+   "score": 0.0619
+  },
+  {
+   "segment": [
+    105.0,
+    109.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.0619
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "garlic",
+   "score": 0.0615
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "look",
+   "noun": "knife",
+   "score": 0.0615
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.0613
+  },
+  {
+   "segment": [
+    32.0,
+    36.0
+   ],
+   "verb": "peel",
+   "noun": "package",
+   "score": 0.0612
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "food",
+   "score": 0.0606
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "remove",
+   "noun": "knife",
+   "score": 0.0604
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "cut",
+   "noun": "package",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.0597
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "remove",
+   "noun": "wrap",
+   "score": 0.0597
+  },
+  {
+   "segment": [
+    85.0,
+    93.0
+   ],
+   "verb": "cut",
+   "noun": "cheese",
+   "score": 0.0595
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.0592
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "remove",
+   "noun": "bottle",
+   "score": 0.0587
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "scoop",
+   "noun": "knife",
+   "score": 0.0587
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "open",
+   "noun": "rice",
+   "score": 0.0586
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "wrap",
+   "noun": "package",
+   "score": 0.0579
+  },
+  {
+   "segment": [
+    65.0,
+    73.0
+   ],
+   "verb": "peel",
+   "noun": "package",
+   "score": 0.0579
+  },
+  {
+   "segment": [
+    86.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.0571
+  },
+  {
+   "segment": [
+    94.0,
+    102.0
+   ],
+   "verb": "cut",
+   "noun": "package",
+   "score": 0.0568
+  },
+  {
+   "segment": [
+    88.0,
+    96.0
+   ],
+   "verb": "cut",
+   "noun": "cheese",
+   "score": 0.0566
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "wrap",
+   "noun": "cheese",
+   "score": 0.0565
+  },
+  {
+   "segment": [
+    72.0,
+    76.0
+   ],
+   "verb": "close",
+   "noun": "knife",
+   "score": 0.0561
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0555
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.0555
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "insert",
+   "noun": "butter",
+   "score": 0.0552
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.0551
+  },
+  {
+   "segment": [
+    71.0,
+    79.0
+   ],
+   "verb": "wrap",
+   "noun": "package",
+   "score": 0.055
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "move",
+   "noun": "package",
+   "score": 0.0546
+  },
+  {
+   "segment": [
+    86.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.0545
+  },
+  {
+   "segment": [
+    68.0,
+    72.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.0543
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "look",
+   "noun": "cheese",
+   "score": 0.0536
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "pepper",
+   "score": 0.053
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0527
+  },
+  {
+   "segment": [
+    116.0,
+    120.0
+   ],
+   "verb": "open",
+   "noun": "oil",
+   "score": 0.052
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "close",
+   "noun": "container",
+   "score": 0.0513
+  },
+  {
+   "segment": [
+    44.0,
+    48.0
+   ],
+   "verb": "move",
+   "noun": "rubbish",
+   "score": 0.0505
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "scoop",
+   "noun": "stock",
+   "score": 0.0491
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.0481
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "take",
+   "noun": "water",
+   "score": 0.0472
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "foil",
+   "score": 0.0469
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "look",
+   "noun": "recipe",
+   "score": 0.0468
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "box",
+   "score": 0.0455
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "container",
+   "score": 0.0447
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.0445
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "cheese",
+   "score": 0.0444
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.0442
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "close",
+   "noun": "bottle",
+   "score": 0.0441
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "remove",
+   "noun": "cap",
+   "score": 0.0422
+  },
+  {
+   "segment": [
+    84.0,
+    92.0
+   ],
+   "verb": "scoop",
+   "noun": "cheese",
+   "score": 0.0417
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.0414
+  },
+  {
+   "segment": [
+    63.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.0409
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "pour",
+   "noun": "package",
+   "score": 0.0402
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.0398
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "look",
+   "noun": "box",
+   "score": 0.0355
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.0355
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0354
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0349
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "pour",
+   "noun": "knife",
+   "score": 0.0344
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "insert",
+   "noun": "package",
+   "score": 0.033
+  },
+  {
+   "segment": [
+    98.0,
+    106.0
+   ],
+   "verb": "look",
+   "noun": "box",
+   "score": 0.0321
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.026
+  },
+  {
+   "segment": [
+    75.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.0237
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.0236
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0194
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "open",
+   "noun": "knife",
+   "score": 0.018
+  },
+  {
+   "segment": [
+    99.0,
+    103.0
+   ],
+   "verb": "check",
+   "noun": "book",
+   "score": 0.0156
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.0092
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    13.0,
+    17.0
+   ]
+  },
+  {
+   "segment": [
+    51.0,
+    55.0
+   ]
+  },
+  {
+   "segment": [
+    60.0,
+    64.0
+   ]
+  },
+  {
+   "segment": [
+    96.0,
+    100.0
+   ]
+  }
+ ]
+}
