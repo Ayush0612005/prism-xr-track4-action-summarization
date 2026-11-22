@@ -10,14 +10,15 @@ distinct actions as possible. One JSON per video, in the official Track 4 format
 ./run.sh <video.mp4> <out.json>
 ```
 
-## Results so far
+## Results
 
 Numbers below are measured on our own runs. The official scores use hidden ground truth we do not have.
 
 | Item | Value |
 |---|---|
-| Outputs produced | see `outputs/` (FPVSum 47/49; EPIC in progress) |
-| Validator (`tools/validate.py --dir outputs`) | 0 errors |
+| Outputs produced | **185 / 187**: EPIC-KITCHENS 138/138, FPVSum 47/49 |
+| Validator (`tools/validate.py --dir outputs`) | 185 files, 0 errors, 0 warnings |
+| Reproducibility | Docker image on GPU (fp16, no network) vs. GitHub runner on CPU (fp32) for `P01_13`: identical label and highlights, 357/358 identical actions |
 | FPVSum label accuracy vs. the category in the file name (development check only, never used by the pipeline) | 39/47 = 0.83 |
 | Speed, RTX 3050 6 GB laptop | about 10 s per FPVSum video (2-6 min long); 94 s EPIC video in 20 s |
 | Speed, CPU only | about 2x real time |
@@ -121,7 +122,9 @@ Environment variables: `TEAM_ID` (default `Toothpaste Eater`), `DECODE_FPS` (4),
   then `python tools/run_batch.py videos/fpvsum outputs/`.
 * **EPIC-KITCHENS-100 (138 videos, about 184 GB):** `python kaggle/run_epic.py --shard 0/1 --out outputs/` downloads
   each video with the official `epic-kitchens-download-scripts`, runs the pipeline and deletes the video. We ran it
-  as 20 parallel shards with `.github/workflows/epic.yml`.
+  as 20 parallel shards with `.github/workflows/epic.yml`. The first pass produced 117 videos; 21 failed
+  because of truncated downloads under parallel load or one hung download. Downloads are now checked against the
+  official MD5 list, and the 21 were re-run with `-f ids=...`; all 21 then succeeded with verified MD5s.
 * `python tools/validate.py --dir outputs/ --expect-all`
 
 ## Data and models used
